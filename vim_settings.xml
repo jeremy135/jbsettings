@@ -558,6 +558,13 @@
         <mark key="." line="243" column="0" />
         <mark key="^" line="243" column="43" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" timestamp="1494163982106">
+        <mark key="'" line="26" column="40" />
+        <mark key="[" line="181" column="10" />
+        <mark key="]" line="181" column="3" />
+        <mark key="^" line="181" column="3" />
+        <mark key="." line="181" column="3" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
         <mark key="[" line="80" column="28" />
         <mark key="]" line="80" column="56" />
@@ -613,10 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
-      <jump line="72" column="10" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
-      <jump line="38" column="2" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
-      <jump line="7" column="11" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
       <jump line="304" column="34" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="27" column="30" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="138" column="14" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
@@ -713,61 +716,64 @@
       <jump line="336" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="317" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="181" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
+      <jump line="182" column="74" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
+      <jump line="177" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
+      <jump line="32" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
+      <jump line="26" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoIFF1ZXVlcycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">b2ZmaWNlSWQ6IHZhbHVlcyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">b2ZmaWNlSWQ6IHZhbHVlcyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</text>
+        <text encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnN0YXJ0T2YoJ3dlZWsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoIFF1ZXVlcycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnN0YXRlLm9mZmljZUlkJywgdGhpcy5zdGF0ZS5vZmZpY2VJZCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoIFF1ZXVlcycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RheUluV2VlaycsIGRheS53ZWVrZGF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuZm9ybWF0KGRhdGVGb3JtYXQpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuZW5kT2YoJ3dlZWsnKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RheUluV2VlaycsIGRheS53ZWVrZGF5KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZW5kT2YoJ21vbnRoJykK</text>
+        <text encoding="base64">ICAgICAgICAuZm9ybWF0KGRhdGVGb3JtYXQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCBtb21lbnQoYCR7eWVhcn0tJHttb250aH0tMDFgLCBkYXRlRm9ybWF0KQo=</text>
+        <text encoding="base64">ICAgICAgICAuZW5kT2YoJ3dlZWsnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3ZWVrcycsIHdlZWtzKTsK</text>
+        <text encoding="base64">ICAgICAgICAuZW5kT2YoJ21vbnRoJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</last-search>
+      <last-search encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJSdWxlc1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2Vyc1w+</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxmb3JtYXRNZXNzYWdlXD4=</entry>
@@ -787,6 +793,7 @@
         <entry encoding="base64">XDxwdW5jdHVhbGl0eVBvcHVwVmlzaWJsZVw+</entry>
         <entry encoding="base64">XDxvcGVuUHVuY3R1YWxpdHlQb3B1cFw+</entry>
         <entry encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

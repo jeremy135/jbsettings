@@ -465,6 +465,12 @@
         <mark key="." line="245" column="60" />
         <mark key="^" line="245" column="60" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/routes/settings.js" timestamp="1494422690616">
+        <mark key="[" line="66" column="6" />
+        <mark key="]" line="68" column="30" />
+        <mark key="^" line="68" column="30" />
+        <mark key="." line="68" column="30" />
+      </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="41" column="0" />
@@ -611,11 +617,11 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494422301447">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494422614139">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CollapseExpand/CollapseExpand.js" timestamp="1490451878043">
         <mark key="'" line="23" column="9" />
@@ -748,7 +754,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">b2ZmaWNlSWQ6IHZhbHVlcyA=</text>
@@ -760,28 +766,28 @@
         <text encoding="base64">ICAgICAgLnN0YXJ0T2YoJ3dlZWsnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZWRpdFdvcmtBY3Rpdml0eTogKGRhdGEsIHN1Y2Nlc3NDYikgPT4gZGlzcGF0Y2goZWRpdFdvcmtBY3Rpdml0eShkYXRhLCBzdWNjZXNzQ2IpKSwK</text>
+        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZWRpdFdvcmtBY3Rpdml0eTogKGRhdGEsIHN1Y2Nlc3NDYikgPT4gZGlzcGF0Y2goZWRpdFdvcmtBY3Rpdml0eShkYXRhLCBzdWNjZXNzQ2IpKSwK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHsgZWRpdFdvcmtBY3Rpdml0eSB9IGZyb20gJ2Zyb250ZW5kL2J1bmRsZXMvc2V0dGluZ3MvYWN0aW9uQ3JlYXRvcnMvd29ya0FjdGl2aXR5JzsK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnN0YXRlLm9mZmljZUlkJywgdGhpcy5zdGF0ZS5vZmZpY2VJZCk7Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoIFF1ZXVlcycpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2ZldGNoIFF1ZXVlcycpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Byb3BzJywgcHJvcHMpOwo=</text>

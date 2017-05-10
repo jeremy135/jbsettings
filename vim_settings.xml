@@ -54,6 +54,7 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Calendar/index.js" timestamp="1494419904652" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/index.js" timestamp="1491124765737">
         <mark key="'" line="1" column="63" />
         <mark key="[" line="1" column="97" />
@@ -278,7 +279,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorMonth/OperatorMonthContainer.js" timestamp="1494126025620" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -550,6 +550,12 @@
         <mark key="]" line="70" column="36" />
         <mark key="." line="70" column="36" />
         <mark key="^" line="70" column="36" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/index.js" timestamp="1494419961710">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" timestamp="1491835140956">
         <mark key="'" line="133" column="2" />

@@ -213,7 +213,12 @@
         <mark key="." line="37" column="12" />
         <mark key="^" line="37" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" timestamp="1494426141780" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" timestamp="1494511665202">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="64" column="54" />
+        <mark key="]" line="64" column="54" />
+        <mark key="." line="64" column="54" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -660,10 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
-      <jump line="195" column="97" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
-      <jump line="186" column="89" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
-      <jump line="305" column="80" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="43" column="2" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="45" column="2" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="166" column="47" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
@@ -760,16 +761,20 @@
       <jump line="18" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" />
       <jump line="22" column="131" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" />
       <jump line="86" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" />
+      <jump line="64" column="38" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
+      <jump line="60" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
+      <jump line="56" column="115" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
+      <jump line="20" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRIZWlnaHRPZlRhYmxlXD4=</text>
+        <text encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb3RpZmljYXRpb25zLnN1Y2Nlc3MoPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9IkJhbGFuY2VyU2V0dGluZ3Mud29ya19kYXlfbWF4X2xlbmd0aF9zYXZlX3N1Y2Nlc3MiIGRlZmF1bHRNZXNzYWdlPSLQnNCw0LrRgdC40LzQsNC70YzQvdCw0Y8g0LTQu9C40L3QsCDRgNCw0LHQvtGH0LXQs9C+INC00L3RjyDRgdC+0YXRgNCw0L3QtdC90LAiLz4pCg==</text>
@@ -806,16 +811,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRIZWlnaHRPZlRhYmxlXD4=</last-search>
+      <last-search encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRIZWlnaHRPZlRhYmxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtYXRNZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxBY3Rpdml0eVNlbGVjdE1hdGVyaWFsQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlQWN0aXZpdGllc1w+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUluZGV4XD4=</entry>
@@ -834,6 +837,8 @@
         <entry encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</entry>
         <entry encoding="base64">XDxUYWJsZVw+</entry>
         <entry encoding="base64">XDxnZXRIZWlnaHRPZlRhYmxlXD4=</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSX0RBWVNcPg==</entry>
+        <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

@@ -9,11 +9,10 @@
         <mark key="^" line="77" column="12" />
         <mark key="." line="77" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1494517180687">
-        <mark key="[" line="97" column="8" />
-        <mark key="]" line="99" column="21" />
-        <mark key="." line="99" column="21" />
-        <mark key="^" line="99" column="21" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1494522352104">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1492777799450">
         <mark key="'" line="3" column="45" />
@@ -81,12 +80,12 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494517220299">
-        <mark key="'" line="457" column="16" />
-        <mark key="[" line="362" column="35" />
-        <mark key="]" line="362" column="41" />
-        <mark key="." line="362" column="41" />
-        <mark key="^" line="362" column="41" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494522296504">
+        <mark key="'" line="456" column="16" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="^" line="400" column="87" />
+        <mark key="." line="404" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/ChangeQueueForm.js" timestamp="1491326008390">
         <mark key="'" line="60" column="29" />
@@ -439,7 +438,7 @@
         <mark key="^" line="273" column="18" />
         <mark key="." line="273" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1492097156368">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1494521381278">
         <mark key="[" line="132" column="30" />
         <mark key="]" line="132" column="35" />
         <mark key="." line="132" column="35" />
@@ -786,44 +785,44 @@
       <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>width: '50px',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>width: '50px',</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>.sort(sortByName)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdDogJzhweCcsCiAgICAgICAgcGFkZGluZ1JpZ2h0OiAnOHB4JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb2x1bW5zJywgY29sdW1ucyk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICcxMDBweCcsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIZWxsbyBraXR0eSEK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwo=</text>
+        <text encoding="base64">ICAgICAgbGFiZWw6IDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJXb3JrQWN0aXZpdHkuY29sb3IiIGRlZmF1bHRNZXNzYWdlPSLQptCy0LXRgiIvPiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZWRpdFdvcmtBY3Rpdml0eTogKGRhdGEsIHN1Y2Nlc3NDYikgPT4gZGlzcGF0Y2goZWRpdFdvcmtBY3Rpdml0eShkYXRhLCBzdWNjZXNzQ2IpKSwK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICc1MHB4JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZWRpdFdvcmtBY3Rpdml0eSB9IGZyb20gJ2Zyb250ZW5kL2J1bmRsZXMvc2V0dGluZ3MvYWN0aW9uQ3JlYXRvcnMvd29ya0FjdGl2aXR5JzsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

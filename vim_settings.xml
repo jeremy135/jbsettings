@@ -9,6 +9,12 @@
         <mark key="^" line="77" column="12" />
         <mark key="." line="77" column="12" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1494517180687">
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="99" column="21" />
+        <mark key="." line="99" column="21" />
+        <mark key="^" line="99" column="21" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1492777799450">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="7" column="46" />
@@ -74,6 +80,13 @@
         <mark key="]" line="36" column="4" />
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494517220299">
+        <mark key="'" line="457" column="16" />
+        <mark key="[" line="362" column="35" />
+        <mark key="]" line="362" column="41" />
+        <mark key="." line="362" column="41" />
+        <mark key="^" line="362" column="41" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/ChangeQueueForm.js" timestamp="1491326008390">
         <mark key="'" line="60" column="29" />
@@ -671,9 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
-      <jump line="16" column="57" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
-      <jump line="132" column="20" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateForm.js" />
       <jump line="52" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
       <jump line="51" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
       <jump line="50" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
@@ -771,61 +781,63 @@
       <jump line="181" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="144" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="322" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
+      <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
+      <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
+      <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.sort(sortByName)</text>
+        <text>width: '50px',</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>width: '50px',</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJRdWV1ZVw+</text>
+        <text encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>.sort(sortByName)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb2x1bW5zJywgY29sdW1ucyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidXNlIHN0cmljdCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIZWxsbyBraXR0eSEK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBIZWxsbyBraXR0eSEK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkTWVzc2FnZSB9IGZyb20gJ3JlYWN0LWludGwnOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZWRpdFdvcmtBY3Rpdml0eTogKGRhdGEsIHN1Y2Nlc3NDYikgPT4gZGlzcGF0Y2goZWRpdFdvcmtBY3Rpdml0eShkYXRhLCBzdWNjZXNzQ2IpKSwK</text>
+        <text encoding="base64">ICAgICAgYWN0aXZpdGllczogc3RhdGUuc2V0dGluZ3Mud29ya0FjdGl2aXRpZXMsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZWRpdFdvcmtBY3Rpdml0eSB9IGZyb20gJ2Zyb250ZW5kL2J1bmRsZXMvc2V0dGluZ3MvYWN0aW9uQ3JlYXRvcnMvd29ya0FjdGl2aXR5JzsK</text>
+        <text encoding="base64">ICAgICAgZWRpdFdvcmtBY3Rpdml0eTogKGRhdGEsIHN1Y2Nlc3NDYikgPT4gZGlzcGF0Y2goZWRpdFdvcmtBY3Rpdml0eShkYXRhLCBzdWNjZXNzQ2IpKSwK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZWRpdFdvcmtBY3Rpdml0eSB9IGZyb20gJ2Zyb250ZW5kL2J1bmRsZXMvc2V0dGluZ3MvYWN0aW9uQ3JlYXRvcnMvd29ya0FjdGl2aXR5JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJRdWV1ZVw+</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJRdWV1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBsYWNlQWN0aXZpdGllc1w+</entry>
         <entry encoding="base64">XDxhY3Rpdml0eUluZGV4XD4=</entry>
         <entry encoding="base64">XDxsb2FkR2xvYmFsU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxmZXRjaEdsb2JhbFNldHRpbmdzXD4=</entry>
@@ -845,6 +857,7 @@
         <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSX0RBWVNcPg==</entry>
         <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWV1ZVw+</entry>
+        <entry encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>
@@ -853,8 +866,8 @@
         <entry>e</entry>
         <entry>ww</entry>
         <entry>q</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

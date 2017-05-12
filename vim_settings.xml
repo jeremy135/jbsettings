@@ -27,6 +27,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="16" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Popup/Popup.js" timestamp="1494596909584">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="45" column="13" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctualityContainer.js" timestamp="1494595426393">
         <mark key="[" line="16" column="54" />
         <mark key="]" line="17" column="41" />
@@ -231,7 +235,7 @@
         <mark key="." line="37" column="12" />
         <mark key="^" line="37" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" timestamp="1494511665202">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" timestamp="1494598438230">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="64" column="54" />
         <mark key="]" line="64" column="54" />
@@ -315,11 +319,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" timestamp="1494595595831">
-        <mark key="[" line="216" column="76" />
-        <mark key="]" line="216" column="115" />
-        <mark key="^" line="216" column="115" />
-        <mark key="." line="216" column="115" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" timestamp="1494597300302">
+        <mark key="[" line="146" column="48" />
+        <mark key="]" line="146" column="51" />
+        <mark key="." line="146" column="51" />
+        <mark key="^" line="146" column="51" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
@@ -450,11 +454,11 @@
         <mark key="^" line="273" column="18" />
         <mark key="." line="273" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1494521381278">
-        <mark key="[" line="132" column="30" />
-        <mark key="]" line="132" column="35" />
-        <mark key="." line="132" column="35" />
-        <mark key="^" line="132" column="35" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1494598411164">
+        <mark key="[" line="19" column="85" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/templates/ssl-widget.component.html" timestamp="1489922218460">
         <mark key="'" line="23" column="0" />
@@ -521,12 +525,12 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494594746567">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="154" column="21" />
-        <mark key="." line="15" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494597444073">
+        <mark key="'" line="335" column="2" />
+        <mark key="[" line="437" column="57" />
+        <mark key="]" line="437" column="67" />
+        <mark key="^" line="437" column="67" />
+        <mark key="." line="437" column="67" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorMonth/OperatorMonth.js" timestamp="1494128364719">
         <mark key="[" line="56" column="28" />
@@ -663,12 +667,12 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494425658554">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="84" column="172" />
-        <mark key="]" line="84" column="172" />
-        <mark key="." line="84" column="172" />
-        <mark key="^" line="84" column="172" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494598891471">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="99" column="21" />
+        <mark key="]" line="104" column="144" />
+        <mark key="^" line="104" column="144" />
+        <mark key="." line="104" column="144" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CollapseExpand/CollapseExpand.js" timestamp="1490451878043">
         <mark key="'" line="23" column="9" />
@@ -698,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="32" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="243" column="16" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="171" column="10" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="133" column="2" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
@@ -765,9 +768,7 @@
       <jump line="4" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/schedule.js" />
       <jump line="15" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="16" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="431" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="336" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="317" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="181" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
       <jump line="182" column="74" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
       <jump line="177" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
@@ -790,77 +791,77 @@
       <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
-      <jump line="87" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="319" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="25" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="142" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" />
       <jump line="54" column="63" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
       <jump line="44" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
       <jump line="59" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
       <jump line="57" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
+      <jump line="317" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="87" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="319" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="25" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="431" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="335" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.locale(this.props.localeLanguage)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text>.locale(this.props.localeLanguage)</text>
+        <text encoding="base64">OiA8c3Bhbj57dGhpcy5zdGF0ZS5XT1JLX0RBWV9NQVhfTEVOR1RIfTwvc3Bhbj4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</text>
+        <text>Balan</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdDogJzhweCcsCiAgICAgICAgcGFkZGluZ1JpZ2h0OiAnOHB4JywK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidXR0b24taWNvbiBidXR0b24taWNvbi0tY2xvc2Utd2hpdGUgcG9wdXBfX2Nsb3NlLWJ1dHRvbiIKICAgICAgICAgICAgLz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJCYWxhbmNlclNldHRpbmdzLmFjdGl2aXR5Rm9yV29ya2luZ09mZiIgZGVmYXVsdE1lc3NhZ2U9ItCQ0LrRgtC40LLQvdC+0YHRgtGMINC00LvRjyDQvtGC0YDQsNCx0L7RgtC60LgiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICcxMDBweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ib3MtZm9ybV9fbGFiZWwiPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBibG9ja2VkUmVwbGFjZW1lbnRzOiB0aGlzLnByb3BzLmFjdGl2aXRpZXNbaW5kZXhdLmJsb2NrZWRSZXBsYWNlbWVudHMsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpdml0eUluZGV4OiBpbmRleCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWw6IDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJXb3JrQWN0aXZpdHkuY29sb3IiIGRlZmF1bHRNZXNzYWdlPSLQptCy0LXRgiIvPiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICc1MHB4JywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</last-search>
+      <last-search>Balan</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>Balan</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkR2xvYmFsU2V0dGluZ3NcPg==</entry>
-        <entry encoding="base64">XDxmZXRjaEdsb2JhbFNldHRpbmdzXD4=</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxDb250ZXh0TWVudVw+</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zRm9yRmlyc3ROYW1lXD4=</entry>
         <entry encoding="base64">XDxicm93c2VySGlzdG9yeVw+</entry>
         <entry>push</entry>
         <entry encoding="base64">XDxPcGVyYXRvclB1bmN0dWFsaXR5Q29udGFpbmVyXD4=</entry>
-        <entry encoding="base64">XDxzZXRQdW5jdHVhbGl0eVBvcHVwVmlzaWJpbGl0eVw+</entry>
         <entry encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</entry>
         <entry encoding="base64">XDxUYWJsZVw+</entry>
@@ -869,19 +870,22 @@
         <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWV1ZVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</entry>
         <entry encoding="base64">XDxvcGVuUHVuY3R1YWxpdHlQb3B1cFw+</entry>
         <entry encoding="base64">XDxwdW5jdHVhbGl0eVBvcHVwVmlzaWJsZVw+</entry>
-        <entry encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</entry>
+        <entry encoding="base64">XDxzZXRQdW5jdHVhbGl0eVBvcHVwVmlzaWJpbGl0eVw+</entry>
+        <entry>Balancer</entry>
+        <entry>Balan</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>79</entry>
-        <entry>e</entry>
         <entry>ww</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

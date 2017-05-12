@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1492616966637">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1494595409396">
         <mark key="[" line="76" column="4" />
         <mark key="]" line="77" column="12" />
         <mark key="^" line="77" column="12" />
@@ -26,6 +26,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="10" column="16" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctualityContainer.js" timestamp="1494595426393">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" timestamp="1494512606598">
         <mark key="'" line="135" column="68" />
@@ -134,8 +140,8 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" timestamp="1492615572208">
-        <mark key="'" line="42" column="8" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" timestamp="1494595384431">
+        <mark key="'" line="57" column="42" />
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
         <mark key="^" line="272" column="64" />
@@ -308,6 +314,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" timestamp="1494595595831">
+        <mark key="[" line="216" column="76" />
+        <mark key="]" line="216" column="115" />
+        <mark key="^" line="216" column="115" />
+        <mark key="." line="216" column="115" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
@@ -509,8 +521,8 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1493042528871">
-        <mark key="'" line="317" column="2" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494594746567">
+        <mark key="'" line="25" column="6" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="154" column="21" />
@@ -621,6 +633,9 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1494595333511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
         <mark key="[" line="80" column="28" />
         <mark key="]" line="80" column="56" />
@@ -683,14 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
-      <jump line="51" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
-      <jump line="50" column="22" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
-      <jump line="35" column="6" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
-      <jump line="5" column="27" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/ArticleCreateForm/ArticleCreateFormContainer.js" />
-      <jump line="75" column="31" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
-      <jump line="80" column="17" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
-      <jump line="79" column="19" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" />
       <jump line="178" column="32" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="243" column="16" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="171" column="10" filename="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" />
@@ -783,61 +790,68 @@
       <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
+      <jump line="87" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="319" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="25" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="142" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" />
+      <jump line="54" column="63" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
+      <jump line="44" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
+      <jump line="59" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
+      <jump line="57" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
+      <register name="&quot;" type="4">
+        <text>.locale(this.props.localeLanguage)</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.locale(this.props.localeLanguage)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</text>
+        <text encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdDogJzhweCcsCiAgICAgICAgcGFkZGluZ1JpZ2h0OiAnOHB4JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICcxMDBweCcsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWw6IDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJXb3JrQWN0aXZpdHkuY29sb3IiIGRlZmF1bHRNZXNzYWdlPSLQptCy0LXRgiIvPiwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6ICcxMDBweCcsCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbGFiZWw6IDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJXb3JrQWN0aXZpdHkuY29sb3IiIGRlZmF1bHRNZXNzYWdlPSLQptCy0LXRgiIvPiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Pj4+Pj4+PiAxY2Y2MzE5NTU4YzE0MDViOTNiMTBjMDRlMDY3NGU2ZTIxYjA4YWNmCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6ICc1MHB4JywK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICc1MHB4JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpdml0eUluZGV4XD4=</entry>
         <entry encoding="base64">XDxsb2FkR2xvYmFsU2V0dGluZ3NcPg==</entry>
         <entry encoding="base64">XDxmZXRjaEdsb2JhbFNldHRpbmdzXD4=</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zXD4=</entry>
@@ -847,8 +861,6 @@
         <entry>push</entry>
         <entry encoding="base64">XDxPcGVyYXRvclB1bmN0dWFsaXR5Q29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxzZXRQdW5jdHVhbGl0eVBvcHVwVmlzaWJpbGl0eVw+</entry>
-        <entry encoding="base64">XDxwdW5jdHVhbGl0eVBvcHVwVmlzaWJsZVw+</entry>
-        <entry encoding="base64">XDxvcGVuUHVuY3R1YWxpdHlQb3B1cFw+</entry>
         <entry encoding="base64">XDxRdWV1ZVNlbGVjdENvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxtYWtlRGF0YUZvclRhYmxlXD4=</entry>
         <entry encoding="base64">XDxUYWJsZVw+</entry>
@@ -857,6 +869,9 @@
         <entry encoding="base64">XDxTQ0hFRFVMRV9CTE9DS0VSXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWV1ZVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJIZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxvcGVuUHVuY3R1YWxpdHlQb3B1cFw+</entry>
+        <entry encoding="base64">XDxwdW5jdHVhbGl0eVBvcHVwVmlzaWJsZVw+</entry>
+        <entry encoding="base64">XDxsb2NhbGVMYW5ndWFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

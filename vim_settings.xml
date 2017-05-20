@@ -9,11 +9,6 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1494522352104">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Notifications/Notifications.js" timestamp="1495267531137" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
@@ -260,6 +255,9 @@
         <mark key="]" line="317" column="0" />
         <mark key="^" line="455" column="47" />
         <mark key="." line="317" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1495268617224">
+        <mark key="'" line="82" column="24" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTableContainer.js" timestamp="1493038384211">
         <mark key="[" line="24" column="21" />
@@ -572,17 +570,18 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" timestamp="1495268987615">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="63" column="40" />
+        <mark key="^" line="63" column="40" />
+        <mark key="." line="63" column="40" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="42" />
         <mark key="]" line="1" column="86" />
         <mark key="." line="1" column="86" />
         <mark key="^" line="1" column="86" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/QueueSelect/QueueSelectContainer.js" timestamp="1494145444407">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" timestamp="1494421825636">
         <mark key="'" line="18" column="2" />
@@ -638,7 +637,7 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495267987839">
+      <file name="/Dummy.txt" timestamp="1495268593071">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -709,7 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="51" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
       <jump line="419" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
       <jump line="89" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
       <jump line="637" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/Employee/Employee.js" />
@@ -809,6 +807,7 @@
       <jump line="121" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="3" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="87" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" />
+      <jump line="82" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -818,7 +817,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGb3JtYXR0ZWRNZXNzYWdlXD4=</text>
+        <text encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiIjogIiIsCg==</text>
@@ -855,15 +854,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGb3JtYXR0ZWRNZXNzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGb3JtYXR0ZWRNZXNzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zRm9yRmlyc3ROYW1lXD4=</entry>
         <entry encoding="base64">XDxicm93c2VySGlzdG9yeVw+</entry>
         <entry>push</entry>
         <entry encoding="base64">XDxPcGVyYXRvclB1bmN0dWFsaXR5Q29udGFpbmVyXD4=</entry>
@@ -883,6 +881,7 @@
         <entry>Balan</entry>
         <entry encoding="base64">XDxmZXRjaEVtcGxveWVlXD4=</entry>
         <entry encoding="base64">XDxGb3JtYXR0ZWRNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

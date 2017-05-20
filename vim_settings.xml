@@ -108,6 +108,12 @@
         <mark key="^" line="80" column="36" />
         <mark key="." line="80" column="36" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/interval-input.scss" timestamp="1495320543418">
+        <mark key="[" line="84" column="14" />
+        <mark key="]" line="84" column="11" />
+        <mark key="^" line="84" column="11" />
+        <mark key="." line="84" column="11" />
+      </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/source/sass/helpers/_variables.sass" timestamp="1489921470125">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="59" column="22" />
@@ -631,7 +637,7 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495278532054">
+      <file name="/Dummy.txt" timestamp="1495320528420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">

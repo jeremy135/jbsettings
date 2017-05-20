@@ -9,7 +9,6 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Notifications/Notifications.js" timestamp="1495267531137" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="6" column="46" />
@@ -102,7 +101,6 @@
         <mark key="^" line="321" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/TaskTemplateSelectDropdown/TaskTemplateSelectDropdown.js" timestamp="1495272400089" />
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" timestamp="1491833036429">
         <mark key="'" line="79" column="19" />
         <mark key="[" line="78" column="34" />
@@ -246,12 +244,11 @@
         <mark key="." line="73" column="96" />
         <mark key="^" line="73" column="96" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495279962891">
-        <mark key="'" line="298" column="22" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="180" column="30" />
-        <mark key="." line="197" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495290840088">
+        <mark key="'" line="115" column="24" />
+        <mark key="[" line="467" column="0" />
+        <mark key="]" line="467" column="0" />
+        <mark key="." line="467" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1495272887166">
         <mark key="'" line="49" column="56" />
@@ -513,7 +510,6 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" timestamp="1495265822402" />
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="41" column="0" />
@@ -671,12 +667,11 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" timestamp="1495279043571">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" timestamp="1495288917481">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
         <mark key="^" line="47" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494598891471">
         <mark key="'" line="111" column="0" />
@@ -713,32 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="16" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="336" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="181" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
-      <jump line="182" column="74" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
-      <jump line="177" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
-      <jump line="32" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
-      <jump line="26" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
-      <jump line="3" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" />
-      <jump line="104" column="27" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" />
-      <jump line="18" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" />
-      <jump line="22" column="131" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" />
-      <jump line="86" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" />
-      <jump line="64" column="38" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
-      <jump line="60" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
-      <jump line="56" column="115" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
-      <jump line="20" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
-      <jump line="170" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
-      <jump line="135" column="68" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
-      <jump line="181" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
-      <jump line="144" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
-      <jump line="322" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
-      <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
-      <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
-      <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
-      <jump line="142" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" />
       <jump line="54" column="63" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
       <jump line="44" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
       <jump line="59" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
@@ -787,8 +756,6 @@
       <jump line="476" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="487" column="64" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="505" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="127" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="115" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="573" column="26" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="155" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
       <jump line="49" column="4" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
@@ -796,10 +763,7 @@
       <jump line="520" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="537" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="578" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="464" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="363" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="208" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="77" column="11" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="316" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="194" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="196" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -813,63 +777,91 @@
       <jump line="47" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="365" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="298" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="187" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="85" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="77" column="33" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="73" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="64" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="51" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="466" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="364" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="221" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="203" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="179" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="485" column="39" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="220" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="202" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="185" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="488" column="8" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="464" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="465" column="11" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="456" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="371" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="363" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="296" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="209" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="200" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="428" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="407" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="297" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="189" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="509" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="127" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="115" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0VtcHR5XD4=</text>
+        <text encoding="base64">XDxmaWxsR2Fwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBpc0FjdGl2ZT17aW5kZXggPT09IHRoaXMuc3RhdGUuYWN0aXZlRWxlbWVudCAtIDF9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcmlnaW5hbExpc3QnLCBvcmlnaW5hbExpc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByZXYuZW5kIC0gaXRlbS5zdGFydCknLCBwcmV2LmVuZCAtIGl0ZW0uc3RhcnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWF0aC5hYnMocHJldi5lbmQgLSBpdGVtLnN0YXJ0KSA+IDEwKScsIHByZXYuZW5kICwgaXRlbS5zdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3ByZXYnLCBwcmV2KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRyYWdFbmQnLCBlLnR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIC8vIGlzQWN0aXZlPXtpbmRleCA9PT0gdGhpcy5zdGF0ZS5hY3RpdmVFbGVtZW50IC0gMX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBpc0FjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGVTY2hlbWFzJywgZ2VuZXJhdGVkU2NoZW1hcyk7Cg==</text>
+        <text encoding="base64">ICAgIC8vaWYgKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCduZXdPbmUnLCBuZXdPbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2luZGV4JywgaW5kZXgsICdjaGVja0VtcHR5Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0VtcHR5XD4=</last-search>
+      <last-search encoding="base64">XDxmaWxsR2Fwc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0VtcHR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsR2Fwc1w+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdW5jdHVhbGl0eVBvcHVwVmlzaWJsZVw+</entry>
-        <entry encoding="base64">XDxzZXRQdW5jdHVhbGl0eVBvcHVwVmlzaWJpbGl0eVw+</entry>
-        <entry>Balancer</entry>
         <entry>Balan</entry>
         <entry encoding="base64">XDxmZXRjaEVtcGxveWVlXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
@@ -878,15 +870,18 @@
         <entry encoding="base64">XDxvbkRyYWdcPg==</entry>
         <entry encoding="base64">XDxvbkRyYWdFbmRcPg==</entry>
         <entry encoding="base64">XDxwYWRXaXRoWmVyb1w+</entry>
-        <entry encoding="base64">XDxyZW5kZXJJbnRlcnZhbEl0ZW1cPg==</entry>
         <entry>empty</entry>
-        <entry encoding="base64">XDxmaWxsR2Fwc1w+</entry>
-        <entry>isActive</entry>
         <entry>console</entry>
-        <entry encoding="base64">XDxtZXJnZVNhbWVUeXBlXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVJdGVtXD4=</entry>
+        <entry>isActive</entry>
         <entry encoding="base64">XDxhY3RpdmVFbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry encoding="base64">XDxvbkl0ZW1DbGlja1w+</entry>
+        <entry encoding="base64">XDxyZW5kZXJJbnRlcnZhbEl0ZW1cPg==</entry>
+        <entry>intervals</entry>
         <entry encoding="base64">XDxjaGVja0VtcHR5XD4=</entry>
+        <entry encoding="base64">XDxtZXJnZVNhbWVUeXBlXD4=</entry>
+        <entry encoding="base64">XDxmaWxsR2Fwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

@@ -108,11 +108,11 @@
         <mark key="^" line="80" column="36" />
         <mark key="." line="80" column="36" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/interval-input.scss" timestamp="1495329152386">
-        <mark key="[" line="118" column="1" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/interval-input.scss" timestamp="1495331433177">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="149" column="4" />
+        <mark key="^" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/source/sass/helpers/_variables.sass" timestamp="1489921470125">
         <mark key="'" line="0" column="0" />
@@ -178,6 +178,12 @@
         <mark key="]" line="14" column="49" />
         <mark key="." line="14" column="49" />
         <mark key="^" line="14" column="49" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-form.scss" timestamp="1495330714354">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.scss" timestamp="1492528829019">
         <mark key="[" line="276" column="19" />
@@ -250,11 +256,12 @@
         <mark key="." line="73" column="96" />
         <mark key="^" line="73" column="96" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495291839834">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495331870142">
         <mark key="'" line="466" column="0" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+        <mark key="[" line="485" column="56" />
+        <mark key="]" line="485" column="51" />
+        <mark key="." line="485" column="51" />
+        <mark key="^" line="485" column="51" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1495272887166">
         <mark key="'" line="49" column="56" />
@@ -637,7 +644,7 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495323915989">
+      <file name="/Dummy.txt" timestamp="1495331032023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -645,6 +652,12 @@
         <mark key="]" line="80" column="56" />
         <mark key="." line="80" column="56" />
         <mark key="^" line="80" column="56" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/graph/graph.scss" timestamp="1495330665626">
+        <mark key="[" line="342" column="26" />
+        <mark key="]" line="342" column="26" />
+        <mark key="." line="342" column="26" />
+        <mark key="^" line="342" column="26" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/notifications.scss" timestamp="1495268001207">
         <mark key="[" line="13" column="14" />
@@ -673,12 +686,12 @@
         <mark key="^" line="79" column="12" />
         <mark key="." line="79" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" timestamp="1495328842579">
-        <mark key="'" line="245" column="10" />
-        <mark key="[" line="278" column="14" />
-        <mark key="]" line="293" column="16" />
-        <mark key="^" line="293" column="16" />
-        <mark key="." line="293" column="16" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" timestamp="1495332645257">
+        <mark key="'" line="271" column="10" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="^" line="240" column="22" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494598891471">
         <mark key="'" line="111" column="0" />
@@ -715,11 +728,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="19" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" />
-      <jump line="4" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" />
-      <jump line="121" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
-      <jump line="3" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="87" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" />
       <jump line="82" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" />
       <jump line="72" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" />
@@ -815,43 +823,48 @@
       <jump line="477" column="18" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="467" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="245" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
+      <jump line="283" column="12" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
+      <jump line="264" column="21" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
+      <jump line="211" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
+      <jump line="273" column="29" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
+      <jump line="271" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICdpbnRlcnZhbC1pbnB1dF9fcmVzaXplcl9pc19zaG93JzogdGhpcy5wcm9wcy5pc0FjdGl2ZSB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnByb3BzLmVuZCcsIHRoaXMucHJvcHMuZW5kKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGFzc05hbWVzXD4=</text>
+        <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7ICdpbnRlcnZhbC1pbnB1dF9fcmVzaXplcl9pc19zaG93JzogdGhpcy5wcm9wcy5pc0FjdGl2ZSB9LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICY6YWZ0ZXIgewogICAgICBjb250ZW50OiAnICc7CiAgICAgIHdpZHRoOiAxcHg7CiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMyZDNlNTA7CiAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgIHJpZ2h0OiAwOwogICAgICB0b3A6IC00M3B4OwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGVmdDogMTAwJTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnByb3BzLmVuZCcsIHRoaXMucHJvcHMuZW5kKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnByb3BzLnN0YXJ0JywgdGhpcy5wcm9wcy5zdGFydCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBtYXJnaW5MZWZ0OiBgLSQod2lkdGgpcHhgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbGVmdDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnaW50ZXJ2YWwtaW5wdXRfX3Jlc2l6ZXJfdHlwZV9zdGFydCcsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1yYWRpdXM6IDVweCAwIDAgNXB4Owo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5wcm9wcy5pc0FjdGl2ZSkgewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -861,17 +874,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbGFzc05hbWVzXD4=</last-search>
+      <last-search encoding="base64">XDxzdHlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGFzc05hbWVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVTdWJtaXRcPg==</entry>
-        <entry encoding="base64">XDxGb3JtYXR0ZWRNZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDxkcmFnZ2luZ1w+</entry>
         <entry encoding="base64">XDxvbkRyYWdcPg==</entry>
         <entry encoding="base64">XDxvbkRyYWdFbmRcPg==</entry>
         <entry encoding="base64">XDxwYWRXaXRoWmVyb1w+</entry>
@@ -889,6 +899,9 @@
         <entry encoding="base64">XDx1bml0c1RvUGl4ZWxzXD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxjbGFzc05hbWVzXD4=</entry>
+        <entry encoding="base64">XDxvbk1vdXNlRG93blw+</entry>
+        <entry encoding="base64">XDxvbkRyYWdBbGxTdGFydFw+</entry>
+        <entry encoding="base64">XDxzdHlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

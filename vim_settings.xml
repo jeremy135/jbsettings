@@ -256,12 +256,12 @@
         <mark key="." line="73" column="96" />
         <mark key="^" line="73" column="96" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495457890959">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495458632978">
         <mark key="'" line="480" column="23" />
-        <mark key="[" line="293" column="55" />
-        <mark key="]" line="293" column="53" />
-        <mark key="." line="293" column="53" />
-        <mark key="^" line="293" column="53" />
+        <mark key="[" line="279" column="51" />
+        <mark key="]" line="279" column="50" />
+        <mark key="." line="279" column="50" />
+        <mark key="^" line="279" column="50" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1495272887166">
         <mark key="'" line="49" column="56" />
@@ -830,11 +830,11 @@
       <jump line="480" column="23" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbkl0ZW1DaGFuZ2VcPg==</text>
@@ -843,31 +843,31 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy5pc0RyYWdnaW5nQWxsJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmV3RW5kID0gIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbmV3RW5kID0gIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25SZXNpemVTdGFydCcpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy5pc0RyYWdnaW5nQWxsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb25SZXNpemVTdGFydCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndGhpcy5pc0RyYWdnaW5nQWxsJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGl0ZW0uZW5kIC09IGRlbHRhSW5Vbml0czsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZHJhZ0NvbnRyb2wgPT09ICdsZWZ0Jykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIGl0ZW0uZW5kIC09IGRlbHRhSW5Vbml0czsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

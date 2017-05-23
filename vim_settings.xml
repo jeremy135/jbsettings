@@ -576,12 +576,12 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" timestamp="1495541758704">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" timestamp="1495542897105">
         <mark key="'" line="8" column="9" />
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="65" column="33" />
-        <mark key="." line="65" column="33" />
-        <mark key="^" line="65" column="33" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="36" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
         <mark key="'" line="1" column="42" />
@@ -831,7 +831,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmVFbGVtZW50JywgdGhpcy5zdGF0ZS5hY3RpdmVFbGVtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -843,31 +843,31 @@
         <text>this.unitsToPixels</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmVFbGVtZW50JywgdGhpcy5zdGF0ZS5hY3RpdmVFbGVtZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZGF0YScsIGRhdGEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiBtZXJnZVNhbWVUeXBlJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY3RpdmVFbGVtZW50JywgdGhpcy5zdGF0ZS5hY3RpdmVFbGVtZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiByZW1vdmVJdGVtJykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiBtZXJnZVNhbWVUeXBlJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ251bGwuIGNoZWNrRW1wdHknKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiByZW1vdmVJdGVtJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiBvbkRvY3VtZW50Q2xpY2snKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ251bGwuIGNoZWNrRW1wdHknKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2ludGVydmFsLWlucHV0X19yZXNpemVyLXJpZ2h0JywK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdudWxsLiBvbkRvY3VtZW50Q2xpY2snKTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgJ2ludGVydmFsLWlucHV0X19yZXNpemVyLXJpZ2h0JywK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLnByb3BzLmNvbnRhaW5lcldpZHRoJywgdGhpcy5wcm9wcy5jb250YWluZXJXaWR0aCwgdGhpcy5wcm9wcy5lbmQpOwo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">IAog</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

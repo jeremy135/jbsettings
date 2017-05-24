@@ -217,11 +217,11 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495536313786">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="95" />
-        <mark key="." line="22" column="95" />
-        <mark key="^" line="22" column="95" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495591723926">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+        <mark key="^" line="21" column="45" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
@@ -311,12 +311,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495536355394">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495590395863">
         <mark key="'" line="121" column="26" />
-        <mark key="[" line="865" column="8" />
-        <mark key="]" line="865" column="71" />
-        <mark key="^" line="865" column="71" />
-        <mark key="." line="865" column="71" />
+        <mark key="[" line="865" column="80" />
+        <mark key="]" line="865" column="88" />
+        <mark key="^" line="865" column="88" />
+        <mark key="." line="865" column="88" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -427,6 +427,12 @@
         <mark key="]" line="103" column="50" />
         <mark key="." line="103" column="50" />
         <mark key="^" line="103" column="50" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495591515760">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="154" column="30" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
@@ -896,7 +902,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -908,31 +914,31 @@
         <text encoding="base64">ICAiIjogIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWF0aC5hYnMocHJldi5lbmQgLSBpdGVtLnN0YXJ0KSA+IDEwKScsIHByZXYuZW5kICwgaXRlbS5zdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRyYWdFbmQnLCBlLnR5cGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWF0aC5hYnMocHJldi5lbmQgLSBpdGVtLnN0YXJ0KSA+IDEwKScsIHByZXYuZW5kICwgaXRlbS5zdGFydCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRyYWdFbmQnLCBlLnR5cGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGVTY2hlbWFzJywgZ2VuZXJhdGVkU2NoZW1hcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCduZXdPbmUnLCBuZXdPbmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGVTY2hlbWFzJywgZ2VuZXJhdGVkU2NoZW1hcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

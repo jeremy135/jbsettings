@@ -9,6 +9,9 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1495591927225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="6" column="46" />
@@ -80,6 +83,7 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495593160908" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494522296504">
         <mark key="'" line="456" column="16" />
         <mark key="[" line="404" column="0" />
@@ -217,11 +221,12 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495591723926">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="21" column="45" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.directive.ts" timestamp="1495593725096" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495591964045">
+        <mark key="[" line="22" column="85" />
+        <mark key="]" line="22" column="93" />
+        <mark key="." line="22" column="93" />
+        <mark key="^" line="22" column="93" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
@@ -428,11 +433,11 @@
         <mark key="." line="103" column="50" />
         <mark key="^" line="103" column="50" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495591515760">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="154" column="30" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495593765597">
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="163" column="16" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
@@ -452,6 +457,7 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/templates/extlicense-edit.component.html" timestamp="1495591947712" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495267010369">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="276" column="28" />
@@ -799,11 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="16" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="336" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="181" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
-      <jump line="182" column="74" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
       <jump line="177" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
       <jump line="32" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
       <jump line="26" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" />
@@ -899,55 +900,60 @@
       <jump line="47" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="365" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="298" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
+      <jump line="28" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
+      <jump line="6" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
+      <jump line="165" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
+      <jump line="27" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
+        <text encoding="base64">ICAgIHRoaXMub2JzZXJ2ZXJTZXJ2aWNlLnB1c2goJycsIHt9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">PGEgY2xhc3M9XCdpc3AtbGluayBpc3AtbGlua190eXBlX2FuY2hvclwnPjwvYT4=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0VtcHR5XD4=</text>
+        <text encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAiIjogIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
+        <text encoding="base64">ICAgIHRoaXMub2JzZXJ2ZXJTZXJ2aWNlLnB1c2goJycsIHt9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vINGD0YHRgtCw0L3QsNCy0LvQuNCy0LDQtdC8INGB0YLQsNGC0YPRgSDQvtC20LjQtNCw0L3QuNGPINC10YHQu9C4INC90LDRh9Cw0LvQsNGB0Ywg0L7Qv9C70LDRgtCwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVHJhbnNsYXRlU2VydmljZSB9IGZyb20gJyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
+        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWF0aC5hYnMocHJldi5lbmQgLSBpdGVtLnN0YXJ0KSA+IDEwKScsIHByZXYuZW5kICwgaXRlbS5zdGFydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvbkRyYWdFbmQnLCBlLnR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2VuZXJhdGVTY2hlbWFzJywgZ2VuZXJhdGVkU2NoZW1hcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0VtcHR5XD4=</last-search>
+      <last-search encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0VtcHR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -957,6 +963,9 @@
         <entry>conf</entry>
         <entry encoding="base64">XDxjb3B5Q29udGFjdFw+</entry>
         <entry>_ssl</entry>
+        <entry encoding="base64">XDxUcmFuc2xhdGVTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxGb3JtQ29tcG9uZW50XD4=</entry>
+        <entry encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

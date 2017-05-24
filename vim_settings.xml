@@ -116,6 +116,12 @@
         <mark key="^" line="321" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support-menu.component.html" timestamp="1495612771903">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_preloader.sass" timestamp="1495605778288">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="45" />
@@ -330,12 +336,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495608749872">
-        <mark key="'" line="121" column="26" />
-        <mark key="[" line="864" column="25" />
-        <mark key="]" line="864" column="39" />
-        <mark key="^" line="864" column="39" />
-        <mark key="." line="864" column="39" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495612425015">
+        <mark key="'" line="56" column="29" />
+        <mark key="[" line="272" column="39" />
+        <mark key="]" line="272" column="91" />
+        <mark key="^" line="272" column="91" />
+        <mark key="." line="272" column="91" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -471,11 +477,17 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/support.service.ts" timestamp="1495611437517">
-        <mark key="[" line="51" column="74" />
-        <mark key="]" line="52" column="51" />
-        <mark key="^" line="52" column="51" />
-        <mark key="." line="52" column="51" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/support.service.ts" timestamp="1495612221308">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="46" />
+        <mark key="^" line="50" column="46" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support.component.html" timestamp="1495613236455">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="62" />
+        <mark key="^" line="29" column="62" />
+        <mark key="." line="29" column="62" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/TimezoneSelect/TimezoneSelect.js" timestamp="1491219323678">
         <mark key="[" line="15" column="24" />
@@ -712,6 +724,12 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/ticket-new.component.html" timestamp="1495613718709">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEdit.js" timestamp="1491224562184">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -856,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
-      <jump line="56" column="115" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
       <jump line="20" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlocker.js" />
       <jump line="170" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
       <jump line="135" column="68" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
@@ -956,56 +972,58 @@
       <jump line="67" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/preloader/preloader.component.ts" />
       <jump line="18" column="31" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" />
       <jump line="69" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/preloader/preloader.component.ts" />
+      <jump line="847" column="45" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="56" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIGluY2lkZW50cyAhPT0gZmFsc2U=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICYmIGluY2lkZW50cyAhPT0gZmFsc2U=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RpZmllcnNcPg==</text>
+        <text>_support</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkNPVU5UX1BBSURfSU5DSURFTlRfQVZBSUxBQkxFJyIgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ie2NvdW50OiBpbmNpZGVudHN9Ij48L3NwYW4+IDxhIGNsYXNzPSJpc3AtbGluayBpc3AtbGlua190eXBlX2FuY2hvciIgcm91dGVyTGluaz0iL3N1cHBvcnQvYnV5aW5jaWRlbnQiIGRyb3Bkb3duLWNsb3NlIFtpc3AtdHJhbnNsYXRlXT0iJ1NVUFBPUlQ6REVUQUlMJyI+PC9hPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iIiAqbmdJZj0iaXNTaG93UHJvbW9jb2RlTXNnIiBbaXNwLXRyYW5zbGF0ZV09IidTU0w6VVNFX1BST01PQ09ERSciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109InsgJ3ZhbHVlJzogYmFza2V0TGluayB9IiBbaXNwLXRyYW5zbGF0ZS1jYl09InsgJ3ZhbHVlJzogYWRkVG9CYXNrZXRDYiB9Ij4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0sIDApOwo=</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gW2lzcC10cmFuc2xhdGVdPSInU1VQUE9SVDpDT1VOVF9QQUlEX0lOQ0lERU5UX0FWQUlMQUJMRSciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109Intjb3VudDogaW5jaWRlbnRzfSI+PC9zcGFuPiA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIHJvdXRlckxpbms9Ii9zdXBwb3J0L2J1eWluY2lkZW50IiBkcm9wZG93bi1jbG9zZSBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkRFVEFJTCciPjwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgPHRlbXBsYXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vINGH0YLQvtCx0Ysg0YPRgdC/0LXQu9CwINC/0YDQvtC50YLQuCDQv9GA0L7QstC10YDQutCwINC90LAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaXNTaG93UHJvbW9jb2RlTXNnID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBpbmNpZGVudENvdW50ID0gcGFyc2VJbnQoaW5jaWRlbnRVc2FnZVsxXSkgLSBwYXJzZUludChpbmNpZGVudFVzYWdlWzBdKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2Nsb3NlIGRyb3Bkb3duJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5jaWRlbnRVc2FnZScsIGluY2lkZW50VXNhZ2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjbGlja0VsJywgY2xpY2tlZEVsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RpZmllcnNcPg==</last-search>
+      <last-search>_support</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RpZmllcnNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>_support</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1020,6 +1038,7 @@
         <entry encoding="base64">XDxzaG93UHJvbW9jb2RlTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxpc1Nob3dQcm9tb2NvZGVNc2dcPg==</entry>
         <entry encoding="base64">XDxtb2RpZmllcnNcPg==</entry>
+        <entry>_support</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

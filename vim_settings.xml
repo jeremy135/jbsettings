@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/custom-inputs.scss" timestamp="1495631891058" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1495627707268">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="80" column="4" />
@@ -146,7 +147,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1491220886627">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495629747417">
         <mark key="[" line="80" column="25" />
         <mark key="]" line="80" column="24" />
         <mark key="." line="80" column="24" />
@@ -287,12 +288,12 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" timestamp="1492445293372">
-        <mark key="'" line="458" column="60" />
-        <mark key="[" line="469" column="0" />
-        <mark key="]" line="469" column="0" />
-        <mark key="^" line="468" column="36" />
-        <mark key="." line="469" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" timestamp="1495632219514">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="471" column="0" />
+        <mark key="]" line="471" column="0" />
+        <mark key="^" line="470" column="36" />
+        <mark key="." line="471" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/company-structure.scss" timestamp="1489772930806">
         <mark key="'" line="251" column="16" />
@@ -313,6 +314,12 @@
         <mark key="]" line="38" column="5" />
         <mark key="." line="38" column="5" />
         <mark key="^" line="38" column="5" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_weeked/_weeked.scss" timestamp="1495630732889">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -352,11 +359,11 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_switcher.scss" timestamp="1495551547826">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_switcher.scss" timestamp="1495630772183">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
@@ -370,12 +377,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495628935836">
-        <mark key="'" line="254" column="50" />
-        <mark key="[" line="279" column="114" />
-        <mark key="]" line="264" column="136" />
-        <mark key="^" line="264" column="136" />
-        <mark key="." line="264" column="136" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495632632716">
+        <mark key="'" line="247" column="50" />
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="50" column="21" />
+        <mark key="^" line="50" column="21" />
+        <mark key="." line="50" column="21" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1491314999251">
         <mark key="'" line="157" column="26" />
@@ -524,11 +531,11 @@
         <mark key="^" line="40" column="126" />
         <mark key="." line="40" column="126" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/_imitate-radio.scss" timestamp="1495551565105">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="6" column="30" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/_imitate-radio.scss" timestamp="1495631498767">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/PunctualityReport/index.js" timestamp="1493043069762">
         <mark key="[" line="0" column="65" />
@@ -639,6 +646,7 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/icons.scss" timestamp="1495631691890" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/dateMessages.js" timestamp="1489763772337">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="2" column="13" />
@@ -732,7 +740,13 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495549700226">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_working-day/_working-day.scss" timestamp="1495630717870">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495632450734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -765,6 +779,12 @@
         <mark key="]" line="58" column="87" />
         <mark key="." line="58" column="87" />
         <mark key="^" line="58" column="87" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__view/_view.scss" timestamp="1495631747237">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Chart/Chart.js" timestamp="1489586679318">
         <mark key="'" line="126" column="28" />
@@ -822,9 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="456" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="371" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="363" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="296" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="209" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="200" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -922,22 +939,25 @@
       <jump line="5" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
       <jump line="77" column="12" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
       <jump line="26" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
+      <jump line="18" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" />
+      <jump line="32" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
+      <jump line="247" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMTBweDsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiB1cmwoZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBWUFBQUFHQ0FZQUFBRGd6TzlJQUFBQVhFbEVR4oCmd0hXQ1grLzJkNENES3FBV2hVUFpwUmpVQXhCZ2FRUFVCYndaWURIUUd5dkFFQXpTNGF2bGVFeW1rQUFBQUFTVVZPUks1Q1lJST0pIDUwJSA1MCUgbm8tcmVwZWF0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>new Array()</text>
+        <text encoding="base64">IGltaXRhdGVSYWRpb19fdmlldw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</text>
+        <text encoding="base64">XDxyZW5kZXJGaWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im9zLWltaXRhdGUtcmFkaW9fX2lucHV0Igo=</text>
+        <text encoding="base64">ICBAaW1wb3J0ICJfd29ya2luZy1kYXkvd29ya2luZy1kYXkiOwogIEBpbXBvcnQgIl93ZWVrZWQvd2Vla2VkIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWJvdHRvbTogMTBweDsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kOiB1cmwoZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFBWUFBQUFHQ0FZQUFBRGd6TzlJQUFBQVhFbEVR4oCmd0hXQ1grLzJkNENES3FBV2hVUFpwUmpVQXhCZ2FRUFVCYndaWURIUUd5dkFFQXpTNGF2bGVFeW1rQUFBQUFTVVZPUks1Q1lJST0pIDUwJSA1MCUgbm8tcmVwZWF0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1518,43 +1538,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9yZXF1aXJlKCcuLi8uLi9jc3MvY29tcG9uZW50cy9pbmRleC5zY3NzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmJmNDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICZfd2Vla2VkIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvLyByZXR1cm4gU3RyaW5nKGEubmFtZSkubG9jYWxlQ29tcGFyZShTdHJpbmcoYi5uYW1lKSk7CiAvLyBmdW5jdGlvbiBjaHVua2lmeSh0KSB7CiAvLyAgIGxldCB0eiA9IFtdOwogLy8gICBsZXQgeCA9IDA7CiAvLyAgIGxldCB5ID0gLTE7CiAvLyAgIGxldCBuID0gMDsKIC8vICAgbGV0IGk7CiAvLyAgIGxldCBqOwoKIC8vICAgd2hpbGUgKGkgPSAoaiA9IHQuY2hhckF0KHgrKykpLmNoYXJDb2RlQXQoMCkpIHsKIC8vICAgICBsZXQgbSA9IChpID09PSA0NiB8fCAoaSA+PSA0OCAmJiBpIDw9IDU3KSk7CiAvLyAgICAgaWYgKG0gIT09IG4pIHsKIC8vICAgICAgIHR6WysreV0gPSAnJzsKIC8vICAgICAgIG4gPSBtOwogLy8gICAgIH0KIC8vICAgICB0elt5XSArPSBqOwogLy8gICB9CiAvLyAgIHJldHVybiB0ejsKIC8vIH0KCiAvLyBsZXQgYWEgPSBjaHVua2lmeShhLm5hbWUpOwogLy8gbGV0IGJiID0gY2h1bmtpZnkoYi5uYW1lKTsKCiAvLyBmb3IgKGxldCB4ID0gMDsgYWFbeF0gJiYgYmJbeF07IHgrKykgewogLy8gICBpZiAoYWFbeF0gIT09IGJiW3hdKSB7CiAvLyAgICAgbGV0IGMgPSBOdW1iZXIoYWFbeF0pOwogLy8gICAgIGxldCBkID0gTnVtYmVyKGJiW3hdKTsKIC8vICAgICBpZiAoYyA9PT0gYWFbeF0gJiYgZCA9PT0gYmJbeF0pIHsKIC8vICAgICAgIHJldHVybiBjIC0gZDsKIC8vICAgICB9IGVsc2UgewogLy8gICAgICAgcmV0dXJuIChhYVt4XSA+IGJiW3hdKSA/IDEgOiAtMTsKIC8vICAgICB9CiAvLyAgIH0KIC8vIH0KIC8vIHJldHVybiBhYS5sZW5ndGggLSBiYi5sZW5ndGg7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0qLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICM1MGJmNGM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZCJ1c2Ugc3RyaWN0IjsK</text>
+        <text encoding="base64">ICAgLyoqICZfd29ya2luZy1kYXkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJGaWVsZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJGaWVsZFw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkRyYWdcPg==</entry>
         <entry encoding="base64">XDxkcmFnQ29udHJvbFw+</entry>
         <entry encoding="base64">XDxvbk1vdXNlRG93blw+</entry>
         <entry encoding="base64">XDxvbkRyYWdBbGxTdGFydFw+</entry>
@@ -1574,6 +1593,7 @@
         <entry>imitateRadio</entry>
         <entry encoding="base64">XDxzY2hlZHVsZVNjaGVtYVw+</entry>
         <entry encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJGaWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

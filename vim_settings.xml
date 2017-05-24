@@ -222,11 +222,11 @@
         <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.directive.ts" timestamp="1495593725096" />
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495591964045">
-        <mark key="[" line="22" column="85" />
-        <mark key="]" line="22" column="93" />
-        <mark key="." line="22" column="93" />
-        <mark key="^" line="22" column="93" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495595596897">
+        <mark key="[" line="22" column="140" />
+        <mark key="]" line="22" column="141" />
+        <mark key="." line="22" column="141" />
+        <mark key="^" line="22" column="141" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
@@ -313,12 +313,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495590395863">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495595969187">
         <mark key="'" line="121" column="26" />
-        <mark key="[" line="865" column="80" />
-        <mark key="]" line="865" column="88" />
-        <mark key="^" line="865" column="88" />
-        <mark key="." line="865" column="88" />
+        <mark key="[" line="864" column="25" />
+        <mark key="]" line="864" column="33" />
+        <mark key="^" line="864" column="33" />
+        <mark key="." line="864" column="33" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -430,11 +430,12 @@
         <mark key="." line="103" column="50" />
         <mark key="^" line="103" column="50" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495593765597">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495596885683">
         <mark key="'" line="27" column="11" />
-        <mark key="[" line="163" column="16" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
+        <mark key="[" line="161" column="4" />
+        <mark key="]" line="161" column="27" />
+        <mark key="." line="161" column="27" />
+        <mark key="^" line="161" column="27" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
@@ -650,6 +651,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="97" column="7" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-plans.component.ts" timestamp="1495595445040" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="42" />
@@ -794,6 +796,12 @@
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="6" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/ssl.service.ts" timestamp="1495595504991">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/GraphContainer.js" timestamp="1490966115955">
         <mark key="'" line="3" column="6" />
         <mark key="[" line="71" column="6" />
@@ -906,7 +914,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMub2JzZXJ2ZXJTZXJ2aWNlLnB1c2goJycsIHt9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaWQgPSBpdGVtLmlkOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PGEgY2xhc3M9XCdpc3AtbGluayBpc3AtbGlua190eXBlX2FuY2hvclwnPjwvYT4=</text>
@@ -918,31 +926,31 @@
         <text encoding="base64">ICAiIjogIiIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMub2JzZXJ2ZXJTZXJ2aWNlLnB1c2goJycsIHt9KTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaWQgPSBpdGVtLmlkOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vINGD0YHRgtCw0L3QsNCy0LvQuNCy0LDQtdC8INGB0YLQsNGC0YPRgSDQvtC20LjQtNCw0L3QuNGPINC10YHQu9C4INC90LDRh9Cw0LvQsNGB0Ywg0L7Qv9C70LDRgtCwLAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pc0xvYWRpbmdCYXNrZXRbaWRdID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMub2JzZXJ2ZXJTZXJ2aWNlLnB1c2goJycsIHt9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVHJhbnNsYXRlU2VydmljZSB9IGZyb20gJyc7Cg==</text>
+        <text encoding="base64">ICAgIC8vINGD0YHRgtCw0L3QsNCy0LvQuNCy0LDQtdC8INGB0YLQsNGC0YPRgSDQvtC20LjQtNCw0L3QuNGPINC10YHQu9C4INC90LDRh9Cw0LvQsNGB0Ywg0L7Qv9C70LDRgtCwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWxsbyBraXR0eScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgVHJhbnNsYXRlU2VydmljZSB9IGZyb20gJyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICogQHR5cGUge2FueX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2ludGVydmFsJywgaW50ZXJ2YWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xhc3RJdGVtLmVuZCA8IHRoaXMucHJvcHMuZW5kKScsIGxhc3RJdGVtLmVuZCwgdGhpcy5wcm9wcy5lbmQpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZW1vdmVJdGVtJywgaW5kZXgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

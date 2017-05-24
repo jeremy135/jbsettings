@@ -330,12 +330,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495595969187">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495608749872">
         <mark key="'" line="121" column="26" />
         <mark key="[" line="864" column="25" />
-        <mark key="]" line="864" column="33" />
-        <mark key="^" line="864" column="33" />
-        <mark key="." line="864" column="33" />
+        <mark key="]" line="864" column="39" />
+        <mark key="^" line="864" column="39" />
+        <mark key="." line="864" column="39" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />

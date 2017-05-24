@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1494595409396">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1495627707268">
+        <mark key="'" line="26" column="6" />
         <mark key="[" line="80" column="4" />
         <mark key="]" line="81" column="12" />
         <mark key="^" line="81" column="12" />
@@ -157,8 +158,8 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" timestamp="1494595384431">
-        <mark key="'" line="57" column="42" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" timestamp="1495627690653">
+        <mark key="'" line="249" column="13" />
         <mark key="[" line="274" column="0" />
         <mark key="]" line="274" column="0" />
         <mark key="^" line="272" column="64" />
@@ -692,7 +693,13 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1495546550167">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/scheduleSchema.js" timestamp="1495628054464">
+        <mark key="[" line="18" column="72" />
+        <mark key="]" line="18" column="95" />
+        <mark key="^" line="18" column="95" />
+        <mark key="." line="18" column="95" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1495627888541">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
@@ -815,10 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="488" column="8" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="464" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="465" column="11" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="456" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="371" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="363" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -915,6 +918,10 @@
       <jump line="42" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
       <jump line="48" column="93" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
       <jump line="254" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
+      <jump line="249" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" />
+      <jump line="5" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
+      <jump line="77" column="12" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
+      <jump line="26" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -924,7 +931,7 @@
         <text>new Array()</text>
       </register>
       <register name="/" type="4">
-        <text>imitateRadio</text>
+        <text encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9Im9zLWltaXRhdGUtcmFkaW9fX2lucHV0Igo=</text>
@@ -1539,16 +1546,14 @@
       </register>
     </registers>
     <search>
-      <last-search>imitateRadio</last-search>
+      <last-search encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</last-search>
       <last-offset />
-      <last-pattern>imitateRadio</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGFzc05hbWVzXD4=</entry>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry encoding="base64">XDxvbkRyYWdcPg==</entry>
         <entry encoding="base64">XDxkcmFnQ29udHJvbFw+</entry>
         <entry encoding="base64">XDxvbk1vdXNlRG93blw+</entry>
@@ -1567,6 +1572,8 @@
         <entry encoding="base64">XDxzb3J0QWxwaGFOdW1CeU5hbWVcPg==</entry>
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry>imitateRadio</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZVNjaGVtYVw+</entry>
+        <entry encoding="base64">XDxmZXRjaFNjaGVkdWxlU2NoZW1hXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

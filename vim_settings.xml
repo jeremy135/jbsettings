@@ -333,12 +333,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495617903285">
-        <mark key="'" line="276" column="50" />
-        <mark key="[" line="867" column="35" />
-        <mark key="]" line="867" column="35" />
-        <mark key="^" line="272" column="91" />
-        <mark key="." line="867" column="35" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495622369279">
+        <mark key="'" line="1082" column="6" />
+        <mark key="[" line="562" column="48" />
+        <mark key="]" line="562" column="48" />
+        <mark key="^" line="562" column="48" />
+        <mark key="." line="562" column="48" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -442,11 +442,11 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-edit.component.html" timestamp="1495527626318">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-edit.component.html" timestamp="1495622767674">
+        <mark key="[" line="23" column="161" />
+        <mark key="]" line="23" column="160" />
+        <mark key="^" line="23" column="160" />
+        <mark key="." line="23" column="160" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/TasksList/TasksList.js" timestamp="1492616933564">
         <mark key="[" line="93" column="61" />
@@ -640,6 +640,12 @@
         <mark key="]" line="60" column="19" />
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-edit.component.ts" timestamp="1495677900222">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="123" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494597444073">
         <mark key="'" line="335" column="2" />
@@ -868,8 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
-      <jump line="135" column="68" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" />
       <jump line="181" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="144" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="322" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
@@ -968,55 +972,57 @@
       <jump line="847" column="45" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="56" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="276" column="50" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="1082" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>{{'LICENSE:LICENSE_STOPPED' | translate}}</text>
       </register>
       <register name="/" type="4">
-        <text>basket</text>
+        <text>_license</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkNPVU5UX1BBSURfSU5DSURFTlRfQVZBSUxBQkxFJyIgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ie2NvdW50OiBpbmNpZGVudHN9Ij48L3NwYW4+IDxhIGNsYXNzPSJpc3AtbGluayBpc3AtbGlua190eXBlX2FuY2hvciIgcm91dGVyTGluaz0iL3N1cHBvcnQvYnV5aW5jaWRlbnQiIGRyb3Bkb3duLWNsb3NlIFtpc3AtdHJhbnNsYXRlXT0iJ1NVUFBPUlQ6REVUQUlMJyI+PC9hPgo=</text>
+      <register name="0" type="4">
+        <text>LICENSE:EDIT_IP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gW2lzcC10cmFuc2xhdGVdPSInU1VQUE9SVDpDT1VOVF9QQUlEX0lOQ0lERU5UX0FWQUlMQUJMRSciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109Intjb3VudDogaW5jaWRlbnRzfSI+PC9zcGFuPiA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIHJvdXRlckxpbms9Ii9zdXBwb3J0L2J1eWluY2lkZW50IiBkcm9wZG93bi1jbG9zZSBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkRFVEFJTCciPjwvYT4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gW2lzcC10cmFuc2xhdGVdPSInU1VQUE9SVDpDT1VOVF9QQUlEX0lOQ0lERU5UX0FWQUlMQUJMRSciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109Intjb3VudDogaW5jaWRlbnRzfSI+PC9zcGFuPiA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIHJvdXRlckxpbms9Ii9zdXBwb3J0L2J1eWluY2lkZW50IiBkcm9wZG93bi1jbG9zZSBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkRFVEFJTCciPjwvYT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNpZGVudENvdW50ID0gcGFyc2VJbnQoaW5jaWRlbnRVc2FnZVsxXSkgLSBwYXJzZUludChpbmNpZGVudFVzYWdlWzBdKTsK</text>
+        <text encoding="base64">ICAgICAgPHRlbXBsYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaW5jaWRlbnRVc2FnZScsIGluY2lkZW50VXNhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>basket</last-search>
+      <last-search>_license</last-search>
       <last-offset />
-      <last-pattern>basket</last-pattern>
+      <last-pattern>_license</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1034,6 +1040,8 @@
         <entry encoding="base64">XDxtb2RpZmllcnNcPg==</entry>
         <entry>_support</entry>
         <entry>basket</entry>
+        <entry>license</entry>
+        <entry>_license</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

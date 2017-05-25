@@ -9,6 +9,9 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1495591927225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="6" column="46" />
@@ -474,13 +477,6 @@
         <mark key="." line="103" column="50" />
         <mark key="^" line="103" column="50" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495607340684">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="181" column="34" />
-        <mark key="]" line="181" column="58" />
-        <mark key="." line="181" column="58" />
-        <mark key="^" line="181" column="58" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
         <mark key="]" line="26" column="33" />
@@ -541,6 +537,12 @@
         <mark key="]" line="69" column="16" />
         <mark key="^" line="69" column="16" />
         <mark key="." line="69" column="16" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/firstLine/app/scripts/controllers/initMainController.js" timestamp="1495691663996">
+        <mark key="[" line="367" column="14" />
+        <mark key="]" line="367" column="14" />
+        <mark key="^" line="361" column="51" />
+        <mark key="." line="367" column="14" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/actionCreators/reports.js" timestamp="1491128282736">
         <mark key="[" line="53" column="37" />
@@ -605,13 +607,6 @@
         <mark key="]" line="18" column="12" />
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
-      </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/components/profile-edit.component.ts" timestamp="1495524270103">
-        <mark key="'" line="104" column="11" />
-        <mark key="[" line="111" column="2" />
-        <mark key="]" line="111" column="21" />
-        <mark key="^" line="109" column="69" />
-        <mark key="." line="109" column="69" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/Archives/Archives.js" timestamp="1492611397018">
         <mark key="[" line="28" column="46" />
@@ -683,6 +678,9 @@
         <mark key="]" line="56" column="52" />
         <mark key="^" line="56" column="52" />
         <mark key="." line="56" column="52" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1495691002506">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/CustomReports/GraphReport.js" timestamp="1491123469456">
         <mark key="'" line="7" column="9" />
@@ -798,6 +796,9 @@
         <mark key="]" line="181" column="3" />
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495278532054">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-plans.component.html" timestamp="1495593900393" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -989,11 +990,11 @@
       <jump line="893" column="44" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyAndmFsdWUnOiByZWlzc3VlTGluayB9Igo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{{'EXTLICENSE:LICENSE_STOPPED' | translate}}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stopped_banner_msg</text>

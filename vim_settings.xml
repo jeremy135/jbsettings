@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/custom-inputs.scss" timestamp="1495631891058" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1495627707268">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="80" column="4" />
@@ -17,11 +16,6 @@
         <mark key="]" line="8" column="55" />
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/index.js" timestamp="1495549267131">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEditContainer.js" timestamp="1491126041962">
         <mark key="[" line="3" column="0" />
@@ -86,6 +80,12 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" timestamp="1495718938602">
+        <mark key="'" line="143" column="23" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="35" column="75" />
@@ -132,6 +132,9 @@
         <mark key="]" line="149" column="4" />
         <mark key="^" line="141" column="0" />
         <mark key="." line="141" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" timestamp="1495719571751">
+        <mark key="'" line="26" column="17" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/source/sass/helpers/_variables.sass" timestamp="1489921470125">
         <mark key="'" line="0" column="0" />
@@ -647,7 +650,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/icons.scss" timestamp="1495631691890" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/dateMessages.js" timestamp="1489763772337">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="2" column="13" />
@@ -747,7 +749,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495632450734">
+      <file name="/Dummy.txt" timestamp="1495718732300">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -843,9 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="127" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="115" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="476" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="469" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="468" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -943,22 +942,25 @@
       <jump line="673" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="525" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="526" column="39" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
+      <jump line="144" column="23" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
+      <jump line="2" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" />
+      <jump line="26" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXdBcnJheScsIG5ld0FycmF5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb3duXD4=</text>
+        <text encoding="base64">XDxPcGVyYXRvckFkZGl0aW9uYWxTY2hlZHVsZXNDb250YWluZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmltaXRhdGVSYWRpbyA6Y2hlY2tlZCArIC5pbWl0YXRlUmFkaW9fX3N3aXRjaGVyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXdBcnJheScsIG5ld0FycmF5KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1539,44 +1541,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAjMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2UnLCBlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5qcy1leHBhbmRlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAjMDAwOwo=</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAmLmpzLWV4cGFuZGVkICYgewogICAgICAgICAgICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsKICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5qcy1leHBhbmRlZAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAmLmpzLWV4cGFuZGVkICYgewogICAgICAgICAgICAgICAgdmlzaWJpbGl0eTogdmlzaWJsZTsKICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb3duXD4=</last-search>
+      <last-search encoding="base64">XDxPcGVyYXRvckFkZGl0aW9uYWxTY2hlZHVsZXNDb250YWluZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb3duXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxPcGVyYXRvckFkZGl0aW9uYWxTY2hlZHVsZXNDb250YWluZXJcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0RyYWdnaW5nQWxsXD4=</entry>
-        <entry encoding="base64">XDxyZXNpemluZ1w+</entry>
         <entry encoding="base64">XDxvblJlc2l6ZVN0YXJ0XD4=</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxvbkl0ZW1DaGFuZ2VcPg==</entry>
@@ -1595,6 +1595,8 @@
         <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
         <entry>not</entry>
         <entry encoding="base64">XDxkb3duXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGVja1w+</entry>
+        <entry encoding="base64">XDxPcGVyYXRvckFkZGl0aW9uYWxTY2hlZHVsZXNDb250YWluZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

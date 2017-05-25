@@ -48,11 +48,6 @@
         <mark key="." line="261" column="25" />
         <mark key="^" line="261" column="25" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/app/bank-payment/templates/bank-payment-profile.component.html" timestamp="1490152079981">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PayRateSelect/index.js" timestamp="1492860391595">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="56" />
@@ -116,6 +111,12 @@
         <mark key="." line="62" column="44" />
         <mark key="^" line="62" column="44" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-info.component.html" timestamp="1495686220080">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/forecasts/components/Forecast/Forecast.js" timestamp="1489764690769">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="13" column="0" />
@@ -123,6 +124,7 @@
         <mark key="^" line="321" column="0" />
         <mark key="." line="64" column="0" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/form/form.component.ts" timestamp="1495685572338" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support-menu.component.html" timestamp="1495612771903">
         <mark key="[" line="20" column="51" />
         <mark key="]" line="20" column="51" />
@@ -343,12 +345,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495678996902">
-        <mark key="'" line="561" column="21" />
-        <mark key="[" line="810" column="48" />
-        <mark key="]" line="810" column="56" />
-        <mark key="^" line="810" column="56" />
-        <mark key="." line="810" column="56" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495685782030">
+        <mark key="'" line="893" column="44" />
+        <mark key="[" line="897" column="95" />
+        <mark key="]" line="897" column="96" />
+        <mark key="^" line="897" column="96" />
+        <mark key="." line="897" column="96" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -676,11 +678,6 @@
         <mark key="^" line="438" column="67" />
         <mark key="." line="438" column="67" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/tslint.json" timestamp="1495606815537">
-        <mark key="[" line="122" column="5" />
-        <mark key="]" line="122" column="5" />
-        <mark key="." line="122" column="5" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorMonth/OperatorMonth.js" timestamp="1494128364719">
         <mark key="[" line="56" column="28" />
         <mark key="]" line="56" column="52" />
@@ -828,12 +825,6 @@
         <mark key="." line="58" column="87" />
         <mark key="^" line="58" column="87" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/preloader/preloader.component.ts" timestamp="1495605950115">
-        <mark key="'" line="68" column="11" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Chart/Chart.js" timestamp="1489586679318">
         <mark key="'" line="126" column="28" />
         <mark key="[" line="16" column="29" />
@@ -896,8 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
-      <jump line="322" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
@@ -996,55 +985,57 @@
       <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="1082" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="561" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="810" column="56" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="893" column="44" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{{'EXTLICENSE:LICENSE_STOPPED' | translate}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyAndmFsdWUnOiByZWlzc3VlTGluayB9Igo=</text>
       </register>
       <register name="-" type="4">
         <text>{{'EXTLICENSE:LICENSE_STOPPED' | translate}}</text>
       </register>
       <register name="/" type="4">
-        <text>status_in_pay</text>
+        <text>stopped_banner_msg</text>
       </register>
       <register name="0" type="4">
         <text>EXTLICENSE:LICENSE_STOPPED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyAndmFsdWUnOiByZWlzc3VlTGluayB9Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status_in_pay</last-search>
+      <last-search>stopped_banner_msg</last-search>
       <last-offset />
-      <last-pattern>status_in_pay</last-pattern>
+      <last-pattern>stopped_banner_msg</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1053,7 +1044,6 @@
         <entry>config</entry>
         <entry>conf</entry>
         <entry encoding="base64">XDxjb3B5Q29udGFjdFw+</entry>
-        <entry>_ssl</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxGb3JtQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</entry>
@@ -1065,6 +1055,8 @@
         <entry>license</entry>
         <entry>_license</entry>
         <entry>status_in_pay</entry>
+        <entry>_ssl</entry>
+        <entry>stopped_banner_msg</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

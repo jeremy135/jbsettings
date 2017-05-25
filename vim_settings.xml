@@ -506,10 +506,11 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/templates/extlicense-edit.component.html" timestamp="1495679042928">
-        <mark key="[" line="21" column="88" />
-        <mark key="]" line="21" column="171" />
-        <mark key="." line="21" column="88" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/templates/extlicense-edit.component.html" timestamp="1495681429014">
+        <mark key="[" line="14" column="87" />
+        <mark key="]" line="14" column="87" />
+        <mark key="." line="14" column="87" />
+        <mark key="^" line="14" column="63" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ispmodule/templates/ispmodule-edit.component.html" timestamp="1495679031817">
         <mark key="[" line="21" column="87" />
@@ -991,17 +992,17 @@
       <jump line="561" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{{'EXTLICENSE:LICENSE_STOPPED' | translate}}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{{'EXTLICENSE:LICENSE_STOPPED' | translate}}</text>
       </register>
       <register name="/" type="4">
         <text>status_in_pay</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGF5TGluayA9IGA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIGhyZWY9Ij9mdW5jPXBheW1lbnQucHJpbnQucGRmJmVsaWQ9JHt0aGlzLm1vZGVsLmluX3BheV9wYXltZW50X2lkfSZvdXQ9cGRmX3ByaW50Ij4ke3RoaXMubW9kZWwuaW5fcGF5X3BheW1lbnRfbnVtYmVyfTwvYT5gOwo=</text>
+      <register name="0" type="4">
+        <text>EXTLICENSE:LICENSE_STOPPED</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

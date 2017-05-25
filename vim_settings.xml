@@ -251,6 +251,7 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.directive.ts" timestamp="1495593725096" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495607703242">
         <mark key="[" line="16" column="62" />
         <mark key="]" line="16" column="63" />
@@ -289,6 +290,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-person.component.html" timestamp="1495523732792" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-list.component.html" timestamp="1495533372789">
         <mark key="[" line="154" column="38" />
         <mark key="]" line="154" column="54" />
@@ -360,6 +362,7 @@
         <mark key="^" line="70" column="6" />
         <mark key="." line="70" column="6" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl.component.html" timestamp="1495684191693" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/bank-payment/templates/bank-payment-profile-person.html" timestamp="1490152183854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="118" column="9" />
@@ -543,6 +546,7 @@
         <mark key="^" line="53" column="37" />
         <mark key="." line="53" column="37" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/components/profile-edit-ip.component.ts" timestamp="1495523715168" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-entity.component.html" timestamp="1495524329008">
         <mark key="[" line="55" column="233" />
         <mark key="]" line="55" column="280" />
@@ -723,6 +727,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="97" column="7" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-plans.component.ts" timestamp="1495595445040" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="42" />
@@ -797,6 +802,7 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-plans.component.html" timestamp="1495593900393" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
         <mark key="[" line="80" column="28" />
         <mark key="]" line="80" column="56" />

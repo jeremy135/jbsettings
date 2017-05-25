@@ -69,6 +69,12 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/components/user-profile.component.ts" timestamp="1495693315167">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="^" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettingsContainer.js" timestamp="1494422283472">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -134,6 +140,7 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/templates/user-profile.component.html" timestamp="1495693575139" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_preloader.sass" timestamp="1495605778288">
         <mark key="[" line="7" column="45" />
         <mark key="]" line="7" column="45" />
@@ -757,6 +764,7 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/templates/client-profile.component.html" timestamp="1495692888434" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/routes/punctuality.js" timestamp="1493043191578">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="19" />
@@ -866,6 +874,12 @@
         <mark key="]" line="31" column="82" />
         <mark key="^" line="31" column="82" />
         <mark key="." line="31" column="82" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/templates/user-profile-settings.component.html" timestamp="1495693610409">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="3" column="50" />
+        <mark key="^" line="3" column="50" />
+        <mark key="." line="3" column="50" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-graph.scss" timestamp="1491391601783">
         <mark key="[" line="99" column="3" />

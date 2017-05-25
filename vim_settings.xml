@@ -28,6 +28,12 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ispmodule/components/ispmodule-edit.component.ts" timestamp="1495679640953">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="184" />
+        <mark key="." line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" timestamp="1494512606598">
         <mark key="'" line="135" column="68" />
         <mark key="[" line="150" column="62" />
@@ -85,7 +91,11 @@
         <mark key="^" line="36" column="4" />
         <mark key="." line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495593160908" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495679664334">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494522296504">
         <mark key="'" line="456" column="16" />
         <mark key="[" line="404" column="0" />
@@ -241,7 +251,6 @@
         <mark key="^" line="6" column="41" />
         <mark key="." line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.directive.ts" timestamp="1495593725096" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495607703242">
         <mark key="[" line="16" column="62" />
         <mark key="]" line="16" column="63" />
@@ -280,7 +289,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-person.component.html" timestamp="1495523732792" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-list.component.html" timestamp="1495533372789">
         <mark key="[" line="154" column="38" />
         <mark key="]" line="154" column="54" />
@@ -333,12 +341,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495622369279">
-        <mark key="'" line="1082" column="6" />
-        <mark key="[" line="562" column="48" />
-        <mark key="]" line="562" column="48" />
-        <mark key="^" line="562" column="48" />
-        <mark key="." line="562" column="48" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495678996902">
+        <mark key="'" line="561" column="21" />
+        <mark key="[" line="810" column="48" />
+        <mark key="]" line="810" column="56" />
+        <mark key="^" line="810" column="56" />
+        <mark key="." line="810" column="56" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -442,7 +450,7 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-edit.component.html" timestamp="1495622767674">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-edit.component.html" timestamp="1495678643135">
         <mark key="[" line="23" column="161" />
         <mark key="]" line="23" column="160" />
         <mark key="^" line="23" column="160" />
@@ -498,7 +506,17 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/templates/extlicense-edit.component.html" timestamp="1495591947712" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/templates/extlicense-edit.component.html" timestamp="1495679042928">
+        <mark key="[" line="21" column="88" />
+        <mark key="]" line="21" column="171" />
+        <mark key="." line="21" column="88" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ispmodule/templates/ispmodule-edit.component.html" timestamp="1495679031817">
+        <mark key="[" line="21" column="87" />
+        <mark key="]" line="21" column="169" />
+        <mark key="^" line="21" column="169" />
+        <mark key="." line="21" column="169" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495267010369">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="276" column="28" />
@@ -524,7 +542,6 @@
         <mark key="^" line="53" column="37" />
         <mark key="." line="53" column="37" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/components/profile-edit-ip.component.ts" timestamp="1495523715168" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-entity.component.html" timestamp="1495524329008">
         <mark key="[" line="55" column="233" />
         <mark key="]" line="55" column="280" />
@@ -641,11 +658,11 @@
         <mark key="^" line="30" column="29" />
         <mark key="." line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-edit.component.ts" timestamp="1495677900222">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="66" column="123" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-edit.component.ts" timestamp="1495678602475">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+        <mark key="^" line="39" column="22" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494597444073">
         <mark key="'" line="335" column="2" />
@@ -705,7 +722,6 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="97" column="7" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-plans.component.ts" timestamp="1495595445040" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
         <mark key="'" line="1" column="42" />
         <mark key="[" line="1" column="42" />
@@ -780,7 +796,6 @@
         <mark key="^" line="181" column="3" />
         <mark key="." line="181" column="3" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-plans.component.html" timestamp="1495593900393" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
         <mark key="[" line="80" column="28" />
         <mark key="]" line="80" column="56" />
@@ -874,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="144" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="322" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
@@ -974,55 +988,56 @@
       <jump line="276" column="50" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="1082" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="561" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{{'LICENSE:LICENSE_STOPPED' | translate}}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_license</text>
+        <text>status_in_pay</text>
       </register>
-      <register name="0" type="4">
-        <text>LICENSE:EDIT_IP</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMucGF5TGluayA9IGA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIGhyZWY9Ij9mdW5jPXBheW1lbnQucHJpbnQucGRmJmVsaWQ9JHt0aGlzLm1vZGVsLmluX3BheV9wYXltZW50X2lkfSZvdXQ9cGRmX3ByaW50Ij4ke3RoaXMubW9kZWwuaW5fcGF5X3BheW1lbnRfbnVtYmVyfTwvYT5gOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gW2lzcC10cmFuc2xhdGVdPSInU1VQUE9SVDpDT1VOVF9QQUlEX0lOQ0lERU5UX0FWQUlMQUJMRSciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109Intjb3VudDogaW5jaWRlbnRzfSI+PC9zcGFuPiA8YSBjbGFzcz0iaXNwLWxpbmsgaXNwLWxpbmtfdHlwZV9hbmNob3IiIHJvdXRlckxpbms9Ii9zdXBwb3J0L2J1eWluY2lkZW50IiBkcm9wZG93bi1jbG9zZSBbaXNwLXRyYW5zbGF0ZV09IidTVVBQT1JUOkRFVEFJTCciPjwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocm93LnVwZGF0ZV9hbGxvd2VkID09PSBmYWxzZSAmJiByb3cuZW1wbG95ZWVzdXNwZW5kID09PSAnb2ZmJykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_license</last-search>
+      <last-search>status_in_pay</last-search>
       <last-offset />
-      <last-pattern>_license</last-pattern>
+      <last-pattern>status_in_pay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1042,6 +1057,7 @@
         <entry>basket</entry>
         <entry>license</entry>
         <entry>_license</entry>
+        <entry>status_in_pay</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

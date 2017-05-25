@@ -355,12 +355,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495685782030">
-        <mark key="'" line="893" column="44" />
-        <mark key="[" line="897" column="95" />
-        <mark key="]" line="897" column="96" />
-        <mark key="^" line="897" column="96" />
-        <mark key="." line="897" column="96" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495701622357">
+        <mark key="'" line="878" column="40" />
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="122" />
+        <mark key="^" line="4" column="122" />
+        <mark key="." line="4" column="122" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -997,11 +997,11 @@
       <jump line="847" column="45" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="56" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="276" column="50" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="1082" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="561" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="810" column="56" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="893" column="44" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1011,7 +1011,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stopped_banner_msg</text>
+        <text>_user</text>
       </register>
       <register name="0" type="4">
         <text>EXTLICENSE:LICENSE_STOPPED</text>
@@ -1048,9 +1048,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stopped_banner_msg</last-search>
+      <last-search>_user</last-search>
       <last-offset />
-      <last-pattern>stopped_banner_msg</last-pattern>
+      <last-pattern>_user</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1072,6 +1072,8 @@
         <entry>status_in_pay</entry>
         <entry>_ssl</entry>
         <entry>stopped_banner_msg</entry>
+        <entry>USER_NOTIFY_EMAIL_SEND</entry>
+        <entry>_user</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

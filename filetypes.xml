@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ActivitySelectMaterial.js" type="PLAIN_TEXT" />
+      <mapping pattern="_theme_selected-black.scss" type="SCSS" />
     </extensionMap>
   </component>
 </application>

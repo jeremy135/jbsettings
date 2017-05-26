@@ -173,8 +173,8 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495638423313">
-        <mark key="'" line="526" column="39" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495805504630">
+        <mark key="'" line="797" column="40" />
         <mark key="[" line="525" column="15" />
         <mark key="]" line="530" column="18" />
         <mark key="." line="530" column="18" />
@@ -884,10 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="221" column="36" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="223" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="383" column="66" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="489" column="44" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="510" column="39" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="62" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -984,6 +980,10 @@
       <jump line="63" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Queues/Queues.js" />
       <jump line="112" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Queues/Queues.js" />
       <jump line="67" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Queues/Queues.js" />
+      <jump line="556" column="41" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
+      <jump line="782" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
+      <jump line="788" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
+      <jump line="797" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -993,7 +993,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</text>
+        <text>workday-type-wrapper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgImlwIjogInV4di5pc3BzeXN0ZW0ubmV0IiwK</text>
@@ -1608,15 +1608,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</last-search>
+      <last-search>workday-type-wrapper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>workday-type-wrapper</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb3duXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGVja1w+</entry>
         <entry encoding="base64">XDxPcGVyYXRvckFkZGl0aW9uYWxTY2hlZHVsZXNDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
@@ -1636,6 +1635,7 @@
         <entry encoding="base64">XDxnZXRDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJUYWJsZTFcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</entry>
+        <entry>workday-type-wrapper</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

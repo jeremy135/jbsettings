@@ -10,11 +10,12 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1495878933193">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1495884099889">
         <mark key="'" line="122" column="20" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="36" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
@@ -22,6 +23,11 @@
         <mark key="]" line="8" column="55" />
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/index.js" timestamp="1495549267131">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEditContainer.js" timestamp="1491126041962">
         <mark key="[" line="3" column="0" />
@@ -86,11 +92,12 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" timestamp="1495725891353">
-        <mark key="'" line="61" column="22" />
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" timestamp="1495881936413">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="167" column="50" />
+        <mark key="]" line="167" column="62" />
+        <mark key="." line="167" column="62" />
+        <mark key="^" line="167" column="62" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
         <mark key="'" line="2" column="9" />
@@ -204,11 +211,11 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/__label/_label.scss" timestamp="1495879412997">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/__label/_label.scss" timestamp="1495884378173">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/globalSettings.js" timestamp="1492863112843">
         <mark key="[" line="14" column="38" />
@@ -253,6 +260,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueFormContainer.js" timestamp="1495725960594">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
@@ -312,12 +324,12 @@
         <mark key="^" line="469" column="36" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/company-structure.scss" timestamp="1489772930806">
-        <mark key="'" line="251" column="16" />
-        <mark key="[" line="294" column="21" />
-        <mark key="]" line="294" column="19" />
-        <mark key="." line="294" column="19" />
-        <mark key="^" line="294" column="19" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/company-structure.scss" timestamp="1495882444314">
+        <mark key="'" line="265" column="16" />
+        <mark key="[" line="115" column="25" />
+        <mark key="]" line="115" column="25" />
+        <mark key="." line="115" column="25" />
+        <mark key="^" line="115" column="25" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__field/_form__field.scss" timestamp="1495549224447">
         <mark key="'" line="1" column="19" />
@@ -407,12 +419,12 @@
         <mark key="^" line="56" column="82" />
         <mark key="." line="56" column="82" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1491314999251">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1495882038407">
         <mark key="'" line="157" column="26" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="160" column="86" />
-        <mark key="." line="61" column="0" />
+        <mark key="[" line="52" column="60" />
+        <mark key="]" line="52" column="60" />
+        <mark key="^" line="52" column="91" />
+        <mark key="." line="52" column="60" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio-select/_imitate-radio-select.scss" timestamp="1495807254054">
         <mark key="[" line="1" column="0" />
@@ -484,11 +496,11 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/RadioButton/RadioButton.js" timestamp="1495879026685">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="34" column="43" />
-        <mark key="^" line="34" column="43" />
-        <mark key="." line="34" column="43" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/RadioButton/RadioButton.js" timestamp="1495884297441">
+        <mark key="[" line="39" column="43" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="45" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495267010369">
         <mark key="'" line="3" column="16" />
@@ -552,6 +564,11 @@
         <mark key="]" line="273" column="18" />
         <mark key="^" line="273" column="18" />
         <mark key="." line="273" column="18" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/settings/activity.scss" timestamp="1495884254468">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1495878850241">
         <mark key="'" line="511" column="29" />
@@ -637,12 +654,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" timestamp="1495727333123">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
-        <mark key="." line="295" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="41" column="0" />
@@ -682,11 +693,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1491114888665">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="109" column="90" />
-        <mark key="." line="7" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1495882150319">
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="27" />
+        <mark key="." line="62" column="27" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/scheduleSchemas.js" timestamp="1491120727013">
         <mark key="'" line="4" column="9" />
@@ -694,13 +705,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_theme/_theme_selected-black.scss" timestamp="1495806369003">
-        <mark key="e" line="0" column="13" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-        <mark key="^" line="1" column="13" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/icons.scss" timestamp="1495876344306">
         <mark key="[" line="89" column="13" />
@@ -813,13 +817,13 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/settings/queues.scss" timestamp="1495880113189">
-        <mark key="[" line="100" column="1" />
-        <mark key="]" line="108" column="4" />
-        <mark key="^" line="108" column="4" />
-        <mark key="." line="108" column="4" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/settings/queues.scss" timestamp="1495882614803">
+        <mark key="[" line="76" column="3" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495879988676">
+      <file name="/Dummy.txt" timestamp="1495882044396">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -853,7 +857,7 @@
         <mark key="." line="58" column="87" />
         <mark key="^" line="58" column="87" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__view/_view.scss" timestamp="1495631747237">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__view/_view.scss" timestamp="1495883265581">
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="16" />
         <mark key="^" line="11" column="16" />
@@ -906,6 +910,12 @@
         <mark key="^" line="108" column="6" />
         <mark key="." line="108" column="6" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/_theme/_theme_black.scss" timestamp="1495883167906">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/GraphContainer.js" timestamp="1490966115955">
         <mark key="'" line="3" column="6" />
         <mark key="[" line="71" column="6" />
@@ -915,9 +925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="199" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="217" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="178" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="181" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
       <jump line="20" column="33" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" />
@@ -1015,22 +1022,25 @@
       <jump line="122" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" />
       <jump line="511" column="29" filename="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" />
       <jump line="6" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/_radio-button.scss" />
+      <jump line="74" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
+      <jump line="9" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/__label/_label.scss" />
+      <jump line="10" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/__label/_label.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>WorkActivity</text>
+        <text>RadioButton</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtYXR0ZWRNZXNzYWdlIGlkPSJXb3JrQWN0aXZpdHkud29ya2luZyIgZGVmYXVsdE1lc3NhZ2U9ItCg0LDQsdC+0YfQtdC1IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICB0b3A6IC03cHggIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1611,43 +1621,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAmX19yYWRpbyB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxMnB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nUmlnaHQ6ICcwcHgnLAo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nTGVmdDogJzBweCcsCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGVDb250ZW50OiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibXIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>WorkActivity</last-search>
+      <last-search>RadioButton</last-search>
       <last-offset />
-      <last-pattern>WorkActivity</last-pattern>
+      <last-pattern>RadioButton</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxoYXNBY3RpdmVDaGlsZFw+</entry>
         <entry encoding="base64">XDx0b2dnbGVWYWx1ZVw+</entry>
         <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
@@ -1667,6 +1676,7 @@
         <entry>workday-type-wrapper</entry>
         <entry encoding="base64">XDxyZW5kZXJUYWJsZUlucHV0c1w+</entry>
         <entry>WorkActivity</entry>
+        <entry>RadioButton</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

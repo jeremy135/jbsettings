@@ -170,12 +170,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495872052377">
-        <mark key="'" line="803" column="40" />
-        <mark key="[" line="528" column="31" />
-        <mark key="]" line="529" column="22" />
-        <mark key="." line="529" column="22" />
-        <mark key="^" line="529" column="22" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495874603256">
+        <mark key="'" line="807" column="40" />
+        <mark key="[" line="561" column="0" />
+        <mark key="]" line="561" column="0" />
+        <mark key="." line="561" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEditContainer.js" timestamp="1491124873793">
         <mark key="[" line="4" column="7" />
@@ -997,7 +996,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuc2NoZW1hLXNldHVwLWZvcm1fX3dvcmtkYXktdHlwZS1pY29uIHsKICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -1006,10 +1005,10 @@
         <text>workday-type-wrapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgImlwIjogInV4di5pc3BzeXN0ZW0ubmV0IiwK</text>
+        <text encoding="base64">ICAgICAgICAgIC5pbWl0YXRlUmFkaW8gOmNoZWNrZWQgKyAuaW1pdGF0ZVJhZGlvX19zd2l0Y2hlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuc2NoZW1hLXNldHVwLWZvcm1fX3dvcmtkYXktdHlwZS1pY29uIHsKICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1590,28 +1589,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEzMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAxMzBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLyoqcGFkZGluZy1sZWZ0OiAxMHB4OyovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEzMHB4Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAxMzBweDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogIzAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmltaXRhdGVSYWRpbyA6Y2hlY2tlZCArIC5pbWl0YXRlUmFkaW9fX3N3aXRjaGVyIHsK</text>
+        <text encoding="base64">ICAgICAgICAvL3Bvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21hcmdpbi10b3A6IC00cHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -170,12 +170,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495809862521">
-        <mark key="'" line="783" column="40" />
-        <mark key="[" line="541" column="15" />
-        <mark key="]" line="541" column="15" />
-        <mark key="." line="541" column="15" />
-        <mark key="^" line="546" column="52" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495872052377">
+        <mark key="'" line="803" column="40" />
+        <mark key="[" line="528" column="31" />
+        <mark key="]" line="529" column="22" />
+        <mark key="." line="529" column="22" />
+        <mark key="^" line="529" column="22" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEditContainer.js" timestamp="1491124873793">
         <mark key="[" line="4" column="7" />
@@ -405,12 +405,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495809818071">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495871817423">
         <mark key="'" line="248" column="50" />
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="81" />
-        <mark key="^" line="42" column="81" />
-        <mark key="." line="42" column="81" />
+        <mark key="[" line="56" column="109" />
+        <mark key="]" line="56" column="82" />
+        <mark key="^" line="56" column="82" />
+        <mark key="." line="56" column="82" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1491314999251">
         <mark key="'" line="157" column="26" />
@@ -996,11 +996,11 @@
       <jump line="797" column="40" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuc2NoZW1hLXNldHVwLWZvcm1fX3dvcmtkYXktdHlwZS1pY29uIHsKICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>workday-type-wrapper</text>
@@ -1009,7 +1009,7 @@
         <text encoding="base64">ICAgImlwIjogInV4di5pc3BzeXN0ZW0ubmV0IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2NoZW1hLXNldHVwLWZvcm1fX3dvcmtkYXktdHlwZS1pY29uIHsKICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1590,28 +1590,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLyoqcGFkZGluZy1sZWZ0OiAxMHB4OyovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIC8vIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLyoqcGFkZGluZy1sZWZ0OiAxMHB4OyovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogIzAwMDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmltaXRhdGVSYWRpbyA6Y2hlY2tlZCArIC5pbWl0YXRlUmFkaW9fX3N3aXRjaGVyIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogIzAwMDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLmltaXRhdGVSYWRpbyA6Y2hlY2tlZCArIC5pbWl0YXRlUmFkaW9fX3N3aXRjaGVyIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0b3A6IDRweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

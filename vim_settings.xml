@@ -10,19 +10,17 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1495895436184">
-        <mark key="'" line="126" column="20" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="39" column="13" />
-        <mark key="." line="39" column="13" />
-        <mark key="^" line="39" column="13" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="6" column="46" />
         <mark key="]" line="8" column="55" />
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/index.js" timestamp="1495549267131">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEditContainer.js" timestamp="1491126041962">
         <mark key="[" line="3" column="0" />
@@ -87,13 +85,6 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" timestamp="1495881936413">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="167" column="50" />
-        <mark key="]" line="167" column="62" />
-        <mark key="." line="167" column="62" />
-        <mark key="^" line="167" column="62" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="35" column="75" />
@@ -127,11 +118,11 @@
         <mark key="^" line="321" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/_form.scss" timestamp="1495549042778">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/_form.scss" timestamp="1495898403868">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" timestamp="1491833036429">
         <mark key="'" line="79" column="19" />
@@ -166,12 +157,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495876443250">
-        <mark key="'" line="808" column="40" />
-        <mark key="[" line="611" column="23" />
-        <mark key="]" line="612" column="23" />
-        <mark key="." line="612" column="23" />
-        <mark key="^" line="612" column="23" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__input/_input.scss" timestamp="1495898482832">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEditContainer.js" timestamp="1491124873793">
         <mark key="[" line="4" column="7" />
@@ -211,12 +201,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="13" column="51" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/__label/_label.scss" timestamp="1495894713017">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/globalSettings.js" timestamp="1492863112843">
         <mark key="[" line="14" column="38" />
@@ -262,6 +246,11 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueFormContainer.js" timestamp="1495725960594">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="17" column="40" />
@@ -287,6 +276,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="1" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__label/_flex/_form__label_flex.scss" timestamp="1495900518365">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/index.scss" timestamp="1495879468282">
         <mark key="[" line="5" column="38" />
@@ -327,12 +322,12 @@
         <mark key="." line="115" column="25" />
         <mark key="^" line="115" column="25" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__field/_form__field.scss" timestamp="1495549224447">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__field/_form__field.scss" timestamp="1495900339837">
         <mark key="'" line="1" column="19" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="3" column="2" />
-        <mark key="^" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
@@ -390,6 +385,12 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/OfficeForm/OfficeForm.js" timestamp="1495902181614">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="45" />
+        <mark key="^" line="48" column="45" />
+        <mark key="." line="48" column="45" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_switcher.scss" timestamp="1495806142010">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="37" />
@@ -407,13 +408,6 @@
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495871817423">
-        <mark key="'" line="248" column="50" />
-        <mark key="[" line="56" column="109" />
-        <mark key="]" line="56" column="82" />
-        <mark key="^" line="56" column="82" />
-        <mark key="." line="56" column="82" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1495882038407">
         <mark key="'" line="157" column="26" />
@@ -480,6 +474,12 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__control/_control.scss" timestamp="1495899915937">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/TimezoneSelect/TimezoneSelect.js" timestamp="1491219323678">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="24" />
@@ -498,13 +498,18 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="45" column="27" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495897379803">
-        <mark key="'" line="175" column="37" />
-        <mark key="[" line="209" column="19" />
-        <mark key="]" line="209" column="19" />
-        <mark key="." line="209" column="19" />
-        <mark key="^" line="209" column="22" />
-        <mark key="n" line="189" column="21" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__field/_flex/_flex.scss" timestamp="1495900994737">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495901782837">
+        <mark key="'" line="99" column="32" />
+        <mark key="[" line="246" column="97" />
+        <mark key="]" line="236" column="83" />
+        <mark key="." line="236" column="83" />
+        <mark key="^" line="236" column="83" />
+        <mark key="n" line="201" column="21" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/ReportsContainer.js" timestamp="1491128336283">
         <mark key="[" line="51" column="23" />
@@ -512,17 +517,23 @@
         <mark key="^" line="51" column="48" />
         <mark key="." line="51" column="48" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/settings/offices.scss" timestamp="1492853325226">
-        <mark key="[" line="69" column="17" />
-        <mark key="]" line="69" column="16" />
-        <mark key="^" line="69" column="16" />
-        <mark key="." line="69" column="16" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/settings/offices.scss" timestamp="1495901936048">
+        <mark key="[" line="99" column="3" />
+        <mark key="]" line="111" column="6" />
+        <mark key="^" line="111" column="6" />
+        <mark key="." line="111" column="6" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__title/_form__title.sass" timestamp="1495548703005">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__label/_label.scss" timestamp="1495901093116">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/actionCreators/reports.js" timestamp="1491128282736">
         <mark key="[" line="53" column="37" />
@@ -588,6 +599,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" timestamp="1495902013380">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/PunctualityReport/index.js" timestamp="1493043069762">
         <mark key="[" line="0" column="65" />
         <mark key="]" line="0" column="65" />
@@ -619,12 +635,12 @@
         <mark key="^" line="18" column="31" />
         <mark key="." line="18" column="31" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivityForm/WorkActivityForm.js" timestamp="1492852917216">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivityForm/WorkActivityForm.js" timestamp="1495903135062">
         <mark key="'" line="8" column="9" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="267" column="59" />
-        <mark key="." line="265" column="0" />
+        <mark key="[" line="281" column="31" />
+        <mark key="]" line="282" column="47" />
+        <mark key="^" line="282" column="47" />
+        <mark key="." line="282" column="47" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/schedule.js" timestamp="1491325848886">
         <mark key="[" line="77" column="7" />
@@ -826,7 +842,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495896010672">
+      <file name="/Dummy.txt" timestamp="1495901991098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -847,11 +863,11 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__title/_form__title.scss" timestamp="1495548830242">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__title/_form__title.scss" timestamp="1495898015175">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleMenu/ScheduleMenu.js" timestamp="1493043335657">
         <mark key="'" line="24" column="6" />
@@ -928,7 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
       <jump line="247" column="50" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" />
       <jump line="604" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="602" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
@@ -1028,22 +1043,23 @@
       <jump line="120" column="35" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="155" column="35" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="175" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
+      <jump line="99" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>employee-skills__switch-form&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text encoding="base64">XDxyZW5kZXJGaWVsZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0b3A6IC03cHggIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjMDAwOwo=</text>
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1624,43 +1640,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiA1MCU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5IGZyb20gIi4uLy4uLy4uL3NjaGVkdWxlL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3RHcm91cC9BY3Rpdml0eSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEycHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsKICAgICAgc3BhbiB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWFyb3VuZDsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3BhbiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzc05hbWU9e2NsYXNzTmFtZXMoeyAnaW5wdXQtZGlzYWJsZWQnOiAhdmFsdWUgfSl9PgogICAgICAgICAgPEZvcm1hdHRlZE1lc3NhZ2UgaWQ9IldvcmtBY3Rpdml0eUZvcm0ud29ya2luZyIgZGVmYXVsdE1lc3NhZ2U9ItCg0LDQsdC+0YfQtdC1IiAvPgogICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlnbi1pdGVtczogYmFzZWxpbmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJGaWVsZFw+</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxyZW5kZXJGaWVsZFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxyYWRpb1w+</entry>
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxvcGVuUGVybWlzc2lvbnNcPg==</entry>
@@ -1680,6 +1695,7 @@
         <entry>RadioButton</entry>
         <entry encoding="base64">XDxSYWRpb0J1dHRvblw+</entry>
         <entry>label</entry>
+        <entry encoding="base64">XDxyZW5kZXJGaWVsZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

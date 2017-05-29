@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/radio-select.scss" timestamp="1496064938465">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchemaContainer.js" timestamp="1495627707268">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="80" column="4" />
@@ -97,12 +103,6 @@
         <mark key="]" line="1" column="4" />
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1495728012659">
-        <mark key="'" line="182" column="10" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/index.html" timestamp="1496063178842">
         <mark key="[" line="4" column="0" />
@@ -288,11 +288,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/index.scss" timestamp="1495879468282">
-        <mark key="[" line="5" column="38" />
-        <mark key="]" line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/index.scss" timestamp="1496064763137">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleCopyForm/ScheduleCopyForm.js" timestamp="1491486375535">
         <mark key="'" line="75" column="14" />
@@ -508,12 +508,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495901782837">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1496064212534">
         <mark key="'" line="99" column="32" />
-        <mark key="[" line="246" column="97" />
-        <mark key="]" line="236" column="83" />
-        <mark key="." line="236" column="83" />
-        <mark key="^" line="236" column="83" />
+        <mark key="[" line="50" column="147" />
+        <mark key="]" line="50" column="150" />
+        <mark key="." line="50" column="150" />
+        <mark key="^" line="50" column="150" />
         <mark key="n" line="201" column="21" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/ReportsContainer.js" timestamp="1491128336283">
@@ -604,10 +604,17 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" timestamp="1495902013380">
-        <mark key="[" line="259" column="0" />
-        <mark key="]" line="259" column="0" />
-        <mark key="." line="259" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" timestamp="1496065469736">
+        <mark key="[" line="202" column="18" />
+        <mark key="]" line="202" column="19" />
+        <mark key="." line="202" column="19" />
+        <mark key="^" line="202" column="18" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/textarea/_textarea.scss" timestamp="1496065094290">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/PunctualityReport/index.js" timestamp="1493043069762">
         <mark key="[" line="0" column="65" />
@@ -666,12 +673,6 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/_radio-button.scss" timestamp="1495895693134">
-        <mark key="'" line="6" column="24" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="41" column="0" />
@@ -698,6 +699,12 @@
         <mark key="^" line="56" column="52" />
         <mark key="." line="56" column="52" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/input/_input.scss" timestamp="1496064274623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/CustomReports/GraphReport.js" timestamp="1491123469456">
         <mark key="'" line="7" column="9" />
         <mark key="[" line="140" column="0" />
@@ -710,12 +717,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1495896043068">
-        <mark key="'" line="3" column="9" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/scheduleSchemas.js" timestamp="1491120727013">
         <mark key="'" line="4" column="9" />
@@ -790,6 +791,12 @@
         <mark key="^" line="18" column="95" />
         <mark key="." line="18" column="95" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/input/_type/_input_type_text.scss" timestamp="1496065068054">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1495627888541">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
@@ -847,7 +854,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495901991098">
+      <file name="/Dummy.txt" timestamp="1496065387146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -1052,7 +1059,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMmQzZTUwOwo=</text>
       </register>
       <register name="-" type="4">
         <text>employee-skills__switch-form&quot;</text>
@@ -1064,7 +1071,7 @@
         <text encoding="base64">ICAgICAgICB0b3A6IC03cHggIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMmQzZTUwOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1645,28 +1652,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5IGZyb20gIi4uLy4uLy4uL3NjaGVkdWxlL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3RHcm91cC9BY3Rpdml0eSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5IGZyb20gIi4uLy4uLy4uL3NjaGVkdWxlL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3RHcm91cC9BY3Rpdml0eSI7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsKICAgICAgc3BhbiB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3BhbiB7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsK</text>
+        <text encoding="base64">ICAgICAgc3BhbiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

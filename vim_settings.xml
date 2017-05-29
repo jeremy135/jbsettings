@@ -71,11 +71,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495682185236">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/xsl/webpack.desktop.xsl" timestamp="1496037207131">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="62" />
@@ -171,7 +166,7 @@
         <mark key="." line="3" column="91" />
         <mark key="^" line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1495528598576">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1496041409609">
         <mark key="[" line="200" column="118" />
         <mark key="]" line="200" column="60" />
         <mark key="^" line="200" column="60" />
@@ -276,11 +271,6 @@
         <mark key="]" line="6" column="56" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
-      </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/prolong/super.prolong.dropdown.component.ts" timestamp="1495606904259">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaCopyForm/ScheduleSchemaCopyForm.js" timestamp="1491322041783">
         <mark key="[" line="9" column="29" />
@@ -441,7 +431,7 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" timestamp="1495619394214">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" timestamp="1496041363296">
         <mark key="[" line="162" column="97" />
         <mark key="]" line="162" column="96" />
         <mark key="." line="162" column="96" />
@@ -481,6 +471,7 @@
         <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-plans.component.ts" timestamp="1495595445040" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" timestamp="1496041006277" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/ticket-new.component.html" timestamp="1495613718709">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="22" />

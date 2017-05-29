@@ -79,11 +79,11 @@
         <mark key="^" line="59" column="62" />
         <mark key="." line="59" column="62" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.directive.ts" timestamp="1496046174669">
-        <mark key="[" line="33" column="50" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-        <mark key="^" line="33" column="88" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.directive.ts" timestamp="1496046856057">
+        <mark key="[" line="33" column="89" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/tslint1.json" timestamp="1490149480706">
         <mark key="[" line="46" column="0" />
@@ -279,11 +279,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496045843994">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496046844997">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaCopyForm/ScheduleSchemaCopyForm.js" timestamp="1491322041783">
         <mark key="[" line="9" column="29" />

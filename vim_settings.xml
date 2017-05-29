@@ -12,13 +12,6 @@
       <file name="/a.dummy" timestamp="1495591927225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
-        <mark key="'" line="3" column="45" />
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="8" column="55" />
-        <mark key="." line="8" column="55" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEditContainer.js" timestamp="1491126041962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -36,20 +29,6 @@
         <mark key="]" line="52" column="184" />
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphMenu/GraphMenu.js" timestamp="1494512606598">
-        <mark key="'" line="135" column="68" />
-        <mark key="[" line="150" column="62" />
-        <mark key="]" line="150" column="62" />
-        <mark key="." line="150" column="62" />
-        <mark key="^" line="150" column="62" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" timestamp="1494145161591">
-        <mark key="'" line="181" column="25" />
-        <mark key="[" line="170" column="21" />
-        <mark key="]" line="261" column="25" />
-        <mark key="." line="261" column="25" />
-        <mark key="^" line="261" column="25" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PayRateSelect/index.js" timestamp="1492860391595">
         <mark key="[" line="0" column="31" />
@@ -81,31 +60,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/index.js" timestamp="1491124765737">
-        <mark key="'" line="1" column="63" />
-        <mark key="[" line="1" column="97" />
-        <mark key="]" line="1" column="97" />
-        <mark key="^" line="1" column="97" />
-        <mark key="." line="1" column="97" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
-        <mark key="'" line="2" column="9" />
-        <mark key="[" line="35" column="75" />
-        <mark key="]" line="36" column="4" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495682185236">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" timestamp="1494522296504">
-        <mark key="'" line="456" column="16" />
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="^" line="400" column="87" />
-        <mark key="." line="404" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/tslint1.json" timestamp="1490149480706">
         <mark key="[" line="46" column="0" />
@@ -113,25 +71,11 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/ChangeQueueForm.js" timestamp="1491326008390">
-        <mark key="'" line="60" column="29" />
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="44" />
-        <mark key="." line="62" column="44" />
-        <mark key="^" line="62" column="44" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-info.component.html" timestamp="1495686220080">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="50" />
         <mark key="^" line="6" column="50" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/forecasts/components/Forecast/Forecast.js" timestamp="1489764690769">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="321" column="0" />
-        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/form/form.component.ts" timestamp="1495685572338" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support-menu.component.html" timestamp="1495612771903">
@@ -147,32 +91,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/utils/fetchBackend.js" timestamp="1491833036429">
-        <mark key="'" line="79" column="19" />
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="80" column="36" />
-        <mark key="^" line="80" column="36" />
-        <mark key="." line="80" column="36" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/source/sass/helpers/_variables.sass" timestamp="1489921470125">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="54" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="21" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_inline/_inline.sass" timestamp="1495605745658">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/RadioSelect/RadioSelect.js" timestamp="1492863483388">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="60" column="18" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1491220886627">
         <mark key="[" line="80" column="25" />
@@ -185,27 +108,6 @@
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchema/ScheduleSchema.js" timestamp="1494595384431">
-        <mark key="'" line="57" column="42" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="^" line="272" column="64" />
-        <mark key="." line="274" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/payment/components/bank-payment-profile-ip.company.ts" timestamp="1490474393517">
-        <mark key="'" line="6" column="9" />
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="54" column="40" />
-        <mark key="^" line="54" column="40" />
-        <mark key="." line="54" column="40" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeGroupForm/EmployeeGroupForm.js" timestamp="1491490243202">
-        <mark key="'" line="16" column="9" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="293" column="46" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroupContainer.js" timestamp="1491314846559">
         <mark key="[" line="21" column="92" />
@@ -249,33 +151,12 @@
         <mark key="^" line="200" column="60" />
         <mark key="." line="200" column="60" />
       </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/common/wizard/super.wizard.service.ts" timestamp="1490471770491">
-        <mark key="'" line="142" column="13" />
-        <mark key="[" line="138" column="31" />
-        <mark key="]" line="138" column="49" />
-        <mark key="." line="138" column="49" />
-        <mark key="^" line="138" column="49" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueForm.js" timestamp="1491231445346">
-        <mark key="'" line="91" column="23" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.directive.ts" timestamp="1495593725096" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" timestamp="1495607703242">
         <mark key="[" line="16" column="62" />
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="62" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="57" />
-        <mark key="^" line="17" column="57" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/messages.js" timestamp="1492614875392">
         <mark key="[" line="3" column="72" />
@@ -288,13 +169,6 @@
         <mark key="]" line="86" column="69" />
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="69" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/common/wizard/super.wizard.component.ts" timestamp="1490463846270">
-        <mark key="'" line="72" column="11" />
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="12" />
-        <mark key="^" line="37" column="12" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
         <mark key="[" line="1" column="0" />
@@ -309,39 +183,11 @@
         <mark key="^" line="154" column="54" />
         <mark key="." line="154" column="54" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleCopyForm/ScheduleCopyForm.js" timestamp="1491486375535">
-        <mark key="'" line="75" column="14" />
-        <mark key="[" line="73" column="59" />
-        <mark key="]" line="73" column="96" />
-        <mark key="." line="73" column="96" />
-        <mark key="^" line="73" column="96" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" timestamp="1495279962891">
-        <mark key="'" line="298" column="22" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="^" line="180" column="30" />
-        <mark key="." line="197" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTableContainer.js" timestamp="1493038384211">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="10" />
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" timestamp="1492445293372">
-        <mark key="'" line="458" column="60" />
-        <mark key="[" line="469" column="0" />
-        <mark key="]" line="469" column="0" />
-        <mark key="^" line="468" column="36" />
-        <mark key="." line="469" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/company-structure.scss" timestamp="1489772930806">
-        <mark key="'" line="251" column="16" />
-        <mark key="[" line="294" column="21" />
-        <mark key="]" line="294" column="19" />
-        <mark key="." line="294" column="19" />
-        <mark key="^" line="294" column="19" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
@@ -355,12 +201,12 @@
         <mark key="^" line="34" column="56" />
         <mark key="." line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1495708345731">
-        <mark key="'" line="883" column="40" />
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="32" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" timestamp="1496029747212">
+        <mark key="'" line="151" column="33" />
+        <mark key="[" line="909" column="39" />
+        <mark key="]" line="909" column="54" />
+        <mark key="." line="909" column="54" />
+        <mark key="^" line="909" column="54" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/index.js" timestamp="1493046463189">
         <mark key="[" line="0" column="67" />
@@ -387,20 +233,6 @@
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="4" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/Reports.js" timestamp="1491222277066">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="136" column="77" />
-        <mark key="]" line="136" column="77" />
-        <mark key="^" line="136" column="77" />
-        <mark key="." line="136" column="77" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/QueueSelect/QueueSelect.js" timestamp="1490629943832">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-      </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/index/routes/index.js" timestamp="1491575740365">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -419,45 +251,10 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1492613276188">
-        <mark key="'" line="5" column="9" />
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="11" column="32" />
-        <mark key="^" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1491314999251">
-        <mark key="'" line="157" column="26" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="160" column="86" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/prolong/super.prolong.dropdown.component.ts" timestamp="1495606904259">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/Employee/Employee.js" timestamp="1491919459607">
-        <mark key="'" line="218" column="2" />
-        <mark key="[" line="490" column="18" />
-        <mark key="]" line="490" column="21" />
-        <mark key="." line="490" column="21" />
-        <mark key="^" line="490" column="21" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadioContainer.js" timestamp="1491565995221">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="51" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/forecasts/components/Forecast/ForecastMessages.js" timestamp="1489763728673">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaCopyForm/ScheduleSchemaCopyForm.js" timestamp="1491322041783">
         <mark key="[" line="9" column="29" />
@@ -477,12 +274,12 @@
         <mark key="^" line="93" column="63" />
         <mark key="." line="93" column="63" />
       </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/payment/payment.router.ts" timestamp="1490532583409">
-        <mark key="'" line="123" column="5" />
-        <mark key="[" line="103" column="51" />
-        <mark key="]" line="103" column="50" />
-        <mark key="." line="103" column="50" />
-        <mark key="^" line="103" column="50" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" timestamp="1495607340684">
+        <mark key="'" line="49" column="10" />
+        <mark key="[" line="181" column="34" />
+        <mark key="]" line="181" column="58" />
+        <mark key="." line="181" column="58" />
+        <mark key="^" line="181" column="58" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
@@ -526,13 +323,6 @@
         <mark key="^" line="21" column="169" />
         <mark key="." line="21" column="169" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" timestamp="1495267010369">
-        <mark key="'" line="3" column="16" />
-        <mark key="[" line="276" column="28" />
-        <mark key="]" line="276" column="25" />
-        <mark key="." line="276" column="25" />
-        <mark key="^" line="276" column="25" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/ReportsContainer.js" timestamp="1491128336283">
         <mark key="[" line="51" column="23" />
         <mark key="]" line="51" column="48" />
@@ -570,38 +360,17 @@
         <mark key="." line="71" column="67" />
         <mark key="^" line="71" column="67" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" timestamp="1495270194079">
-        <mark key="'" line="86" column="34" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="86" column="163" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/SettingsMenu/SettingsMenu.js" timestamp="1494425317926">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="37" column="98" />
         <mark key="^" line="37" column="98" />
         <mark key="." line="37" column="98" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/graph.js" timestamp="1493042091648">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="263" column="32" />
-        <mark key="]" line="273" column="18" />
-        <mark key="^" line="273" column="18" />
-        <mark key="." line="273" column="18" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1495270301922">
         <mark key="[" line="535" column="44" />
         <mark key="]" line="535" column="44" />
         <mark key="." line="535" column="44" />
         <mark key="^" line="535" column="69" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/templates/ssl-widget.component.html" timestamp="1489922218460">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="40" column="112" />
-        <mark key="]" line="40" column="126" />
-        <mark key="^" line="40" column="126" />
-        <mark key="." line="40" column="126" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/PunctualityReport/index.js" timestamp="1493043069762">
         <mark key="[" line="0" column="65" />
@@ -615,38 +384,24 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="18" column="12" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/components/profile-edit.component.ts" timestamp="1495524270103">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="111" column="2" />
+        <mark key="]" line="111" column="21" />
+        <mark key="^" line="109" column="69" />
+        <mark key="." line="109" column="69" />
+      </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/components/Archives/Archives.js" timestamp="1492611397018">
         <mark key="[" line="28" column="46" />
         <mark key="]" line="28" column="16" />
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Datepicker/Datepicker.js" timestamp="1490433462139">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="18" column="31" />
-        <mark key="^" line="18" column="31" />
-        <mark key="." line="18" column="31" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivityForm/WorkActivityForm.js" timestamp="1492852917216">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="267" column="59" />
-        <mark key="." line="265" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/schedule.js" timestamp="1491325848886">
         <mark key="[" line="77" column="7" />
         <mark key="]" line="78" column="29" />
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/SidebarMenuTemplate/SidebarMenuTemplate.js" timestamp="1494513520369">
-        <mark key="'" line="322" column="30" />
-        <mark key="[" line="181" column="35" />
-        <mark key="]" line="181" column="109" />
-        <mark key="." line="181" column="109" />
-        <mark key="^" line="181" column="109" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/routes/settings.js" timestamp="1494423533292">
         <mark key="[" line="68" column="30" />
@@ -660,25 +415,11 @@
         <mark key="." line="162" column="96" />
         <mark key="^" line="162" column="96" />
       </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="60" column="19" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-edit.component.ts" timestamp="1495678602475">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="22" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="22" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1494597444073">
-        <mark key="'" line="335" column="2" />
-        <mark key="[" line="438" column="57" />
-        <mark key="]" line="438" column="67" />
-        <mark key="^" line="438" column="67" />
-        <mark key="." line="438" column="67" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorMonth/OperatorMonth.js" timestamp="1494128364719">
         <mark key="[" line="56" column="28" />
@@ -689,32 +430,11 @@
       <file name="vim_settings.xml" timestamp="1495691002506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/CustomReports/GraphReport.js" timestamp="1491123469456">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="54" />
-        <mark key="." line="140" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1491114888665">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="109" column="90" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/scheduleSchemas.js" timestamp="1491120727013">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/dateMessages.js" timestamp="1489763772337">
-        <mark key="'" line="2" column="17" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/index.js" timestamp="1491833045377">
         <mark key="[" line="21" column="72" />
@@ -722,47 +442,12 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" timestamp="1495271191410">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="97" column="7" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-plans.component.ts" timestamp="1495595445040" />
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/index.js" timestamp="1492690650406">
-        <mark key="'" line="1" column="42" />
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="86" />
-        <mark key="." line="1" column="86" />
-        <mark key="^" line="1" column="86" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ExecuteReportForm/ExecuteReportForm.js" timestamp="1494421825636">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="89" column="60" />
-        <mark key="]" line="89" column="78" />
-        <mark key="^" line="89" column="78" />
-        <mark key="." line="89" column="78" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ContextMenu/ContextMenu.js" timestamp="1490104553662">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/ticket-new.component.html" timestamp="1495613718709">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEdit.js" timestamp="1491224562184">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/templates/client-profile.component.html" timestamp="1495692888434" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/routes/punctuality.js" timestamp="1493043191578">
@@ -771,39 +456,11 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/app/finance/templates/profile-edit-person.component.html" timestamp="1490152173638">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="53" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="53" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/new-bill-theme/app/common/filter/filter.service.ts" timestamp="1492130944555">
-        <mark key="'" line="84" column="13" />
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="70" column="36" />
-        <mark key="." line="70" column="36" />
-        <mark key="^" line="70" column="36" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/index.js" timestamp="1494419961710">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
         <mark key="^" line="1" column="80" />
         <mark key="." line="1" column="80" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.js" timestamp="1491835140956">
-        <mark key="'" line="133" column="2" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="243" column="43" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendar.js" timestamp="1494163982106">
-        <mark key="'" line="26" column="40" />
-        <mark key="[" line="181" column="10" />
-        <mark key="]" line="181" column="3" />
-        <mark key="^" line="181" column="3" />
-        <mark key="." line="181" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1495278532054">
         <mark key="[" line="0" column="0" />
@@ -826,48 +483,6 @@
         <mark key="]" line="21" column="36" />
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleMenu/ScheduleMenu.js" timestamp="1493043335657">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="58" column="76" />
-        <mark key="]" line="58" column="87" />
-        <mark key="." line="58" column="87" />
-        <mark key="^" line="58" column="87" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Chart/Chart.js" timestamp="1489586679318">
-        <mark key="'" line="126" column="28" />
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/TasksList/TasksListContainer.js" timestamp="1492616984290">
-        <mark key="'" line="79" column="12" />
-        <mark key="[" line="78" column="3" />
-        <mark key="]" line="79" column="12" />
-        <mark key="^" line="79" column="12" />
-        <mark key="." line="79" column="12" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" timestamp="1495279043571">
-        <mark key="'" line="49" column="4" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="^" line="47" column="0" />
-        <mark key="." line="155" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/BalancerSettings.js" timestamp="1494598891471">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="99" column="21" />
-        <mark key="]" line="104" column="144" />
-        <mark key="^" line="104" column="144" />
-        <mark key="." line="104" column="144" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CollapseExpand/CollapseExpand.js" timestamp="1490451878043">
-        <mark key="'" line="23" column="9" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="93" column="36" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleMenu/ScheduleMenuContainer.js" timestamp="1493043385577">
         <mark key="[" line="31" column="71" />
@@ -893,16 +508,8 @@
         <mark key="^" line="82" column="8" />
         <mark key="." line="82" column="8" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/GraphContainer.js" timestamp="1490966115955">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="71" column="6" />
-        <mark key="]" line="71" column="6" />
-        <mark key="^" line="3" column="115" />
-        <mark key="." line="71" column="6" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="338" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="455" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="142" column="15" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/OperatorPunctuality/OperatorPunctuality.js" />
@@ -1002,55 +609,56 @@
       <jump line="810" column="56" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="893" column="44" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
+      <jump line="151" column="33" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPG1zZyBuYW1lPSJpc19nZW5fZXJyb3Jfc3VwcG9ydCI+PC9tc2c+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_user</text>
+        <text>_ssl</text>
       </register>
       <register name="0" type="4">
         <text>EXTLICENSE:LICENSE_STOPPED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyAndmFsdWUnOiByZWlzc3VlTGluayB9Igo=</text>
+        <text encoding="base64">ICAgICAgPG1zZyBuYW1lPSJpc19nZW5fZXJyb3Jfc3VwcG9ydCI+PC9tc2c+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyAndmFsdWUnOiByZWlzc3VlTGluayB9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0TGlua0ZvckJhbm5lclN0YXR1cygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_user</last-search>
+      <last-search>_ssl</last-search>
       <last-offset />
-      <last-pattern>_user</last-pattern>
+      <last-pattern>_ssl</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1070,10 +678,10 @@
         <entry>license</entry>
         <entry>_license</entry>
         <entry>status_in_pay</entry>
-        <entry>_ssl</entry>
         <entry>stopped_banner_msg</entry>
         <entry>USER_NOTIFY_EMAIL_SEND</entry>
         <entry>_user</entry>
+        <entry>_ssl</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

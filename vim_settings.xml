@@ -104,6 +104,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/index.html" timestamp="1496063178842">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/ChangeQueueForm.js" timestamp="1491326008390">
         <mark key="'" line="60" column="29" />
         <mark key="[" line="62" column="12" />
@@ -1047,7 +1052,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>employee-skills__switch-form&quot;</text>
@@ -1059,7 +1064,7 @@
         <text encoding="base64">ICAgICAgICB0b3A6IC03cHggIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Imh0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vaWNvbj9mYW1pbHk9TWF0ZXJpYWwrSWNvbnMiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1640,28 +1645,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5IGZyb20gIi4uLy4uLy4uL3NjaGVkdWxlL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3RHcm91cC9BY3Rpdml0eSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5U2VsZWN0RHJvcGRvd24gZnJvbSAiLi4vLi4vLi4vY29tbW9uL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3REcm9wZG93bi9BY3Rpdml0eVNlbGVjdERyb3Bkb3duIjsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IEFjdGl2aXR5IGZyb20gIi4uLy4uLy4uL3NjaGVkdWxlL2NvbXBvbmVudHMvQWN0aXZpdHlTZWxlY3RHcm91cC9BY3Rpdml0eSI7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsKICAgICAgc3BhbiB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc3BhbiB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhbGlnbi1pdGVtczogYmFzZWxpbmU7Cg==</text>
+        <text encoding="base64">ICAgIC5lbXBsb3llZS1mb3JtX19sZWZ0IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

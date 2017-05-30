@@ -133,7 +133,9 @@
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter-indicator.component.ts" timestamp="1496130332589" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter-indicator.component.ts" timestamp="1496137253114">
+        <mark key="'" line="24" column="29" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-person.component.html" timestamp="1495523732792" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/modal/modal.component.html" timestamp="1496053910946" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" timestamp="1496134575435">
@@ -214,6 +216,9 @@
         <mark key="]" line="53" column="37" />
         <mark key="^" line="53" column="37" />
         <mark key="." line="53" column="37" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" timestamp="1496136879239">
+        <mark key="'" line="68" column="2" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/components/profile-edit-ip.component.ts" timestamp="1495523715168" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/finance/templates/profile-edit-entity.component.html" timestamp="1495524329008">
@@ -665,12 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="335" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
-      <jump line="19" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" />
-      <jump line="4" column="25" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" />
-      <jump line="121" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
-      <jump line="3" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="87" column="34" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" />
       <jump line="82" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" />
       <jump line="72" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateFormContainer.js" />
@@ -765,6 +764,12 @@
       <jump line="210" column="69" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
       <jump line="17" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
       <jump line="57" column="18" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="132" column="15" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" />
+      <jump line="78" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" />
+      <jump line="35" column="2" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" />
+      <jump line="135" column="13" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" />
+      <jump line="68" column="2" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/tablelist/table-list.component.ts" />
+      <jump line="24" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter-indicator.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -774,7 +779,7 @@
         <text>ViewContainerRef</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</text>
+        <text encoding="base64">XDxmaWx0ZXJQYXJhbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsCiAgVmlld0NvbnRhaW5lclJlZgo=</text>
@@ -811,17 +816,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5Q29udGFjdFw+</entry>
-        <entry encoding="base64">XDxUcmFuc2xhdGVTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxGb3JtQ29tcG9uZW50XD4=</entry>
         <entry encoding="base64">XDxvYnNlcnZlclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxzaG93UHJvbW9jb2RlTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxpc1Nob3dQcm9tb2NvZGVNc2dcPg==</entry>
@@ -839,6 +841,9 @@
         <entry encoding="base64">XDxCYXNrZXRNZXJnZUNvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxMaWNlbnNlRXh0ZW5kRmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJJc0FwcGxpZWRcPg==</entry>
+        <entry encoding="base64">XDxnb3RGaWx0ZXJDYWxsYmFja1w+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJQYXJhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

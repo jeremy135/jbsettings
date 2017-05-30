@@ -30,6 +30,11 @@
         <mark key="^" line="8" column="55" />
         <mark key="." line="8" column="55" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/index.js" timestamp="1495549267131">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEditContainer.js" timestamp="1491126041962">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -113,6 +118,11 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/index.html" timestamp="1496063178842">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/ChangeQueueForm.js" timestamp="1491326008390">
         <mark key="'" line="60" column="29" />
         <mark key="[" line="62" column="12" />
@@ -154,6 +164,11 @@
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" timestamp="1496155628925">
         <mark key="'" line="26" column="17" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/select/_select.scss" timestamp="1496071388347">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/source/sass/helpers/_variables.sass" timestamp="1489921470125">
         <mark key="'" line="0" column="0" />
@@ -270,6 +285,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="5" column="49" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueFormContainer.js" timestamp="1495725960594">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" timestamp="1495266950877">
         <mark key="'" line="4" column="25" />
@@ -565,6 +585,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="45" column="27" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__field/_flex/_flex.scss" timestamp="1495900994737">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/ReportsContainer.js" timestamp="1491128336283">
         <mark key="[" line="51" column="23" />
         <mark key="]" line="51" column="48" />
@@ -767,7 +792,7 @@
         <mark key="^" line="94" column="14" />
         <mark key="." line="94" column="14" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1496149985747">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1496158665796">
         <mark key="'" line="336" column="2" />
         <mark key="[" line="95" column="31" />
         <mark key="]" line="96" column="54" />
@@ -867,6 +892,11 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelect/ActivitySelect.js" timestamp="1496158694092">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/input/_type/_input_type_number.scss" timestamp="1496072004149">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="12" />
@@ -948,7 +978,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496156127835">
+      <file name="/Dummy.txt" timestamp="1496158683913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -1165,7 +1195,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMCA/IGhhc0FkZGl0aW9uYWxTY2hlZHVsZXMgPSB0cnVlIDogaGFzQWRkaXRpb25hbFNjaGVkdWxlcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17J3JhZGlvLSd9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1177,7 +1207,7 @@
         <text encoding="base64">dGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMCA/IGhhc0FkZGl0aW9uYWxTY2hlZHVsZXMgPSB0cnVlIDogaGFzQWRkaXRpb25hbFNjaGVkdWxlcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17J3JhZGlvLSd9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1758,28 +1788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGluZGV4ZWRBZGRpdGlvbmFsU2NoZWR1bGVzID0gdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlczsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMCA/IGhhc0FkZGl0aW9uYWxTY2hlZHVsZXMgPSB0cnVlIDogaGFzQWRkaXRpb25hbFNjaGVkdWxlcyA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXh0UHJvcHMnLCBuZXh0UHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICAgbGV0IGluZGV4ZWRBZGRpdGlvbmFsU2NoZWR1bGVzID0gdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXh0UHJvcHMnLCBuZXh0UHJvcHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5kZXhlZEFkZGl0aW9uYWxTY2hlZHVsZXMgKCkgewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmRleEFkZGl0aW9uCg==</text>
+        <text encoding="base64">aW5kZXhlZEFkZGl0aW9uYWxTY2hlZHVsZXMgKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ1c2Ugc3RyaWN0IjsK</text>
+        <text encoding="base64">ICBpbmRleEFkZGl0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

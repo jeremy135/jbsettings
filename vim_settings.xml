@@ -130,6 +130,12 @@
         <mark key="." line="62" column="44" />
         <mark key="^" line="62" column="44" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/operator/operator.scss" timestamp="1496152871756">
+        <mark key="[" line="443" column="21" />
+        <mark key="]" line="444" column="19" />
+        <mark key="^" line="444" column="19" />
+        <mark key="." line="444" column="19" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/forecasts/components/Forecast/Forecast.js" timestamp="1489764690769">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="13" column="0" />
@@ -461,11 +467,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" timestamp="1496147779259">
-        <mark key="[" line="187" column="26" />
-        <mark key="]" line="190" column="40" />
-        <mark key="^" line="190" column="40" />
-        <mark key="." line="190" column="40" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" timestamp="1496153336973">
+        <mark key="'" line="121" column="13" />
+        <mark key="[" line="100" column="145" />
+        <mark key="]" line="100" column="149" />
+        <mark key="^" line="100" column="149" />
+        <mark key="." line="100" column="149" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495871817423">
         <mark key="'" line="248" column="50" />
@@ -757,12 +764,12 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" timestamp="1496151721439">
-        <mark key="'" line="123" column="17" />
-        <mark key="[" line="69" column="23" />
-        <mark key="]" line="70" column="59" />
-        <mark key="^" line="70" column="59" />
-        <mark key="." line="70" column="59" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" timestamp="1496152788609">
+        <mark key="'" line="153" column="80" />
+        <mark key="[" line="87" column="59" />
+        <mark key="]" line="87" column="37" />
+        <mark key="^" line="87" column="37" />
+        <mark key="." line="87" column="37" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" timestamp="1496150643412">
         <mark key="'" line="35" column="2" />
@@ -889,7 +896,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/createReportTheme.js" timestamp="1496147388554">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/createReportTheme.js" timestamp="1496153266361">
         <mark key="[" line="215" column="23" />
         <mark key="]" line="216" column="19" />
         <mark key="^" line="216" column="19" />
@@ -963,7 +970,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496072677002">
+      <file name="/Dummy.txt" timestamp="1496152837899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -1077,18 +1084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="673" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
-      <jump line="525" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
-      <jump line="526" column="39" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
-      <jump line="144" column="23" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
-      <jump line="2" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" />
-      <jump line="26" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/routes/operator.js" />
-      <jump line="86" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" />
-      <jump line="15" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueForm.js" />
-      <jump line="91" column="23" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueForm.js" />
-      <jump line="134" column="35" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
-      <jump line="126" column="18" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
-      <jump line="18" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
       <jump line="47" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
       <jump line="24" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
       <jump line="149" column="26" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" />
@@ -1177,22 +1172,34 @@
       <jump line="110" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
       <jump line="116" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
       <jump line="122" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="151" column="59" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="148" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="135" column="46" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="133" column="64" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="153" column="80" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="148" column="26" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="212" column="12" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="35" column="53" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="39" column="12" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="71" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="93" column="54" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
+      <jump line="121" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Requests/Requests.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3RoZW1lLmFjdHVhbH0+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</text>
+        <text>actual</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICdfdHlwZS9pbnB1dF90eXBlX3RleHQnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9e3RoZW1lLmFjdHVhbH0+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZGRpdGlvbmFsU2NoZWR1bGVzJywgYWRkaXRpb25hbFNjaGVkdWxlcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1773,44 +1780,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</last-search>
+      <last-search>actual</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>actual</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sort</entry>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxzb3J0XD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxyZW5kZXJUYWJsZVw+</entry>
@@ -1829,6 +1834,8 @@
         <entry>input</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZFNjaGVkdWxlXD4=</entry>
+        <entry>actual</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

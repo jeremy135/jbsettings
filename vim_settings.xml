@@ -367,11 +367,11 @@
         <mark key="^" line="59" column="62" />
         <mark key="." line="59" column="62" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.ts" timestamp="1496131401550">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.ts" timestamp="1496136562468">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/user.routes.ts" timestamp="1496032404104">
         <mark key="[" line="52" column="0" />
@@ -647,7 +647,9 @@
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496135168194" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496136219472">
+        <mark key="'" line="57" column="18" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/templates/user-profile-settings.component.html" timestamp="1495693610409">
         <mark key="[" line="3" column="49" />
         <mark key="]" line="3" column="50" />
@@ -663,7 +665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="431" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="335" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
       <jump line="19" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeFormContainer.js" />
@@ -763,6 +764,7 @@
       <jump line="58" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
       <jump line="210" column="69" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
       <jump line="17" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
+      <jump line="57" column="18" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -772,7 +774,7 @@
         <text>ViewContainerRef</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaWNlbnNlRXh0ZW5kRmlsdGVyXD4=</text>
+        <text encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsCiAgVmlld0NvbnRhaW5lclJlZgo=</text>
@@ -809,15 +811,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaWNlbnNlRXh0ZW5kRmlsdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaWNlbnNlRXh0ZW5kRmlsdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
         <entry encoding="base64">XDxjb3B5Q29udGFjdFw+</entry>
         <entry encoding="base64">XDxUcmFuc2xhdGVTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxGb3JtQ29tcG9uZW50XD4=</entry>
@@ -837,6 +838,7 @@
         <entry encoding="base64">XDxjaGVja011bHRpQmFza2V0XD4=</entry>
         <entry encoding="base64">XDxCYXNrZXRNZXJnZUNvbXBvbmVudFw+</entry>
         <entry encoding="base64">XDxMaWNlbnNlRXh0ZW5kRmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0ZpbHRlckNhbGxiYWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

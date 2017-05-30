@@ -142,11 +142,11 @@
         <mark key="^" line="21" column="92" />
         <mark key="." line="21" column="92" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/shared.modal-window.module.ts" timestamp="1496127058982">
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="57" />
-        <mark key="^" line="2" column="57" />
-        <mark key="." line="2" column="57" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/shared.modal-window.module.ts" timestamp="1496127747877">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="47" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlockerContainer.js" timestamp="1494422228063">
         <mark key="[" line="31" column="0" />
@@ -260,6 +260,12 @@
         <mark key="." line="70" column="6" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl.component.html" timestamp="1495684191693" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/ispsystem/app/app.component.html" timestamp="1496128116802">
+        <mark key="[" line="164" column="36" />
+        <mark key="]" line="165" column="23" />
+        <mark key="^" line="165" column="23" />
+        <mark key="." line="165" column="23" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/bank-payment/templates/bank-payment-profile-person.html" timestamp="1490152183854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="118" column="9" />
@@ -290,11 +296,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496126659173">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="26" column="3" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496128027440">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+        <mark key="^" line="33" column="9" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaCopyForm/ScheduleSchemaCopyForm.js" timestamp="1491322041783">
         <mark key="[" line="9" column="29" />
@@ -502,6 +508,12 @@
         <mark key="]" line="1" column="80" />
         <mark key="^" line="1" column="80" />
         <mark key="." line="1" column="80" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/firstssl/app/app.component.html" timestamp="1496128100160">
+        <mark key="[" line="136" column="36" />
+        <mark key="]" line="137" column="23" />
+        <mark key="^" line="137" column="23" />
+        <mark key="." line="137" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1495278532054">
         <mark key="[" line="0" column="0" />

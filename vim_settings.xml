@@ -130,11 +130,23 @@
         <mark key="." line="4" column="42" />
         <mark key="^" line="4" column="42" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/firstssl/app/app.module.ts" timestamp="1496127156760">
+        <mark key="[" line="52" column="26" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroupContainer.js" timestamp="1491314846559">
         <mark key="[" line="21" column="92" />
         <mark key="]" line="21" column="92" />
         <mark key="^" line="21" column="92" />
         <mark key="." line="21" column="92" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/shared.modal-window.module.ts" timestamp="1496127058982">
+        <mark key="[" line="2" column="57" />
+        <mark key="]" line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="57" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlockerContainer.js" timestamp="1494422228063">
         <mark key="[" line="31" column="0" />
@@ -165,6 +177,12 @@
         <mark key="]" line="3" column="91" />
         <mark key="." line="3" column="91" />
         <mark key="^" line="3" column="1" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/ispsystem/app/app.module.ts" timestamp="1496127282538">
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="60" column="27" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1496041409609">
         <mark key="[" line="200" column="118" />
@@ -478,6 +496,7 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/shared.banner.module.ts" timestamp="1496126910343" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/index.js" timestamp="1494419961710">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
@@ -488,11 +507,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-plans.component.html" timestamp="1495593900393" />
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/index.ts" timestamp="1496045920551">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/index.ts" timestamp="1496127198799">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
         <mark key="[" line="80" column="28" />
@@ -511,11 +530,6 @@
         <mark key="]" line="21" column="36" />
         <mark key="^" line="21" column="36" />
         <mark key="." line="21" column="36" />
-      </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/components/user-profile-settings-notifications.component.ts" timestamp="1496039392991">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496042410306" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleMenu/ScheduleMenuContainer.js" timestamp="1493043385577">
@@ -654,7 +668,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpc0Nsb3NlOiBib29sZWFuID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIEJhbm5lckRpcmVjdGl2ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>ViewContainerRef</text>
@@ -666,31 +680,31 @@
         <text encoding="base64">ICBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsCiAgVmlld0NvbnRhaW5lclJlZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpc0Nsb3NlOiBib29sZWFuID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIEJhbm5lckRpcmVjdGl2ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIEJhbm5lckNvbXBvbmVudCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJhbm5lckRpcmVjdGl2ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtb2RhbCcsIG1vZGFsKTsK</text>
+        <text encoding="base64">ICAgIEJhbm5lckNvbXBvbmVudCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZCcsIGQpOwo=</text>
+        <text encoding="base64">ICAgIEJhbm5lckNvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BhcmFtcycsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIFNoYXJlZFRyYW5zbGF0ZU1vZHVsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFubmVyRGlyZWN0aXZlIH0gZnJvbSAnLi9iYW5uZXIvYmFubmVyLmRpcmVjdGl2ZSc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmFtc1snZnVuYyddID09PSAnbm90aWNlLmNvbmZpcm0nKSB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgQmFubmVyQ29tcG9uZW50IH0gZnJvbSAnLi9iYW5uZXIvYmFubmVyLmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXMpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

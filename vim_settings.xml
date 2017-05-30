@@ -74,11 +74,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495682185236">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/xsl/webpack.desktop.xsl" timestamp="1496037207131">
         <mark key="[" line="59" column="58" />
         <mark key="]" line="59" column="62" />
@@ -277,15 +272,11 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/prolong/super.prolong.dropdown.component.ts" timestamp="1495606904259">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496054344567">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.ts" timestamp="1496126659173">
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaCopyForm/ScheduleSchemaCopyForm.js" timestamp="1491322041783">
         <mark key="[" line="9" column="29" />
@@ -539,7 +530,7 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="3" column="50" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/banner/banner.component.ts" timestamp="1496053974986" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/banner/banner.component.ts" timestamp="1496126278825" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-graph.scss" timestamp="1491391601783">
         <mark key="[" line="99" column="3" />
         <mark key="]" line="108" column="6" />
@@ -663,7 +654,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICBpc0Nsb3NlOiBib29sZWFuID0gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
         <text>ViewContainerRef</text>
@@ -675,31 +666,31 @@
         <text encoding="base64">ICBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsCiAgVmlld0NvbnRhaW5lclJlZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICBpc0Nsb3NlOiBib29sZWFuID0gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtb2RhbCcsIG1vZGFsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZCcsIGQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtb2RhbCcsIG1vZGFsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BhcmFtcycsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZCcsIGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BhcmFtcycsIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmFtc1snZnVuYyddID09PSAnbm90aWNlLmNvbmZpcm0nKSB7CiAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXJhbXMpIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhcmFtc1snZnVuYyddID09PSAnbm90aWNlLmNvbmZpcm0nKSB7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXJhbXMpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -757,6 +757,13 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" timestamp="1496151721439">
+        <mark key="'" line="123" column="17" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="70" column="59" />
+        <mark key="^" line="70" column="59" />
+        <mark key="." line="70" column="59" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" timestamp="1496150643412">
         <mark key="'" line="35" column="2" />
         <mark key="[" line="332" column="23" />
@@ -1070,9 +1077,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="602" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
-      <jump line="158" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
-      <jump line="510" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="673" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="525" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="526" column="39" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
@@ -1170,6 +1174,9 @@
       <jump line="99" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="306" column="53" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
       <jump line="35" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
+      <jump line="110" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="116" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
+      <jump line="122" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/operator/components/OperatorAdditionalSchedules/OperatorAdditionalSchedules.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1179,7 +1186,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAaW1wb3J0ICdfdHlwZS9pbnB1dF90eXBlX3RleHQnOwo=</text>
@@ -1794,16 +1801,14 @@
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcGVuUGVybWlzc2lvbnNcPg==</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uR3JvdXBSYWRpb1w+</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxzb3J0XD4=</entry>
@@ -1822,6 +1827,8 @@
         <entry encoding="base64">XDxyZW5kZXJGaWVsZFw+</entry>
         <entry encoding="base64">XDxyZW5kZXJGb3JtXD4=</entry>
         <entry>input</entry>
+        <entry>map</entry>
+        <entry encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

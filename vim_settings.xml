@@ -16,6 +16,13 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/WorkActivity/WorkActivity.js" timestamp="1495895436184">
+        <mark key="'" line="126" column="20" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
+        <mark key="^" line="39" column="13" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTableMessages.js" timestamp="1495265009463">
         <mark key="'" line="3" column="45" />
         <mark key="[" line="6" column="46" />
@@ -90,6 +97,13 @@
         <mark key="]" line="1" column="97" />
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PermissionGroupRadio/PermissionGroupRadio.js" timestamp="1495881936413">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="167" column="50" />
+        <mark key="]" line="167" column="62" />
+        <mark key="." line="167" column="62" />
+        <mark key="^" line="167" column="62" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
         <mark key="'" line="2" column="9" />
@@ -169,6 +183,13 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="18" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" timestamp="1495876443250">
+        <mark key="'" line="808" column="40" />
+        <mark key="[" line="611" column="23" />
+        <mark key="]" line="612" column="23" />
+        <mark key="." line="612" column="23" />
+        <mark key="^" line="612" column="23" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/form/__input/_input.scss" timestamp="1495898482832">
         <mark key="[" line="0" column="0" />
@@ -445,6 +466,13 @@
         <mark key="]" line="190" column="40" />
         <mark key="^" line="190" column="40" />
         <mark key="." line="190" column="40" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaForm/ScheduleSchemaForm.js" timestamp="1495871817423">
+        <mark key="'" line="248" column="50" />
+        <mark key="[" line="56" column="109" />
+        <mark key="]" line="56" column="82" />
+        <mark key="^" line="56" column="82" />
+        <mark key="." line="56" column="82" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/PermissionGroup/PermissionGroup.js" timestamp="1495882038407">
         <mark key="'" line="157" column="26" />
@@ -728,6 +756,13 @@
         <mark key="]" line="68" column="20" />
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" timestamp="1496150643412">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="332" column="23" />
+        <mark key="]" line="333" column="49" />
+        <mark key="." line="333" column="49" />
+        <mark key="^" line="333" column="49" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/components/ssl-widget.component.ts" timestamp="1489922306491">
         <mark key="'" line="62" column="0" />
@@ -1035,7 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="604" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="602" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="158" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
       <jump line="510" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/css/schedule/schedule-schema.scss" />
@@ -1135,6 +1169,7 @@
       <jump line="175" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="99" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeForm/EmployeeForm.js" />
       <jump line="306" column="53" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/components/EmployeeSkillsForm/EmployeeSkillsForm.js" />
+      <jump line="35" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1144,7 +1179,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJGb3JtXD4=</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAaW1wb3J0ICdfdHlwZS9pbnB1dF90eXBlX3RleHQnOwo=</text>
@@ -1759,15 +1794,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJGb3JtXD4=</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJGb3JtXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>input</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxvcGVuUGVybWlzc2lvbnNcPg==</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uR3JvdXBSYWRpb1w+</entry>
         <entry>sort</entry>
@@ -1787,6 +1821,7 @@
         <entry>label</entry>
         <entry encoding="base64">XDxyZW5kZXJGaWVsZFw+</entry>
         <entry encoding="base64">XDxyZW5kZXJGb3JtXD4=</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

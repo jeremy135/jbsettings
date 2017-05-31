@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="_layout_vertical" type="PLAIN_TEXT" />
       <mapping pattern="ActivitySelectMaterial.js" type="PLAIN_TEXT" />
+      <mapping pattern="_layout_vertical.sass" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

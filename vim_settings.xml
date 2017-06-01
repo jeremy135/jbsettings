@@ -42,11 +42,11 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/text-filter.component.ts" timestamp="1496300586883">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="43" />
-        <mark key="^" line="22" column="42" />
-        <mark key="." line="22" column="42" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/text-filter.component.ts" timestamp="1496308023852">
+        <mark key="[" line="39" column="47" />
+        <mark key="]" line="39" column="30" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="30" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/auth/components/auth.component.ts" timestamp="1496038864096">
         <mark key="[" line="46" column="62" />
@@ -244,7 +244,7 @@
         <mark key="^" line="145" column="109" />
         <mark key="." line="145" column="109" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/templates/filter.component.html" timestamp="1496300354520">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/templates/filter.component.html" timestamp="1496307249635">
         <mark key="[" line="12" column="86" />
         <mark key="]" line="12" column="92" />
         <mark key="^" line="12" column="92" />
@@ -790,43 +790,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHt9OwogICAgcGFyYW1zW3RoaXMucGFyYW1OYW1lXSA9IHRoaXMuY3VycmVudFZhbHVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.filter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBASW5wdXQoJ2ZpbHRlci1mdW5jJykgZmlsdGVyRnVuYzogc3RyaW5nOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHt9OwogICAgcGFyYW1zW3RoaXMucGFyYW1OYW1lXSA9IHRoaXMuY3VycmVudFZhbHVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0RmlsdGVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcmFtcyA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9ic2VydmVyU2VydmljZS5wdXNoKCdmaWx0ZXJzZXJ2aWNlX3NldC1maWx0ZXInLCB7IGZ1bmMgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1t0aGlzLnBhcmFtTmFtZV0gPSAnJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDp3YWl0cygpCg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMubW9kZWxbdGhpcy5maWx0ZXJQYXJhbVswXV0gPSB0aGlzLmN1cnJlbnRWYWx1ZSA9ICcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkLCAnc2V0RmlsdGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZW90TW9kZWxDYWxsYmFjaycsIGQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBrZWVwIHN0YXRlIGluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZWplY3R9IGZyb20gInEiOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9ic2VydmVyU2VydmljZS5wdXNoKCdmaWx0ZXJzZXJ2aWNlX3NldC1maWx0ZXInLCB7IGZ1bmMgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDp3YWl0cygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -866,6 +866,7 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

@@ -36,6 +36,12 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/text-filter.component.ts" timestamp="1496299012009">
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="59" />
+        <mark key="^" line="28" column="59" />
+        <mark key="." line="28" column="59" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/auth/components/auth.component.ts" timestamp="1496038864096">
         <mark key="[" line="46" column="62" />
         <mark key="]" line="47" column="60" />
@@ -111,11 +117,11 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.ts" timestamp="1496290288160">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="20" column="4" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.ts" timestamp="1496298429977">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-info.component.html" timestamp="1495686220080">
         <mark key="[" line="6" column="45" />
@@ -334,11 +340,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496290205485">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496298919371">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
@@ -352,12 +358,12 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.html" timestamp="1496290398126">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.html" timestamp="1496297447273">
         <mark key="'" line="6" column="60" />
-        <mark key="[" line="14" column="84" />
-        <mark key="]" line="14" column="84" />
-        <mark key="." line="14" column="84" />
-        <mark key="^" line="14" column="84" />
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="62" />
+        <mark key="^" line="2" column="62" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/prolong/super.prolong.dropdown.component.ts" timestamp="1495606904259">
         <mark key="[" line="85" column="0" />
@@ -577,7 +583,7 @@
         <mark key="^" line="22" column="40" />
         <mark key="." line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" timestamp="1496290179742">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" timestamp="1496297396639">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -786,8 +792,8 @@
       <jump line="1" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[(ngModel)]=&quot;model.id&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -795,35 +801,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>[(ngModel)]=&quot;model.id&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9ic2VydmVyU2VydmljZS5wdXNoKCdmaWx0ZXJzZXJ2aWNlX3NldC1maWx0ZXInLCB7IGZ1bmMgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDp3YWl0cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXRGaWx0ZXIocGFyYW1zKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkLCAnc2V0RmlsdGVyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5tb2RlbCA9IGQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZW90TW9kZWxDYWxsYmFjaycsIGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBrZWVwIHN0YXRlIGluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IH0K</text>
+        <text encoding="base64">aW1wb3J0IHtyZWplY3R9IGZyb20gInEiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdGhpcy5fbW9kZWwgPSB2YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHNldCBtb2RlbCh2YWx1ZSkgewo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

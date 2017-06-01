@@ -355,6 +355,7 @@
         <mark key="^" line="140" column="65" />
         <mark key="." line="140" column="65" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/CustomReports/T13Report.js" timestamp="1496319934747" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTableContainer.js" timestamp="1493038384211">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="10" />
@@ -664,12 +665,12 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1495878850241">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/locale/ru.json" timestamp="1496319939762">
         <mark key="'" line="511" column="29" />
-        <mark key="[" line="535" column="44" />
-        <mark key="]" line="535" column="44" />
-        <mark key="." line="535" column="44" />
-        <mark key="^" line="535" column="69" />
+        <mark key="[" line="563" column="49" />
+        <mark key="]" line="564" column="49" />
+        <mark key="." line="564" column="49" />
+        <mark key="^" line="564" column="49" />
       </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/app/ssl/templates/ssl-widget.component.html" timestamp="1489922218460">
         <mark key="'" line="23" column="0" />
@@ -978,7 +979,7 @@
         <mark key="^" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496158683913">
+      <file name="/Dummy.txt" timestamp="1496319901890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/workActivity.js" timestamp="1492849204416">
@@ -1201,7 +1202,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</text>
+        <text>T13Report.correction</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMA==</text>
@@ -1816,15 +1817,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</last-search>
+      <last-search>T13Report.correction</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>T13Report.correction</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJUYWJsZTFcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</entry>
@@ -1844,6 +1844,7 @@
         <entry encoding="base64">XDxoYXNBZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0TW9udGhEYXRhXD4=</entry>
         <entry encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</entry>
+        <entry>T13Report.correction</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

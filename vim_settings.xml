@@ -61,8 +61,8 @@
         <mark key="^" line="1" column="97" />
         <mark key="." line="1" column="97" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1491482065372">
-        <mark key="'" line="2" column="9" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" timestamp="1496328952300">
+        <mark key="'" line="317" column="45" />
         <mark key="[" line="35" column="75" />
         <mark key="]" line="36" column="4" />
         <mark key="^" line="36" column="4" />
@@ -364,12 +364,11 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="86" column="163" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/graph.js" timestamp="1493042091648">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/graph.js" timestamp="1496330768388">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="263" column="32" />
-        <mark key="]" line="273" column="18" />
-        <mark key="^" line="273" column="18" />
-        <mark key="." line="273" column="18" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/reports/reports.scss" timestamp="1496325823153">
         <mark key="[" line="12" column="22" />
@@ -512,6 +511,12 @@
         <mark key="." line="70" column="36" />
         <mark key="^" line="70" column="36" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" timestamp="1496329955665">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
+        <mark key="^" line="207" column="75" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/index.js" timestamp="1494419961710">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
@@ -543,7 +548,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496326411372">
+      <file name="/Dummy.txt" timestamp="1496328443044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/graph/graph.scss" timestamp="1495330665626">
@@ -777,7 +782,6 @@
         <mark key="^" line="140" column="65" />
         <mark key="." line="140" column="65" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/CustomReports/T13Report.js" timestamp="1496319934747" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTableContainer.js" timestamp="1493038384211">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="25" column="10" />
@@ -865,6 +869,12 @@
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/actionCreators/graph.js" timestamp="1496330239481">
+        <mark key="[" line="134" column="8" />
+        <mark key="]" line="134" column="8" />
+        <mark key="." line="134" column="8" />
+        <mark key="^" line="136" column="37" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/TimezoneSelect/TimezoneSelect.js" timestamp="1491219323678">
         <mark key="[" line="15" column="24" />
@@ -979,8 +989,8 @@
         <mark key="." line="333" column="49" />
         <mark key="^" line="333" column="49" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1496158665796">
-        <mark key="'" line="336" column="2" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" timestamp="1496328591433">
+        <mark key="'" line="236" column="37" />
         <mark key="[" line="95" column="31" />
         <mark key="]" line="96" column="54" />
         <mark key="^" line="96" column="54" />
@@ -1128,24 +1138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" />
-      <jump line="17" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Queues/Queues.js" />
-      <jump line="106" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="108" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="114" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="116" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="123" column="35" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="125" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="127" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="129" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="297" column="23" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="293" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="49" column="16" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="45" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="0" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="464" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="461" column="10" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
-      <jump line="48" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/FBTable/FBTable.js" />
       <jump line="63" column="0" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="86" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
       <jump line="88" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/Table/Table.js" />
@@ -1228,22 +1220,40 @@
       <jump line="270" column="17" filename="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" />
       <jump line="4" column="19" filename="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" />
       <jump line="11" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/css/employee/employee.scss" />
+      <jump line="399" column="24" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="236" column="37" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/GraphTable/GraphTable.js" />
+      <jump line="20" column="51" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="185" column="14" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="175" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="182" column="30" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="183" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="268" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="229" column="13" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="421" column="28" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" />
+      <jump line="368" column="36" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" />
+      <jump line="317" column="45" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ScheduleEditor/ScheduleEditor.js" />
+      <jump line="5" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="939" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="904" column="32" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="125" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="926" column="44" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
+      <jump line="207" column="60" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdiYXNlbGluZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldCBlbGVtJywgZWwpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>wrap</text>
+        <text>updateDay</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHN0eWxlPXt7IGJvcmRlclJpZ2h0OiAnMCBub25lJyB9fQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdiYXNlbGluZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldCBlbGVtJywgZWwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1824,51 +1834,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiAncmlnaHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGVsLCBkYXRhLmRhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6ICdmbGV4JywK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25ld0RhdGEnLCBuZXdEYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnV0dG9uLWljb24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhLCBpdGVtLCB0aGlzLnByb3BzLCB0aGlzLnN0YXRlLCAnb25DaGFuZ2UnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17J3JhZGlvLSd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSwga2V5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1tkYXkuZGF0ZV0ubGVuZ3RoID4gMCA/IGhhc0FkZGl0aW9uYWxTY2hlZHVsZXMgPSB0cnVlIDogaGFzQWRkaXRpb25hbFNjaGVkdWxlcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGluZGV4ZWRBZGRpdGlvbmFsU2NoZWR1bGVzID0gdGhpcy5zdGF0ZS5pbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlczsK</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdiYXNlbGluZScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wrap</last-search>
+      <last-search>updateDay</last-search>
       <last-offset />
-      <last-pattern>wrap</last-pattern>
+      <last-pattern>updateDay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJRdWV1ZVJvd1w+</entry>
-        <entry>workday-type-wrapper</entry>
-        <entry encoding="base64">XDxyZW5kZXJUYWJsZUlucHV0c1w+</entry>
-        <entry>WorkActivity</entry>
-        <entry>RadioButton</entry>
-        <entry encoding="base64">XDxSYWRpb0J1dHRvblw+</entry>
-        <entry>label</entry>
-        <entry encoding="base64">XDxyZW5kZXJGaWVsZFw+</entry>
-        <entry encoding="base64">XDxyZW5kZXJGb3JtXD4=</entry>
         <entry>input</entry>
         <entry>map</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
@@ -1880,6 +1881,15 @@
         <entry>T13Report.correction</entry>
         <entry encoding="base64">XDxidXR0b25zXD4=</entry>
         <entry>wrap</entry>
+        <entry encoding="base64">XDxnZXRWYWx1ZXNDb2x1bW5zXD4=</entry>
+        <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
+        <entry>schedule__timeline</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVRpbWVzXD4=</entry>
+        <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVBY3Rpdml0eVw+</entry>
+        <entry encoding="base64">XDxTY2hlZHVsZUVkaXRvckNvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxnZXRCb3R0b21Db2x1bW5zXD4=</entry>
+        <entry>updateDay</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

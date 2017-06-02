@@ -163,11 +163,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1496312246735">
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="51" column="27" />
-        <mark key="^" line="51" column="27" />
-        <mark key="." line="51" column="27" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1496376235717">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="26" />
+        <mark key="^" line="60" column="26" />
+        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_inline/_inline.sass" timestamp="1495605745658">
         <mark key="[" line="1" column="24" />
@@ -244,7 +244,7 @@
         <mark key="^" line="60" column="27" />
         <mark key="." line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1496300098060">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1496376310978">
         <mark key="[" line="145" column="82" />
         <mark key="]" line="145" column="109" />
         <mark key="^" line="145" column="109" />
@@ -290,11 +290,12 @@
         <mark key="^" line="86" column="69" />
         <mark key="." line="86" column="69" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter-indicator.component.ts" timestamp="1496300650381">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter-indicator.component.ts" timestamp="1496376830164">
         <mark key="'" line="24" column="29" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="41" column="7" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/client.service.ts" timestamp="1496223061991" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
@@ -368,7 +369,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496313019039">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496376082816">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="35" />
@@ -661,7 +662,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496312810572">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496375779365">
         <mark key="'" line="57" column="18" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="158" column="2" />
@@ -801,7 +802,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>а</text>
@@ -813,31 +814,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUNhbGxiYWNrKGQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2ZpbHRlclRvZ2dsZS5uZXh0KHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW06IHBhcmFtLAogICAgICBpc09wZW46IGlzT3Blbgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2ZpbHRlclRvZ2dsZS5uZXh0KHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgLy8gfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLy8gICBpZiAoZC5kYXRhW3RoaXMuZmlsdGVyUGFyYW1bMF1dICE9PSB1bmRlZmluZWQpIHRoaXMuY3VycmVudFZhbHVlID0gZC5kYXRhW3RoaXMuZmlsdGVyUGFyYW1bMF1dOwo=</text>
+        <text encoding="base64">ICAgICAgcGFyYW06IHBhcmFtLAogICAgICBpc09wZW46IGlzT3Blbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgLy8gdGhpcy5zdWIgPSB0aGlzLmZpbHRlclNlcnZpY2UuZmlsdGVyVXBkYXRlJC5zdWJzY3JpYmUoZCA9PiB7Cg==</text>
+        <text encoding="base64">ICAgLy8gfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

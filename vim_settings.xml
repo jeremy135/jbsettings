@@ -151,7 +151,7 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" timestamp="1496311712594">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" timestamp="1496312927077">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="37" />
         <mark key="." line="69" column="37" />
@@ -162,6 +162,12 @@
         <mark key="]" line="7" column="45" />
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1496312246735">
+        <mark key="[" line="51" column="27" />
+        <mark key="]" line="51" column="27" />
+        <mark key="^" line="51" column="27" />
+        <mark key="." line="51" column="27" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_inline/_inline.sass" timestamp="1495605745658">
         <mark key="[" line="1" column="24" />
@@ -362,11 +368,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496311097717">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="73" column="27" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496313019039">
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/ReportGroupEdit/ReportGroupEdit.js" timestamp="1491128164330">
         <mark key="[" line="26" column="0" />
@@ -617,7 +623,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496311359156">
+      <file name="/Dummy.txt" timestamp="1496312063680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/date-filter.component.ts" timestamp="1496300612821">
@@ -655,7 +661,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496310609314">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496312810572">
         <mark key="'" line="57" column="18" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="158" column="2" />

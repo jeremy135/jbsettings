@@ -357,7 +357,7 @@
         <mark key="." line="108" column="38" />
         <mark key="^" line="108" column="38" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" timestamp="1495270194079">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/actionCreators/employee.js" timestamp="1496468846682">
         <mark key="'" line="86" column="34" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -492,13 +492,13 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/scheduleSchema.js" timestamp="1495628054464">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/reducers/scheduleSchema.js" timestamp="1496468571827">
         <mark key="[" line="18" column="72" />
         <mark key="]" line="18" column="95" />
         <mark key="^" line="18" column="95" />
         <mark key="." line="18" column="95" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1495627888541">
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1496468558983">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
         <mark key="." line="248" column="0" />
@@ -542,7 +542,7 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496328443044">
+      <file name="/Dummy.txt" timestamp="1496468814791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/graph/graph.scss" timestamp="1495330665626">
@@ -713,6 +713,12 @@
         <mark key="]" line="40" column="32" />
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/employees/reducers/employee.js" timestamp="1496468600623">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/messages.js" timestamp="1492846254342">
         <mark key="[" line="3" column="90" />
@@ -1235,7 +1241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldCBlbGVtJywgZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BheWxvYWQnLCBwYXlsb2FkKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1247,7 +1253,7 @@
         <text encoding="base64">IHN0eWxlPXt7IGJvcmRlclJpZ2h0OiAnMCBub25lJyB9fQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldCBlbGVtJywgZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BheWxvYWQnLCBwYXlsb2FkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1828,28 +1834,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGVsLCBkYXRhLmRhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NldCBlbGVtJywgZWwpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGVsLCBkYXRhLmRhdGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25ld0RhdGEnLCBuZXdEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZScsIGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ25ld0RhdGEnLCBuZXdEYXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhLCBpdGVtLCB0aGlzLnByb3BzLCB0aGlzLnN0YXRlLCAnb25DaGFuZ2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSwga2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhLCBpdGVtLCB0aGlzLnByb3BzLCB0aGlzLnN0YXRlLCAnb25DaGFuZ2UnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSwga2V5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdiYXNlbGluZScsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

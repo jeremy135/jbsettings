@@ -157,12 +157,12 @@
         <mark key="." line="138" column="49" />
         <mark key="^" line="138" column="49" />
       </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueForm.js" timestamp="1495726722832">
-        <mark key="'" line="94" column="37" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="7" column="0" />
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/QueueForm/QueueForm.js" timestamp="1496470628927">
+        <mark key="'" line="98" column="37" />
+        <mark key="[" line="91" column="28" />
+        <mark key="]" line="91" column="29" />
+        <mark key="^" line="87" column="37" />
+        <mark key="." line="91" column="29" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/radio-button-group.scss" timestamp="1496149977580">
         <mark key="[" line="16" column="3" />
@@ -271,13 +271,6 @@
         <mark key="]" line="490" column="21" />
         <mark key="." line="490" column="21" />
         <mark key="^" line="490" column="21" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadioContainer.js" timestamp="1491565995221">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="51" />
-        <mark key="^" line="14" column="51" />
-        <mark key="." line="14" column="51" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/TasksList/TasksList.js" timestamp="1492616933564">
         <mark key="[" line="93" column="61" />
@@ -1010,6 +1003,13 @@
         <mark key="^" line="140" column="54" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1496470657068">
+        <mark key="'" line="3" column="9" />
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="57" />
+        <mark key="." line="99" column="57" />
+        <mark key="^" line="99" column="57" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/dateMessages.js" timestamp="1489763772337">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="2" column="13" />
@@ -1240,11 +1240,11 @@
       <jump line="207" column="60" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/Graph/Graph.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BheWxvYWQnLCBwYXlsb2FkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>updateDay</text>

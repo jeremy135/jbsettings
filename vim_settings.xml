@@ -15,11 +15,11 @@
         <mark key="^" line="81" column="12" />
         <mark key="." line="81" column="12" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter.component.ts" timestamp="1497178830534">
-        <mark key="[" line="57" column="19" />
-        <mark key="]" line="58" column="32" />
-        <mark key="^" line="58" column="32" />
-        <mark key="." line="58" column="32" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter.component.ts" timestamp="1497179471566">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="58" column="76" />
+        <mark key="." line="58" column="49" />
+        <mark key="^" line="49" column="77" />
       </file>
       <file name="/a.dummy" timestamp="1496134247595">
         <mark key="[" line="0" column="0" />
@@ -800,44 +800,44 @@
       <jump line="32" column="15" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2QnLCBkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>this.filterFunc</text>
       </register>
       <register name="-" type="4">
-        <text>а</text>
+        <text>this.filterFunc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2dnbGVGaWx0ZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUNhbGxiYWNrKGQpOwo=</text>
+      <register name="0" type="4">
+        <text>`${this.filterFunc}.filter`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2QnLCBkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVyRnVuYyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2QnLCBkKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmaWx0ZXIgdG9nZ2xlJywgZnVuYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmaWx0ZXIgdG9nZ2xlJywgZnVuYyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

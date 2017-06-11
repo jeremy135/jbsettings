@@ -297,6 +297,7 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/client.service.ts" timestamp="1496223061991" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -386,6 +387,13 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/extend-filter/license-extend-filter.html" timestamp="1496377859946">
+        <mark key="'" line="6" column="60" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/prolong/super.prolong.dropdown.component.ts" timestamp="1495606904259">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
@@ -404,10 +412,10 @@
         <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-edit.component.html" timestamp="1495678643135">
-        <mark key="[" line="21" column="161" />
-        <mark key="]" line="21" column="160" />
-        <mark key="^" line="21" column="160" />
-        <mark key="." line="21" column="160" />
+        <mark key="[" line="23" column="161" />
+        <mark key="]" line="23" column="160" />
+        <mark key="^" line="23" column="160" />
+        <mark key="." line="23" column="160" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/TasksList/TasksList.js" timestamp="1492616933564">
         <mark key="[" line="93" column="61" />
@@ -463,6 +471,7 @@
         <mark key="^" line="21" column="169" />
         <mark key="." line="21" column="169" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/base-module/base-module.service.ts" timestamp="1496288902868" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/reports/components/Reports/ReportsContainer.js" timestamp="1491128336283">
         <mark key="[" line="51" column="23" />
         <mark key="]" line="51" column="48" />

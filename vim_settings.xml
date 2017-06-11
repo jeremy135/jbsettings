@@ -151,7 +151,8 @@
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" timestamp="1496312927077">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" timestamp="1497174879916">
+        <mark key="'" line="48" column="31" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="37" />
         <mark key="." line="69" column="37" />
@@ -163,7 +164,7 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497174603999">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497175305948">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="60" column="26" />
         <mark key="^" line="60" column="26" />
@@ -368,7 +369,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1496376082816">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" timestamp="1497175235027">
         <mark key="[" line="32" column="36" />
         <mark key="]" line="32" column="35" />
         <mark key="." line="32" column="35" />
@@ -660,8 +661,8 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1496375779365">
-        <mark key="'" line="57" column="18" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1497175279345">
+        <mark key="'" line="17" column="10" />
         <mark key="[" line="151" column="0" />
         <mark key="]" line="158" column="2" />
       </file>
@@ -697,19 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="131" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="37" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="237" column="42" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="28" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="15" column="4" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="147" column="48" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="54" column="49" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="45" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="30" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="261" column="26" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="61" column="51" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
-      <jump line="50" column="48" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
       <jump line="44" column="51" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
       <jump line="150" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
       <jump line="66" column="49" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputItem/IntervalInputItem.js" />
@@ -797,6 +785,19 @@
       <jump line="41" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/order/order.service.ts" />
       <jump line="9" column="36" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" />
       <jump line="1" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/superfullfilter.component.ts" />
+      <jump line="31" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="36" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="131" column="23" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" />
+      <jump line="48" column="31" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.directive.ts" />
+      <jump line="154" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="24" column="23" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="23" column="10" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="80" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="21" column="23" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="20" column="10" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="33" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="18" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
+      <jump line="17" column="10" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -806,7 +807,7 @@
         <text>а</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</text>
+        <text encoding="base64">XDxfZmlsdGVySW5pdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnRvZ2dsZUNhbGxiYWNrKGQpOwo=</text>
@@ -843,9 +844,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</last-search>
+      <last-search encoding="base64">XDxfZmlsdGVySW5pdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</last-pattern>
+      <last-pattern encoding="base64">XDxfZmlsdGVySW5pdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -853,11 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_support</entry>
-        <entry>basket</entry>
-        <entry>license</entry>
-        <entry>_license</entry>
-        <entry>status_in_pay</entry>
         <entry>stopped_banner_msg</entry>
         <entry>USER_NOTIFY_EMAIL_SEND</entry>
         <entry>_user</entry>
@@ -873,6 +869,11 @@
         <entry encoding="base64">XDxnZW5lcmF0ZVBsYW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRGaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxGaWx0ZXJTZXJ2aWNlMlw+</entry>
+        <entry encoding="base64">XDxmaWx0ZXJJbml0XD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxfZmlsdGVyVG9nZ2xlXD4=</entry>
+        <entry encoding="base64">XDxfZmlsdGVyVXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxfZmlsdGVySW5pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>

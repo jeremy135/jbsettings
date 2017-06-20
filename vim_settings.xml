@@ -164,12 +164,12 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497867989404">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497926548685">
         <mark key="'" line="21" column="12" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="64" column="29" />
+        <mark key="^" line="64" column="29" />
+        <mark key="." line="64" column="29" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_inline/_inline.sass" timestamp="1495605745658">
         <mark key="[" line="1" column="24" />

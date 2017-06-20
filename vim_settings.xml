@@ -164,12 +164,12 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497928625455">
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/applied-filter.component.ts" timestamp="1497929228078">
         <mark key="'" line="21" column="12" />
-        <mark key="[" line="64" column="28" />
-        <mark key="]" line="64" column="39" />
-        <mark key="^" line="64" column="39" />
-        <mark key="." line="64" column="39" />
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/preloader/_inline/_inline.sass" timestamp="1495605745658">
         <mark key="[" line="1" column="24" />
@@ -246,10 +246,11 @@
         <mark key="^" line="60" column="27" />
         <mark key="." line="60" column="27" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1497178464168">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/templates/license-list.component.html" timestamp="1497929055009">
+        <mark key="[" line="156" column="49" />
+        <mark key="]" line="156" column="62" />
+        <mark key="." line="156" column="62" />
+        <mark key="^" line="156" column="62" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/templates/filter.component.html" timestamp="1496307249635">
         <mark key="[" line="12" column="86" />
@@ -807,8 +808,8 @@
       <jump line="73" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -820,31 +821,31 @@
         <text encoding="base64">ICAgIHN3aXRjaCAoaXRlbS50eXBlKSB7CiAgICAgIGNhc2UgJ3RleHQnOgogICAgICBjYXNlICdsaXN0JzoKICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS5uYW1lXSA9ICcnOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdyYW5nZSc6CiAgICAgIGNhc2UgJ2RhdGUnOgogICAgICAgIGlmIChpdGVtLmZyb20pCiAgICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS5mcm9tLm5hbWVdID0gJyc7CiAgICAgICAgaWYgKGl0ZW0udG8pCiAgICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS50by5uYW1lXSA9ICcnOwogICAgICAgIGJyZWFrOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVyUGFyYW0udG9TdHJpbmcoKSwgZC5wYXJhbS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVyRnVuYyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGxldCBmaWx0ZXJPYmplY3Q6IGFueSA9IHt9OwoKICAgIHN3aXRjaCAoaXRlbS50eXBlKSB7CiAgICAgIGNhc2UgJ3RleHQnOgogICAgICBjYXNlICdsaXN0JzoKICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS5uYW1lXSA9ICcnOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICdyYW5nZSc6CiAgICAgIGNhc2UgJ2RhdGUnOgogICAgICAgIGlmIChpdGVtLmZyb20pCiAgICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS5mcm9tLm5hbWVdID0gJyc7CiAgICAgICAgaWYgKGl0ZW0udG8pCiAgICAgICAgICBmaWx0ZXJPYmplY3RbaXRlbS50by5uYW1lXSA9ICcnOwogICAgICAgIGJyZWFrOwogICAgfQoKICAgIHRoaXMuZmlsdGVyU2VydmljZS5zZXRGaWx0ZXIoZmlsdGVyT2JqZWN0KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2QnLCBkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpdGVtJywgaXRlbSwgdGhpcy5tb2RlbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVyUGFyYW0udG9TdHJpbmcoKSwgZC5wYXJhbS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuZmlsdGVyRnVuYyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmaWx0ZXIgdG9nZ2xlJywgZnVuYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2QnLCBkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc3AtZmlsdGVyLWZ1bmM9InNvZnQuZmlsdGVyIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmaWx0ZXIgdG9nZ2xlJywgZnVuYyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

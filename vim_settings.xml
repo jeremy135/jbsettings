@@ -207,9 +207,6 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/order/order.service.ts" timestamp="1496289197747">
-        <mark key="'" line="41" column="11" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ScheduleBlocker/ScheduleBlockerContainer.js" timestamp="1494422228063">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -550,6 +547,7 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" timestamp="1498014809280" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-edit.component.ts" timestamp="1495678602475">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="39" column="22" />

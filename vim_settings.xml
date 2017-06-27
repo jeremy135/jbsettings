@@ -289,6 +289,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/select/_select.sass" timestamp="1498528859148">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -311,6 +317,11 @@
         <mark key="]" line="25" column="10" />
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/select/__value/_select__value.sass" timestamp="1498528870008">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
@@ -567,6 +578,11 @@
       <file name="vim_settings.xml" timestamp="1495691002506">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/select/__option/_select__option.sass" timestamp="1498529357203">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/CompanyStructureRadio/CompanyStructureRadio.js" timestamp="1491114888665">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -597,6 +613,16 @@
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/select/__options/_select__options.sass" timestamp="1498529329670">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/select/__control/_select__control.sass" timestamp="1498529346946">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/BalancerSettings/index.js" timestamp="1494419961710">
         <mark key="[" line="1" column="28" />
@@ -798,11 +824,11 @@
       <jump line="73" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.2.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNldEZpbHRlclw+</text>

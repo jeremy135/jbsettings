@@ -9,6 +9,7 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/firstdedic/assets/sass/_theme.scss" timestamp="1498996572759" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/range-filter.component.ts" timestamp="1496300590137">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="43" />
@@ -73,6 +74,11 @@
         <mark key="]" line="146" column="6" />
         <mark key="^" line="146" column="6" />
         <mark key="." line="146" column="6" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/ispsystem/assets/sass/_theme.scss" timestamp="1498996902733">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/user.routes.ts" timestamp="1496032404104">
         <mark key="[" line="52" column="0" />
@@ -198,6 +204,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="13" column="51" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/firstssl/assets/sass/_theme.scss" timestamp="1498996597757">
+        <mark key="[" line="98" column="54" />
+        <mark key="]" line="102" column="20" />
+        <mark key="^" line="102" column="20" />
+        <mark key="." line="102" column="20" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/actionCreators/globalSettings.js" timestamp="1492863112843">
         <mark key="[" line="14" column="38" />
@@ -885,11 +897,6 @@
         <mark key="." line="192" column="45" />
         <mark key="^" line="192" column="45" />
       </file>
-      <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" timestamp="1497188502769">
-        <mark key="'" line="56" column="25" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="158" column="2" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/extlicense/components/extlicense-edit.component.ts" timestamp="1495682185236">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -1147,6 +1154,12 @@
         <mark key="]" line="25" column="10" />
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="10" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/select/multi-select/scss/mselect.scss" timestamp="1498996786843">
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="85" />
+        <mark key="^" line="12" column="85" />
+        <mark key="." line="12" column="85" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/support.service.ts" timestamp="1495612221308">
         <mark key="[" line="49" column="23" />
@@ -1693,7 +1706,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBASG9zdEJpbmRpbmcoJ2NsYXNzLmlzcC1zd2l0Y2hlcl9fb3B0aW9uX2FjdGl2ZScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -1705,7 +1718,7 @@
         <text encoding="base64">ICBASG9zdEJpbmRpbmcoJ2NsYXNzLmlzcC1zd2l0Y2hlcl9fb3B0aW9uX2FjdGl2ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRpb24gc2VsZWN0JywgdGhpcy52YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2286,28 +2299,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb3InLCBjb3JyZXNwb25kaW5nT3B0aW9uLCB2YWx1ZSwgb3B0aW9uc0FycmF5KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfc2VsZWN0VmFsdWUnLCB2YWx1ZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHRpb24gc2VsZWN0JywgdGhpcy52YWx1ZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb3InLCBjb3JyZXNwb25kaW5nT3B0aW9uLCB2YWx1ZSwgb3B0aW9uc0FycmF5KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfc2VsZWN0VmFsdWUnLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9zZWxlY3RlZDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGlzLl9zZWxlY3RlZCcsIHRoaXMuX3NlbGVjdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBASG9zdEJpbmRpbmcoJ2NsYXNzLmlzcC1zd2l0Y2hlcl9fb3B0aW9uX2FjdGl2ZScpIGlzU2VsZWN0ZWQoKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

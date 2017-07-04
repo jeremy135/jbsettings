@@ -242,7 +242,13 @@
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/billmgr?func=pricelist.export.json" timestamp="1499159714635" />
+      <file name="$USER_HOME$/billmgr?func=pricelist.export.json" timestamp="1499160861845">
+        <mark key="'" line="184" column="30" />
+        <mark key="[" line="173" column="11" />
+        <mark key="]" line="178" column="31" />
+        <mark key="^" line="178" column="31" />
+        <mark key="." line="178" column="31" />
+      </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/common/components/Table/Table.scss" timestamp="1492528829019">
         <mark key="[" line="276" column="19" />
         <mark key="]" line="277" column="12" />
@@ -1036,7 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="318" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="204" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="163" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -1136,6 +1141,7 @@
       <jump line="36" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="5" column="9" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="37" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
+      <jump line="184" column="30" filename="$USER_HOME$/billmgr?func=pricelist.export.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1145,7 +1151,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</text>
+        <text>datacenter</text>
       </register>
       <register name="0" type="4">
         <text>{&quot;development&quot; : true,&quot;features&quot; : &quot;1793b6e7a3cd29e40d4d2b59148fad18&quot;,&quot;notify&quot; : &quot;&quot;,&quot;testMode&quot; : false,&quot;title&quot; : &quot;&quot;,&quot;id&quot; : &quot;pricelist.export&quot;,&quot;type&quot; : &quot;&quot;,&quot;tips&quot; : [{&quot;name&quot;: &quot;help_links&quot;,&quot;content&quot;: &quot;&quot;}],&quot;theme&quot; : &quot;/manimg/orion/&quot;,&quot;selfIcon&quot; : &quot;&quot;,&quot;tStyle&quot; : true,&quot;urlparam&quot; : &quot;func=pricelist.export&quot;,&quot;urlObj&quot; : { &quot;&quot; : &quot;&quot;, &quot;func&quot; : &quot;pricelist.export&quot;},&quot;message&quot; : [],&quot;tsplid&quot; : &quot;&quot;,&quot;msg&quot; : {&quot;&quot; : &quot;&quot;},&quot;func&quot; : &quot;pricelist.export&quot;,&quot;hintPin&quot;: &quot;&quot;,&quot;hintUnpin&quot;: &quot;&quot;,&quot;hintPrint&quot; : &quot;&quot;,&quot;hintPdf&quot; : &quot;&quot;,&quot;hintCopy&quot; : &quot;&quot;,&quot;msg_loading&quot;: &quot;&quot;,&quot;btng&quot; : [],&quot;btnview&quot; : &quot;&quot;}</text>
@@ -1760,17 +1766,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</last-search>
+      <last-search>datacenter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</last-pattern>
+      <last-pattern>datacenter</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actual</entry>
         <entry encoding="base64">XDxoYXNBZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0TW9udGhEYXRhXD4=</entry>
         <entry encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</entry>
@@ -1790,6 +1795,7 @@
         <entry encoding="base64">XDxfc2VsZWN0VmFsdWVcPg==</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</entry>
+        <entry>datacenter</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>
@@ -1823,6 +1829,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

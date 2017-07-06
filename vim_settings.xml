@@ -854,6 +854,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/ispsystem/app/app.module.ts" timestamp="1499321364283">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="4" />
+        <mark key="^" line="16" column="60" />
+        <mark key="." line="60" column="4" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/routes/punctuality.js" timestamp="1493043191578">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="19" />
@@ -1160,10 +1166,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{&quot;development&quot; : true,&quot;features&quot; : &quot;1793b6e7a3cd29e40d4d2b59148fad18&quot;,&quot;notify&quot; : &quot;&quot;,&quot;testMode&quot; : false,&quot;title&quot; : &quot;&quot;,&quot;id&quot; : &quot;pricelist.export&quot;,&quot;type&quot; : &quot;&quot;,&quot;tips&quot; : [{&quot;name&quot;: &quot;help_links&quot;,&quot;content&quot;: &quot;&quot;}],&quot;theme&quot; : &quot;/manimg/orion/&quot;,&quot;selfIcon&quot; : &quot;&quot;,&quot;tStyle&quot; : true,&quot;urlparam&quot; : &quot;func=pricelist.export&quot;,&quot;urlObj&quot; : { &quot;&quot; : &quot;&quot;, &quot;func&quot; : &quot;pricelist.export&quot;},&quot;message&quot; : [],&quot;tsplid&quot; : &quot;&quot;,&quot;msg&quot; : {&quot;&quot; : &quot;&quot;},&quot;func&quot; : &quot;pricelist.export&quot;,&quot;hintPin&quot;: &quot;&quot;,&quot;hintUnpin&quot;: &quot;&quot;,&quot;hintPrint&quot; : &quot;&quot;,&quot;hintPdf&quot; : &quot;&quot;,&quot;hintCopy&quot; : &quot;&quot;,&quot;msg_loading&quot;: &quot;&quot;,&quot;btng&quot; : [],&quot;btnview&quot; : &quot;&quot;}</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>datacenter</text>

@@ -381,7 +381,6 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common/common/error/error.service.ts" timestamp="1499221871591" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ManagerForm/ManagerForm.js" timestamp="1496069835327">
         <mark key="[" line="428" column="46" />
         <mark key="]" line="428" column="47" />
@@ -587,6 +586,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/firstssl/app/app.module.ts" timestamp="1499321156757">
+        <mark key="[" line="53" column="10" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/TimezoneSelect/TimezoneSelect.js" timestamp="1491219323678">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="15" column="24" />
@@ -765,7 +770,6 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
-      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common/common/error/error.directive.ts" timestamp="1499221905753" />
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/switcher/scss/switcher.scss" timestamp="1499005782041">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -880,7 +884,6 @@
         <mark key="^" line="18" column="95" />
         <mark key="." line="18" column="95" />
       </file>
-      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common/common/http/http-handler.service.ts" timestamp="1499221684956" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/utils/util.js" timestamp="1496468558983">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />

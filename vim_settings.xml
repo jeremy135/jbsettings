@@ -48,7 +48,6 @@
         <mark key="^" line="154" column="54" />
         <mark key="." line="154" column="54" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/assets/sass/components/scrollbar/_scrollbar.sass" timestamp="1499780419714" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/PayRateSelect/index.js" timestamp="1492860391595">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="0" column="56" />
@@ -115,10 +114,9 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/service-instruction/service-instruction.component.ts" timestamp="1499780634319">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="^" line="91" column="33" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.html" timestamp="1496053929707">
         <mark key="[" line="5" column="28" />
@@ -485,6 +483,7 @@
         <mark key="^" line="48" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/order/server-order/server-order.component.html" timestamp="1500034003541" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/service-detail/service-detail.component.html" timestamp="1495533839451">
         <mark key="[" line="86" column="70" />
         <mark key="]" line="86" column="69" />

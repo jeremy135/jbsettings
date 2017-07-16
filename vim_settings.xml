@@ -99,12 +99,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="29" column="17" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/server-kvm/server-kvm.component.ts" timestamp="1500040854496">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="23" column="9" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/Volumes/Home/Web-dev/new-bill-theme/billing.config.json" timestamp="1495755908884">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="4" />
@@ -375,13 +369,6 @@
         <mark key="." line="428" column="47" />
         <mark key="^" line="428" column="47" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" timestamp="1500038229168">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="82" column="17" />
-        <mark key="]" line="83" column="17" />
-        <mark key="." line="83" column="17" />
-        <mark key="^" line="83" column="17" />
-      </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="38" column="5" />
@@ -389,10 +376,10 @@
         <mark key="^" line="38" column="5" />
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item-main/server-item-main.component.ts" timestamp="1500039524685">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_weeked/_weeked.scss" timestamp="1495630732889">
         <mark key="[" line="0" column="24" />
@@ -652,12 +639,6 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item.module.ts" timestamp="1500040090685">
-        <mark key="[" line="10" column="74" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/components/filter.component.ts" timestamp="1497179471566">
         <mark key="[" line="58" column="49" />

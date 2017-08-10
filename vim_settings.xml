@@ -93,11 +93,6 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/ispsystem/assets/sass/_theme.scss" timestamp="1498996902733">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/fullfilter/intex.ts" timestamp="1496128251521">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="3" column="25" />
@@ -121,6 +116,9 @@
         <mark key="]" line="59" column="62" />
         <mark key="^" line="59" column="62" />
         <mark key="." line="59" column="62" />
+      </file>
+      <file name="$USER_HOME$/Web-dev/billchat/Gruntfile.js" timestamp="1502332219670">
+        <mark key="'" line="111" column="28" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/tslint1.json" timestamp="1490149480706">
         <mark key="[" line="46" column="0" />
@@ -568,6 +566,9 @@
         <mark key="." line="134" column="8" />
         <mark key="^" line="136" column="37" />
       </file>
+      <file name="$USER_HOME$/Web-dev/billchat/backend/routes/chatApi.js" timestamp="1502334225833">
+        <mark key="'" line="104" column="19" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support.component.html" timestamp="1495613236455">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="62" />
@@ -794,6 +795,13 @@
         <mark key="^" line="68" column="20" />
         <mark key="." line="68" column="20" />
       </file>
+      <file name="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" timestamp="1502334684429">
+        <mark key="'" line="1334" column="10" />
+        <mark key="[" line="1030" column="50" />
+        <mark key="]" line="1030" column="49" />
+        <mark key="^" line="1030" column="49" />
+        <mark key="." line="1030" column="49" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" timestamp="1498021264380">
         <mark key="[" line="146" column="6" />
         <mark key="]" line="146" column="6" />
@@ -944,7 +952,7 @@
         <mark key="^" line="137" column="23" />
         <mark key="." line="137" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502330610964">
+      <file name="/Dummy.txt" timestamp="1502334081723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/index.ts" timestamp="1496127198799">
@@ -1063,35 +1071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="204" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="163" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="153" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="47" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="365" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="298" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
-      <jump line="10" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="28" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="6" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="165" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="27" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="177" column="2" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="50" column="0" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="22" column="18" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" />
-      <jump line="21" column="93" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" />
-      <jump line="181" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="49" column="10" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/components/ssl-pay.component.ts" />
-      <jump line="67" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/preloader/preloader.component.ts" />
-      <jump line="18" column="31" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/ssl/templates/ssl-pay.component.html" />
-      <jump line="69" column="11" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/preloader/preloader.component.ts" />
-      <jump line="847" column="45" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="56" column="29" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="276" column="50" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="1082" column="6" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="561" column="21" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="810" column="56" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="893" column="44" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="877" column="40" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="151" column="33" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
       <jump line="61" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
       <jump line="18" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
@@ -1163,22 +1142,51 @@
       <jump line="5" column="9" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="37" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="184" column="30" filename="$USER_HOME$/billmgr?func=pricelist.export.json" />
+      <jump line="1069" column="6" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1328" column="10" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1583" column="8" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="130" column="11" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1029" column="24" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1034" column="41" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1026" column="29" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="96" column="7" filename="$USER_HOME$/Web-dev/billchat/Gruntfile.js" />
+      <jump line="88" column="6" filename="$USER_HOME$/Web-dev/billchat/Gruntfile.js" />
+      <jump line="107" column="22" filename="$USER_HOME$/Web-dev/billchat/Gruntfile.js" />
+      <jump line="111" column="28" filename="$USER_HOME$/Web-dev/billchat/Gruntfile.js" />
+      <jump line="8" column="34" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1332" column="33" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1333" column="32" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1336" column="30" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="476" column="28" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="793" column="49" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1050" column="21" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1045" column="11" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1039" column="18" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1038" column="10" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1032" column="6" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1063" column="2" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="10" column="6" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1023" column="11" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="33" column="25" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="1334" column="10" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
+      <jump line="330" column="26" filename="$USER_HOME$/Web-dev/billchat/backend/routes/chatApi.js" />
+      <jump line="104" column="19" filename="$USER_HOME$/Web-dev/billchat/backend/routes/chatApi.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICBjb25zb2xlLmxvZyhjb2xvci5yZWQoJ1NFVEFHRU5UIDMnKSwgZC5hZ2VudCwgY2hhdEFwaS5hZ2VudEdldExvY2FsaXplTmFtZShkLmFnZW50LmJfaWQsIGxhbmcpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>datacenter</text>
+        <text encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>{&quot;development&quot; : true,&quot;features&quot; : &quot;1793b6e7a3cd29e40d4d2b59148fad18&quot;,&quot;notify&quot; : &quot;&quot;,&quot;testMode&quot; : false,&quot;title&quot; : &quot;&quot;,&quot;id&quot; : &quot;pricelist.export&quot;,&quot;type&quot; : &quot;&quot;,&quot;tips&quot; : [{&quot;name&quot;: &quot;help_links&quot;,&quot;content&quot;: &quot;&quot;}],&quot;theme&quot; : &quot;/manimg/orion/&quot;,&quot;selfIcon&quot; : &quot;&quot;,&quot;tStyle&quot; : true,&quot;urlparam&quot; : &quot;func=pricelist.export&quot;,&quot;urlObj&quot; : { &quot;&quot; : &quot;&quot;, &quot;func&quot; : &quot;pricelist.export&quot;},&quot;message&quot; : [],&quot;tsplid&quot; : &quot;&quot;,&quot;msg&quot; : {&quot;&quot; : &quot;&quot;},&quot;func&quot; : &quot;pricelist.export&quot;,&quot;hintPin&quot;: &quot;&quot;,&quot;hintUnpin&quot;: &quot;&quot;,&quot;hintPrint&quot; : &quot;&quot;,&quot;hintPdf&quot; : &quot;&quot;,&quot;hintCopy&quot; : &quot;&quot;,&quot;msg_loading&quot;: &quot;&quot;,&quot;btng&quot; : [],&quot;btnview&quot; : &quot;&quot;}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sb3IucmVkKCdTRVRBR0VOVCcpLCAxLCBkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBjb25zb2xlLmxvZyhjb2xvci5yZWQoJ1NFVEFHRU5UIDMnKSwgZC5hZ2VudCwgY2hhdEFwaS5hZ2VudEdldExvY2FsaXplTmFtZShkLmFnZW50LmJfaWQsIGxhbmcpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1759,51 +1767,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb2xvci5yZWQoJ1NFVEFHRU5UIDInKSwgZC5hZ2VudCwgY2hhdEFwaS5hZ2VudEdldExvY2FsaXplTmFtZShkLmFnZW50LmJfaWQsIGxhbmcpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sb3IucmVkKCdTRVRBR0VOVCAxJyksICBkLmFnZW50LCBjaGF0QXBpLmFnZW50R2V0TG9jYWxpemVOYW1lKGQuYl9pZCwgbGFuZykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NFVEFHRU5UIDEnLCBkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlzcC11c2VyLW1lbnUgW25vdGlmaWNhdGlvbnNDb3VudF09Im5vdGlmaWNhdGlvbnNDb3VudCI+PC9pc3AtdXNlci1tZW51Pgo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU0VUQUdFTlQgMicsIGQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImlzcC1hY2NvdW50LWluZm9fX21lbnUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTRVRBR0VOVCAzJywgZCwgY2hhdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9ImlzcC1idXR0b24gaXNwLWJ1dHRvbl90aGVtZV95ZWxsb3cgaXNwLWFjY291bnQtaW5mb19fZmlsbC1hY2NvdW50LWJ1dHRvbiIgdHlwZT0iYnV0dG9uIiBvYnNlcnZlRXZlbnQ9Im1vZGFsLXBheW1lbnQtYWRkIiBvYnNlcnZlci1kaXJlY3RpdmUgW2lzcC10cmFuc2xhdGVdPSInQ09NTU9OOkFERF9GVU5EUyciPjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJpc3AtY2xpZW50LWNvZGUgaXNwLWFjY291bnQtaW5mb19fY2xpZW50LWNvZGUiIFtpc3AtdHJhbnNsYXRlXT0iJ1VTRVI6Q0xJRU5UX0lEJyIgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyB2YWx1ZTogdXNlci5hY2NvdW50SWQgfSI+PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>datacenter</last-search>
+      <last-search encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>datacenter</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNBZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0TW9udGhEYXRhXD4=</entry>
-        <entry encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</entry>
-        <entry>T13Report.correction</entry>
-        <entry encoding="base64">XDxidXR0b25zXD4=</entry>
-        <entry>wrap</entry>
-        <entry encoding="base64">XDxnZXRWYWx1ZXNDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
         <entry>schedule__timeline</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRpbWVzXD4=</entry>
@@ -1817,6 +1818,13 @@
         <entry>disabled</entry>
         <entry encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</entry>
         <entry>datacenter</entry>
+        <entry>setAgent</entry>
+        <entry>deploy-backend</entry>
+        <entry>exec</entry>
+        <entry>assigned_id</entry>
+        <entry encoding="base64">XDxhZ2VudERhdGFcPg==</entry>
+        <entry encoding="base64">XDxzZXRBZ2VudFRvQ2hhdFw+</entry>
+        <entry encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

@@ -9,7 +9,6 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/firstdedic/assets/sass/_theme.scss" timestamp="1498996572759" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/common/wizard/super.wizard.component.ts" timestamp="1490149736140">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="21" column="36" />
@@ -75,6 +74,12 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/isp-server.router.ts" timestamp="1500039086565">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/modal-window.component.html" timestamp="1496053929707">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="17" />
@@ -86,6 +91,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="18" column="20" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/server-list/index.ts" timestamp="1500038708623">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/interval-input.scss" timestamp="1495331433177">
         <mark key="[" line="141" column="0" />
@@ -99,11 +110,21 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" timestamp="1503830448894">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="472" column="60" />
+        <mark key="]" line="473" column="54" />
+        <mark key="^" line="473" column="54" />
+        <mark key="." line="473" column="54" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/TelephonyStatus/TelephonyStatus.js" timestamp="1495722896013">
         <mark key="[" line="104" column="18" />
         <mark key="]" line="104" column="18" />
         <mark key="^" line="104" column="18" />
         <mark key="." line="104" column="18" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/480583.ru/htdocs/www/administrator/components/com_jshopping/importexport/simpleimport/simpleimport.php" timestamp="1501597612395">
+        <mark key="[" line="122" column="21" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleSchemaGroupEdit/ScheduleSchemaGroupEditContainer.js" timestamp="1491124873793">
         <mark key="[" line="4" column="7" />
@@ -147,7 +168,6 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/filter/components/filter.component.ts" timestamp="1499005104155" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/templates/support.component.html" timestamp="1495613236455">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="62" />
@@ -184,6 +204,17 @@
         <mark key="." line="428" column="47" />
         <mark key="^" line="428" column="47" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/payment/templates/bank-payment.component.html" timestamp="1503830045700">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item-main/server-item-main.component.ts" timestamp="1500039524685">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/__switcher/_weeked/_weeked.scss" timestamp="1495630732889">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="19" />
@@ -196,7 +227,6 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/date-range-period/date-range-period.component.ts" timestamp="1499004920568" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/imitate-radio.scss" timestamp="1495549743882">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="21" />
@@ -238,6 +268,12 @@
         <mark key="]" line="93" column="63" />
         <mark key="^" line="93" column="63" />
         <mark key="." line="93" column="63" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/server-list/server-list.component.html" timestamp="1500039741027">
+        <mark key="[" line="176" column="69" />
+        <mark key="]" line="176" column="98" />
+        <mark key="^" line="176" column="97" />
+        <mark key="." line="176" column="98" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/ProductionCalendar/ProductionCalendarContainer.js" timestamp="1493046936175">
         <mark key="[" line="26" column="52" />
@@ -305,6 +341,11 @@
         <mark key="^" line="150" column="36" />
         <mark key="." line="149" column="0" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/server-config/server-config.component.ts" timestamp="1500040809042">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/reducers/settings.js" timestamp="1494514269827">
         <mark key="[" line="71" column="72" />
         <mark key="]" line="71" column="67" />
@@ -340,6 +381,12 @@
         <mark key="]" line="165" column="23" />
         <mark key="^" line="165" column="23" />
         <mark key="." line="165" column="23" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/order/order.module.ts" timestamp="1500039271159">
+        <mark key="[" line="14" column="72" />
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/xsl/webpack.desktop.xsl" timestamp="1496037207131">
         <mark key="[" line="59" column="58" />
@@ -401,6 +448,11 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/isp-server.module.ts" timestamp="1500040078212">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/routes/settings.js" timestamp="1494423533292">
         <mark key="[" line="68" column="30" />
         <mark key="]" line="68" column="20" />
@@ -443,7 +495,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/filter/templates/filter.component.html" timestamp="1499005090600" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/icons.scss" timestamp="1495876344306">
         <mark key="[" line="89" column="13" />
         <mark key="]" line="89" column="10" />
@@ -552,6 +603,9 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="/Dummy.txt" timestamp="1500038277525">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/graph/graph.scss" timestamp="1495330665626">
         <mark key="[" line="342" column="26" />
         <mark key="]" line="342" column="26" />
@@ -624,7 +678,6 @@
         <mark key="^" line="137" column="23" />
         <mark key="." line="137" column="23" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/date-range-period/date-range-period.component.html" timestamp="1499004867636" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ActivitySelectMaterial/ActivitySelectMaterial.js" timestamp="1492928338801">
         <mark key="[" line="55" column="51" />
         <mark key="]" line="55" column="46" />
@@ -643,11 +696,22 @@
         <mark key="^" line="5" column="71" />
         <mark key="." line="5" column="71" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/payment/templates/bank-payment-method.component.html" timestamp="1503828747577">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/assets/sass/components/layout/_vertical/_layout_vertical.sass" timestamp="1496214892206">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/service-instruction/service-instruction.component.ts" timestamp="1499780634319">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/operator/operator.scss" timestamp="1496326132101">
         <mark key="[" line="6" column="19" />
@@ -787,13 +851,6 @@
         <mark key="." line="50" column="46" />
         <mark key="^" line="50" column="46" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" timestamp="1499005976193">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="90" column="18" />
-        <mark key="." line="90" column="18" />
-        <mark key="^" line="90" column="18" />
-      </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="38" column="5" />
@@ -811,6 +868,12 @@
         <mark key="]" line="27" column="4" />
         <mark key="^" line="27" column="4" />
         <mark key="." line="27" column="4" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item.router.ts" timestamp="1500039879702">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/index/routes/index.js" timestamp="1491575740365">
         <mark key="[" line="2" column="0" />
@@ -938,8 +1001,18 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/switcher/switcher.ts" timestamp="1499004083744" />
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/app.component.html" timestamp="1499005206263" />
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/order/server-order/server-order.component.ts" timestamp="1500038524121">
+        <mark key="'" line="99" column="10" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/payment/components/bank-payment.component.ts" timestamp="1503830716114">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="1" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="32" column="1" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/components/user-profile-settings.component.ts" timestamp="1496039895658">
         <mark key="[" line="42" column="87" />
         <mark key="]" line="43" column="43" />
@@ -964,6 +1037,9 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
+      <file name="vim_settings.xml" timestamp="1503828636893">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/flex/__item/_flex__item.scss" timestamp="1496321127550">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="29" />
@@ -987,6 +1063,12 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="62" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item-main/index.ts" timestamp="1500039573737">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/templates/filter.component.html" timestamp="1496307249635">
         <mark key="[" line="12" column="86" />
@@ -1018,6 +1100,11 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/server-info/server-info.component.ts" timestamp="1500040831245">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/radio-button/_theme/_theme_black.scss" timestamp="1495883167906">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="13" />
@@ -1032,7 +1119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="9" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="318" column="20" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="204" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="163" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -1132,22 +1218,23 @@
       <jump line="36" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="5" column="9" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="37" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
+      <jump line="0" column="0" filename="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cmwnLCByb3V0ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</text>
+        <text>payment</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpc3Atc3dpdGNoZXItb3B0aW9uIHZhbHVlPSJhbnkiPjwvaXNwLXN3aXRjaGVyLW9wdGlvbj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgPG5nLXRlbXBsYXRlIFtuZ0lmXT0icGF5bWVudFR5cGUgPT09ICdwbTJjaGVja291dCciPgogICAgICAgIDxkaXYgY2xhc3M9ImlzcC1sYXlvdXQiPgogICAgICAgICAgPGgxIGNsYXNzPSJpc3Atd2lkZ2V0X190aXRsZSBpc3Atd2lkZ2V0X190aXRsZSBpc3Atd2lkZ2V0X190aXRsZV9mb3JfYmFuay1wYXltZW50Ij57eyAnUEFZTUVOVDoyQ0NfSEVBREVSX1RJVExFJyB8IHRyYW5zbGF0ZSB9fTwvaDE+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJpc3AtbGF5b3V0X19ibG9jayI+CiAgICAgICAgICAgIDxvbCBjbGFzcz0iaXNwLWxpc3QgaXNwLWxpc3RfdGhlbWVfaW5saW5lIGlzcC1saXN0X3RoZW1lX2lubGluZS1kZWNpbWFsIj4KICAgICAgICAgICAgICA8bGkgY2xhc3M9ImlzcC1saXN0X19pdGVtIGlzcC13aWRnZXRfX3N0ZXAgaXNwLXdpZGdldF9fc3RlcF9mb3JfcHJvZmlsZSIgW25nQ2xhc3NdPSJ7J2lzcC13aWRnZXRfX3N0ZXBfaXNfYWN0aXZlJzogKHN0ZXBOYW1lID09PSAnY2hvb3NlJyl9Ij57eyAnUEFZTUVOVDoyQ0NfU1RFUF8xJyB8IHRyYW5zbGF0ZSB9fTwvbGk+CiAgICAgICAgICAgICAgPGxpIGNsYXNzPSJpc3AtbGlzdF9faXRlbSBpc3Atd2lkZ2V0X19zdGVwIGlzcC13aWRnZXRfX3N0ZXBfZm9yXyIgIFtuZ0NsYXNzXT0ieydpc3Atd2lkZ2V0X19zdGVwX2lzX2FjdGl2ZSc6IChzdGVwTmFtZSA9PT0gJ3Byb2ZpbGUnKX0iPnt7ICdQQVlNRU5UOjJDQ19TVEVQXzInIHwgdHJhbnNsYXRlIH19PC9saT4KICAgICAgICAgICAgPC9vbD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L25nLXRlbXBsYXRlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cmwnLCByb3V0ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1727,51 +1814,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgfQo=</text>
+        <text encoding="base64">ICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPG5nLXRlbXBsYXRlPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlzcC11c2VyLW1lbnUgW25vdGlmaWNhdGlvbnNDb3VudF09Im5vdGlmaWNhdGlvbnNDb3VudCI+PC9pc3AtdXNlci1tZW51Pgo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImlzcC1hY2NvdW50LWluZm9fX21lbnUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gY2xhc3M9ImlzcC1idXR0b24gaXNwLWJ1dHRvbl90aGVtZV95ZWxsb3cgaXNwLWFjY291bnQtaW5mb19fZmlsbC1hY2NvdW50LWJ1dHRvbiIgdHlwZT0iYnV0dG9uIiBvYnNlcnZlRXZlbnQ9Im1vZGFsLXBheW1lbnQtYWRkIiBvYnNlcnZlci1kaXJlY3RpdmUgW2lzcC10cmFuc2xhdGVdPSInQ09NTU9OOkFERF9GVU5EUyciPjwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aDEgY2xhc3M9ImlzcC13aWRnZXRfX3RpdGxlIGlzcC13aWRnZXRfX3RpdGxlIGlzcC13aWRnZXRfX3RpdGxlX2Zvcl9iYW5rLXBheW1lbnQiPnt7ICdQQVlNRU5UOjJDQ19IRUFERVJfVElUTEUnIHwgdHJhbnNsYXRlIH19PC9oMT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxwIGNsYXNzPSJpc3AtY2xpZW50LWNvZGUgaXNwLWFjY291bnQtaW5mb19fY2xpZW50LWNvZGUiIFtpc3AtdHJhbnNsYXRlXT0iJ1VTRVI6Q0xJRU5UX0lEJyIgW2lzcC10cmFuc2xhdGUtcGFyYW1zXT0ieyB2YWx1ZTogdXNlci5hY2NvdW50SWQgfSI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iaXNwLWxheW91dCI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPC9uZy10ZW1wbGF0ZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</last-search>
+      <last-search>payment</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</last-pattern>
+      <last-pattern>payment</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>actual</entry>
-        <entry encoding="base64">XDxoYXNBZGRpdGlvbmFsU2NoZWR1bGVzXD4=</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0TW9udGhEYXRhXD4=</entry>
-        <entry encoding="base64">XDxpbmRleGVkQWRkaXRpb25hbFNjaGVkdWxlc1w+</entry>
-        <entry>T13Report.correction</entry>
-        <entry encoding="base64">XDxidXR0b25zXD4=</entry>
         <entry>wrap</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZXNDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
@@ -1786,6 +1867,12 @@
         <entry encoding="base64">XDxfc2VsZWN0VmFsdWVcPg==</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</entry>
+        <entry>scrollbar</entry>
+        <entry>scroll</entry>
+        <entry>_groups</entry>
+        <entry encoding="base64">XDxfZ3JvdXBzXD4=</entry>
+        <entry encoding="base64">XDxTd2l0Y2hlck1vZHVsZVw+</entry>
+        <entry>payment</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>
@@ -1796,6 +1883,7 @@
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

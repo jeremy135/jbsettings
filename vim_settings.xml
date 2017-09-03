@@ -112,10 +112,6 @@
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" timestamp="1503830448894">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="472" column="60" />
-        <mark key="]" line="473" column="54" />
-        <mark key="^" line="473" column="54" />
-        <mark key="." line="473" column="54" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/TelephonyStatus/TelephonyStatus.js" timestamp="1495722896013">
         <mark key="[" line="104" column="18" />
@@ -203,12 +199,6 @@
         <mark key="]" line="428" column="47" />
         <mark key="." line="428" column="47" />
         <mark key="^" line="428" column="47" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/payment/templates/bank-payment.component.html" timestamp="1503842130299">
-        <mark key="[" line="28" column="151" />
-        <mark key="]" line="30" column="143" />
-        <mark key="." line="30" column="143" />
-        <mark key="^" line="30" column="143" />
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/item/item-main/server-item-main.component.ts" timestamp="1500039524685">
         <mark key="[" line="0" column="24" />
@@ -1007,12 +997,6 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/payment/components/bank-payment.component.ts" timestamp="1503842094739">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="31" />
-        <mark key="." line="55" column="31" />
-        <mark key="^" line="55" column="31" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/components/user-profile-settings.component.ts" timestamp="1496039895658">
         <mark key="[" line="42" column="87" />

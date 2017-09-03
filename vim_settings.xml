@@ -842,6 +842,7 @@
         <mark key="." line="50" column="46" />
         <mark key="^" line="50" column="46" />
       </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/typedoc.json" timestamp="1504403155407" />
       <file name="/Volumes/Home/Web-dev/kmsfront/src/frontend/bundles/articles/reducers/users.js" timestamp="1492605488821">
         <mark key="[" line="37" column="69" />
         <mark key="]" line="38" column="5" />
@@ -992,12 +993,6 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/isp-server/order/server-order/server-order.component.ts" timestamp="1500038524121">
-        <mark key="'" line="99" column="10" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/user/components/user-profile-settings.component.ts" timestamp="1496039895658">
         <mark key="[" line="42" column="87" />
         <mark key="]" line="43" column="43" />
@@ -1021,6 +1016,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/bill-client-front/gulpfile.js" timestamp="1504403908622">
+        <mark key="[" line="235" column="32" />
+        <mark key="]" line="235" column="36" />
+        <mark key="^" line="235" column="36" />
+        <mark key="." line="235" column="36" />
       </file>
       <file name="vim_settings.xml" timestamp="1503828636893">
         <mark key="[" line="0" column="0" />
@@ -1207,10 +1208,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImlzcC1sYXlvdXRfX2Jsb2NrIj4KICAgICAgICAgICAgPG9sIGNsYXNzPSJpc3AtbGlzdCBpc3AtbGlzdF90aGVtZV9pbmxpbmUgaXNwLWxpc3RfdGhlbWVfaW5saW5lLWRlY2ltYWwiPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0iaXNwLWxpc3RfX2l0ZW0gaXNwLXdpZGdldF9fc3RlcCBpc3Atd2lkZ2V0X19zdGVwX2Zvcl9wcm9maWxlIiBbbmdDbGFzc109InsnaXNwLXdpZGdldF9fc3RlcF9pc19hY3RpdmUnOiAoc3RlcE5hbWUgPT09ICdwcm9maWxlJyl9Ij57eyAnQkFOS19QQVlNRU5UOlNURVBfMScgfCB0cmFuc2xhdGUgfX08L2xpPgogICAgICAgICAgICAgIDxsaSBjbGFzcz0iaXNwLWxpc3RfX2l0ZW0gaXNwLXdpZGdldF9fc3RlcCBpc3Atd2lkZ2V0X19zdGVwX2Zvcl8iICBbbmdDbGFzc109InsnaXNwLXdpZGdldF9fc3RlcF9pc19hY3RpdmUnOiAoc3RlcE5hbWUgPT09ICdhcHByb3ZlcicpfSI+e3sgJ0JBTktfUEFZTUVOVDpTVEVQXzInIHwgdHJhbnNsYXRlIH19PC9saT4KICAgICAgICAgICAgICA8bGkgY2xhc3M9ImlzcC1saXN0X19pdGVtIGlzcC13aWRnZXRfX3N0ZXAgaXNwLXdpZGdldF9fc3RlcF9mb3JfZG9uZSIgW25nQ2xhc3NdPSJ7J2lzcC13aWRnZXRfX3N0ZXBfaXNfYWN0aXZlJzogKHN0ZXBOYW1lID09PSAnZG9uZScpfSI+e3sgJ0JBTktfUEFZTUVOVDpTVEVQXzMnIHwgdHJhbnNsYXRlIH19PC9saT4KICAgICAgICAgICAgPC9vbD4KICAgICAgICAgIDwvZGl2Pg==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>payment</text>

@@ -200,6 +200,12 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/extform.xsl" timestamp="1506318519906">
+        <mark key="[" line="230" column="181" />
+        <mark key="]" line="230" column="182" />
+        <mark key="^" line="230" column="82" />
+        <mark key="." line="230" column="181" />
+      </file>
       <file name="/Volumes/Home/Web-dev/componentstore/src/app/components/switcher/index.ts" timestamp="1498994284555">
         <mark key="[" line="1" column="24" />
         <mark key="]" line="1" column="22" />
@@ -540,7 +546,11 @@
         <mark key="^" line="118" column="9" />
         <mark key="." line="118" column="9" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" timestamp="1506314575596" />
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" timestamp="1506318019031">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/auth/components/auth.component.ts" timestamp="1496038864096">
         <mark key="[" line="46" column="62" />
         <mark key="]" line="47" column="60" />
@@ -1154,7 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="6" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="163" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="153" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="47" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -1254,22 +1263,23 @@
       <jump line="37" column="4" filename="/Volumes/Home/Web-dev/bill-client-front/src/common/common/shared.form.module.ts" />
       <jump line="0" column="0" filename="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" />
       <jump line="89" column="38" filename="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/dedic/dashboard-start/dedic-dashboard-start.component.html" />
+      <jump line="90" column="7" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdWw+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>payment</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgPCEtLVJFQ0NPTUVORCBQTEFOUyAtLT4KICAgICAgPHNlY3Rpb24gY2xhc3M9ImlzcC1wcm9kdWN0LXByZXZpZXcgaXNwLWRhc2hib2FyZC1wbGFucy1wcmV2aWV3IiAqbmdGb3I9ImxldCBncm91cCBvZiBncm91cHMiPgogICAgICAgIDxoZWFkZXIgY2xhc3M9ImlzcC1wcm9kdWN0LXByZXZpZXdfX2hlYWRlciBpc3AtZGFzaGJvYXJkLXBsYW5zLXByZXZpZXdfX2hlYWRlciBpc3AtbGF5b3V0Ij4KICAgICAgICAgIDxkaXYgY2xhc3M9ImlzcC1sYXlvdXRfX2Jsb2NrIGlzcC1sYXlvdXRfX2Jsb2NrX3Nocmlua19ubyI+CiAgICAgICAgICAgIDxpbWcgY2xhc3M9ImlzcC1wcm9kdWN0LXByZXZpZXdfX2xvZ28gaXNwLWRhc2hib2FyZC1wbGFucy1wcmV2aWV3X19sb2dvIgogICAgICAgICAgICAgICAgIFtzcmNdPSJncm91cC5sb2dvIgogICAgICAgICAgICAgICAgIGFsdD0iIj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iaXNwLWxheW91dF9fYmxvY2siPgogICAgICAgICAgICA8cCBjbGFzcz0iaXNwLXRpdGxlIiBbaXNwLXRyYW5zbGF0ZV09Imdyb3VwLnRpdGxlIj48L3A+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2hlYWRlcj4KCiAgICAgICAgPGRpdiBjbGFzcz0iaXNwLXByb2R1Y3QtcHJldmlld19fbWFpbiBpc3AtZGFzaGJvYXJkLXBsYW5zLXByZXZpZXdfX21haW4iPgogICAgICAgICAgPHVsIGNsYXNzPSJpc3AtbGlzdCI+CiAgICAgICAgICAgIDxsaSBjbGFzcz0iaXNwLWxpc3RfX2l0ZW0gaXNwLWxpc3RfX2l0ZW1fY29tcGFjdCIKICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ieydpc3AtbGlzdF9faXRlbV9tYWluJzogaT09PTB9IgogICAgICAgICAgICAgICAgKm5nRm9yPSJsZXQgaXRlbSBvZiBncm91cC5pdGVtczsgbGV0IGk9aW5kZXgiPgogICAgICAgICAgICAgIDxzcGFuIFtjbGFzc109Iidpc3AtaWNvbiBpc3AtaWNvbl8nICsgaXRlbS5zdGF0dXMgKyAnIGlzcC1pY29uXycgKyBpdGVtLnN0YXR1cyArICdfaXRlbS1saXN0JyI+PC9zcGFuPgogICAgICAgICAgICAgIDxwIGNsYXNzPSJpc3AtZGFzaGJvYXJkLXBsYW5zLXByZXZpZXdfX2l0ZW0tdGV4dCIgW2lzcC10cmFuc2xhdGVdPSJpdGVtLnRleHQiPjwvcD4KICAgICAgICAgICAgICA8aW1nICpuZ0lmPSJpdGVtLmltZyIgY2xhc3M9ImlzcC1kYXNoYm9hcmQtcGxhbnMtcHJldmlld19faXRlbS1pbWciIFtzcmNdPSJpdGVtLmltZyIvPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgPC91bD4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGZvb3RlciBjbGFzcz0iaXNwLXByb2R1Y3QtcHJldmlld19fZm9vdGVyIGlzcC1kYXNoYm9hcmQtcGxhbnMtcHJldmlld19fZm9vdGVyIj4KICAgICAgICAgIDxwIGNsYXNzPSJpc3AtZGFzaGJvYXJkLXBsYW5zLXByZXZpZXdfX3ByaWNlIj4KICAgICAgICAgICAgPHNwYW4gW2lzcC10cmFuc2xhdGVdPSInRklSU1RTU0w6REFTSEJPQVJELVBMQU5TX19NSU4tQ09TVCciIFtpc3AtdHJhbnNsYXRlLXBhcmFtc109InttaW5Db3N0OiBncm91cC5taW5Db3N0LCBjdXJyZW5jeTogZ3JvdXAuY3VycmVuY3l9Ij48L3NwYW4+CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8dWwgY2xhc3M9ImlzcC1saXN0IGlzcC1saXN0X3RoZW1lX2lubGluZSI+CiAgICAgICAgICAgIDxsaSBjbGFzcz0iaXNwLWxpc3RfX2l0ZW0iPgogICAgICAgICAgICAgIDxhIFtyb3V0ZXJMaW5rXT0iJy9zc2wvb3JkZXIvcGxhbnMvYWxsLycgKyBncm91cC50eXBlIgogICAgICAgICAgICAgICAgIGNsYXNzPSJpc3AtYnV0dG9uIGlzcC1idXR0b25fdGhlbWVfeWVsbG93IgogICAgICAgICAgICAgICAgIFtpc3AtdHJhbnNsYXRlXT0iJ0NPTU1PTjpPUkRFUiciPjwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9mb290ZXI+CiAgICAgIDwvc2VjdGlvbj4=</text>
+        <text>$default-button/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1850,28 +1860,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nICpuZ0lmPSJpdGVtLmltZyIgY2xhc3M9ImlzcC1kYXNoYm9hcmQtcGxhbnMtcHJldmlld19faXRlbS1pbWciIFtzcmNdPSJpdGVtLmltZyIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBbY2xhc3NdPSInaXNwLWljb24gaXNwLWljb25fJyArIGl0ZW0uc3RhdHVzICsgJyBpc3AtaWNvbl8nICsgaXRlbS5zdGF0dXMgKyAnX2l0ZW0tbGlzdCciPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICpuZ0Zvcj0ibGV0IGl0ZW0gb2YgZ3JvdXAuaXRlbXM7IGxldCBpPWluZGV4Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nICpuZ0lmPSJpdGVtLmltZyIgY2xhc3M9ImlzcC1kYXNoYm9hcmQtcGxhbnMtcHJldmlld19faXRlbS1pbWciIFtzcmNdPSJpdGVtLmltZyIvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ieydpc3AtbGlzdF9faXRlbV9tYWluJzogaT09PTB9Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBbY2xhc3NdPSInaXNwLWljb24gaXNwLWljb25fJyArIGl0ZW0uc3RhdHVzICsgJyBpc3AtaWNvbl8nICsgaXRlbS5zdGF0dXMgKyAnX2l0ZW0tbGlzdCciPjwvc3Bhbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJpc3AtbGlzdF9faXRlbSBpc3AtbGlzdF9faXRlbV9jb21wYWN0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICpuZ0Zvcj0ibGV0IGl0ZW0gb2YgZ3JvdXAuaXRlbXM7IGxldCBpPWluZGV4Ij4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDx1bCBjbGFzcz0iaXNwLWxpc3QiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ieydpc3AtbGlzdF9faXRlbV9tYWluJzogaT09PTB9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbc3JjXT0iZ3JvdXAubG9nbyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJpc3AtbGlzdF9faXRlbSBpc3AtbGlzdF9faXRlbV9jb21wYWN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

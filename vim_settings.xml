@@ -9,8 +9,12 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/desktop.xsl" timestamp="1506326290827">
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/desktop.xsl" timestamp="1506326317176">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="350" column="79" />
+        <mark key="]" line="350" column="67" />
+        <mark key="^" line="350" column="67" />
+        <mark key="." line="350" column="67" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/common/wizard/super.wizard.component.ts" timestamp="1490149736140">
         <mark key="[" line="20" column="29" />
@@ -112,9 +116,6 @@
         <mark key="]" line="3" column="25" />
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" timestamp="1503830448894">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/TelephonyStatus/TelephonyStatus.js" timestamp="1495722896013">
         <mark key="[" line="104" column="18" />
@@ -1294,7 +1295,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>license</text>
+        <text>lice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgnI2ktY2xpY2tlZC1idXR0b24taW5ucHV0JykudmFsKG5hbWUpOwo=</text>
@@ -1909,9 +1910,9 @@
       </register>
     </registers>
     <search>
-      <last-search>license</last-search>
+      <last-search>lice</last-search>
       <last-offset />
-      <last-pattern>license</last-pattern>
+      <last-pattern>lice</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1919,7 +1920,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRWYWx1ZXNDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
         <entry>schedule__timeline</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZVRpbWVzXD4=</entry>
@@ -1939,6 +1939,7 @@
         <entry encoding="base64">XDxTd2l0Y2hlck1vZHVsZVw+</entry>
         <entry>payment</entry>
         <entry>license</entry>
+        <entry>lice</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

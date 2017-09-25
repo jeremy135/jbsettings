@@ -9,6 +9,9 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/desktop.xsl" timestamp="1506326290827">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/common/wizard/super.wizard.component.ts" timestamp="1490149736140">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="21" column="36" />
@@ -205,12 +208,6 @@
         <mark key="]" line="16" column="16" />
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
-      </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/extform.xsl" timestamp="1506323022798">
-        <mark key="[" line="215" column="111" />
-        <mark key="]" line="215" column="111" />
-        <mark key="^" line="216" column="33" />
-        <mark key="." line="215" column="111" />
       </file>
       <file name="/Volumes/Home/Web-dev/componentstore/src/app/components/switcher/index.ts" timestamp="1498994284555">
         <mark key="[" line="1" column="24" />
@@ -553,11 +550,7 @@
         <mark key="^" line="118" column="9" />
         <mark key="." line="118" column="9" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" timestamp="1506324676814">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-      </file>
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" timestamp="1506324676814" />
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/auth/components/auth.component.ts" timestamp="1496038864096">
         <mark key="[" line="46" column="62" />
         <mark key="]" line="47" column="60" />
@@ -1192,7 +1185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="2" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="153" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="47" column="31" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
       <jump line="365" column="22" filename="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/IntervalInput/IntervalInputContainer/IntervalInputContainer.js" />
@@ -1292,6 +1284,7 @@
       <jump line="0" column="0" filename="/Volumes/Home/Web-dev/bill-client-front/i18n/ntfb_msg_ru.xml" />
       <jump line="89" column="38" filename="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/dedic/dashboard-start/dedic-dashboard-start.component.html" />
       <jump line="90" column="7" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" />
+      <jump line="0" column="0" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/desktop.xsl" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1301,7 +1294,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>payment</text>
+        <text>license</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgnI2ktY2xpY2tlZC1idXR0b24taW5ucHV0JykudmFsKG5hbWUpOwo=</text>
@@ -1916,9 +1909,9 @@
       </register>
     </registers>
     <search>
-      <last-search>payment</last-search>
+      <last-search>license</last-search>
       <last-offset />
-      <last-pattern>payment</last-pattern>
+      <last-pattern>license</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1926,7 +1919,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrap</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZXNDb2x1bW5zXD4=</entry>
         <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
         <entry>schedule__timeline</entry>
@@ -1946,6 +1938,7 @@
         <entry encoding="base64">XDxfZ3JvdXBzXD4=</entry>
         <entry encoding="base64">XDxTd2l0Y2hlck1vZHVsZVw+</entry>
         <entry>payment</entry>
+        <entry>license</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

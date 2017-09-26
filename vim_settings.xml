@@ -781,7 +781,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" timestamp="1506331534154">
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" timestamp="1506397471009">
         <mark key="'" line="2506" column="54" />
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common-bill/dedic/widget/stat/scss/isp-dedic-widget-stat/_isp-dedic-widget-stat.scss" timestamp="1505432831752">
@@ -1113,10 +1113,12 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/login.xsl" timestamp="1506329886977">
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/login.xsl" timestamp="1506397482727">
         <mark key="'" line="57" column="59" />
-        <mark key="[" line="106" column="32" />
-        <mark key="." line="106" column="42" />
+        <mark key="[" line="101" column="214" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/date-range/index.ts" timestamp="1499006009917">
         <mark key="[" line="14" column="24" />

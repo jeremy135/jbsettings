@@ -246,8 +246,19 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" timestamp="1506402609008">
-        <mark key="'" line="64" column="12" />
+      <file name="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" timestamp="1506403811549">
+        <mark key="'" line="246" column="55" />
+        <mark key="[" line="161" column="63" />
+        <mark key="]" line="159" column="49" />
+        <mark key="^" line="159" column="49" />
+        <mark key="." line="159" column="49" />
+      </file>
+      <file name="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" timestamp="1506403841784">
+        <mark key="'" line="39" column="7" />
+        <mark key="[" line="418" column="45" />
+        <mark key="]" line="418" column="60" />
+        <mark key="^" line="418" column="60" />
+        <mark key="." line="418" column="60" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/imitate-radio/imitate-radio.scss" timestamp="1495549743882">
         <mark key="[" line="1" column="0" />
@@ -666,7 +677,7 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506402482648">
+      <file name="/Dummy.txt" timestamp="1506403777786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/graph/graph.scss" timestamp="1495330665626">
@@ -1237,16 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="7" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" />
-      <jump line="0" column="0" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/desktop.xsl" />
-      <jump line="102" column="5" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/App.ExtFormHelper.js" />
-      <jump line="46" column="46" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
-      <jump line="100" column="68" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/login.xsl" />
-      <jump line="646" column="89" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
-      <jump line="3150" column="6" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
-      <jump line="31" column="16" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
-      <jump line="3165" column="36" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
-      <jump line="293" column="43" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
       <jump line="298" column="49" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
       <jump line="665" column="31" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
       <jump line="668" column="50" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/src/modules.xsl" />
@@ -1337,19 +1338,29 @@
       <jump line="169" column="11" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
       <jump line="273" column="11" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
       <jump line="64" column="12" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
+      <jump line="199" column="8" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
+      <jump line="27" column="7" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="574" column="11" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="573" column="13" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="563" column="11" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="562" column="13" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="415" column="11" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="39" column="7" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/services/chatService.js" />
+      <jump line="225" column="17" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
+      <jump line="246" column="55" filename="/Volumes/Home/Web-dev/billchat/helpdesk/app/scripts/controllers/chatController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly92YXIgRk9MREVSID0gJ3pvZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi5jaGF0TGlzdERldGFpbHNbY2hhdF9pZF0uY2xpZW50X2lkID0gY2xpZW50X2lkOwo=</text>
       </register>
       <register name="-" type="4">
         <text>default/index.css default/extform.css default/index.min.cs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdpc3RlckNsaWVudENhbGxiYWNrXD4=</text>
+        <text>updateChatClient</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJCgnI2ktY2xpY2tlZC1idXR0b24taW5ucHV0JykudmFsKG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgc2VsZi5jaGF0TGlzdERldGFpbHNbY2hhdF9pZF0uY2xpZW50X2lkID0gY2xpZW50X2lkOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly92YXIgRk9MREVSID0gJ3pvZSc7Cg==</text>
@@ -1961,19 +1972,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdpc3RlckNsaWVudENhbGxiYWNrXD4=</last-search>
+      <last-search>updateChatClient</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdpc3RlckNsaWVudENhbGxiYWNrXD4=</last-pattern>
+      <last-pattern>updateChatClient</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>scroll</entry>
-        <entry>_groups</entry>
-        <entry encoding="base64">XDxfZ3JvdXBzXD4=</entry>
         <entry encoding="base64">XDxTd2l0Y2hlck1vZHVsZVw+</entry>
         <entry>payment</entry>
         <entry>license</entry>
@@ -1988,9 +1996,12 @@
         <entry>login</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
         <entry>client_id</entry>
-        <entry encoding="base64">XDxjaGVja0NsaWVudElkXD4=</entry>
         <entry encoding="base64">XDxzZXRDbGllbnRJZFw+</entry>
         <entry encoding="base64">XDxyZWdpc3RlckNsaWVudENhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0NsaWVudElkXD4=</entry>
+        <entry encoding="base64">XDxjaGF0TGlzdERldGFpbHNcPg==</entry>
+        <entry encoding="base64">XDx1cGRhdGVDaGF0Q2xpZW50XD4=</entry>
+        <entry>updateChatClient</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

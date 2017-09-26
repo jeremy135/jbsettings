@@ -1011,6 +1011,13 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/login.xsl" timestamp="1506398730650">
+        <mark key="'" line="61" column="49" />
+        <mark key="[" line="1" column="78" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/tslint1.json" timestamp="1490149480706">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -1221,7 +1228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="32" filename="$USER_HOME$/Web-dev/new-bill-theme/src/firstdedic/assets/sass/_theme.scss" />
       <jump line="87" column="46" filename="/Volumes/Home/Web-dev/componentstore/src/app/components/switcher/switcher.ts" />
       <jump line="234" column="11" filename="/Volumes/Home/Web-dev/componentstore/src/app/components/switcher/switcher.ts" />
       <jump line="153" column="11" filename="/Volumes/Home/Web-dev/componentstore/src/app/components/switcher/switcher.ts" />
@@ -1321,6 +1327,7 @@
       <jump line="556" column="11" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/Gruntfile.js" />
       <jump line="558" column="29" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/Gruntfile.js" />
       <jump line="560" column="35" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/Gruntfile.js" />
+      <jump line="61" column="49" filename="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/login.xsl" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1330,7 +1337,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxyZWRpcmVjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJCgnI2ktY2xpY2tlZC1idXR0b24taW5ucHV0JykudmFsKG5hbWUpOwo=</text>
@@ -1945,17 +1952,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxyZWRpcmVjdFw+</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRpcmVjdFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2V0U2VsZWN0aW9uQnlWYWx1ZVw+</entry>
         <entry encoding="base64">XDxfc2VsZWN0VmFsdWVcPg==</entry>
         <entry>disabled</entry>
         <entry encoding="base64">XDxTaGFyZWREcm9wZG93bk1vZHVsZVw+</entry>
@@ -1975,6 +1981,7 @@
         <entry>doc</entry>
         <entry>doc\/error</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

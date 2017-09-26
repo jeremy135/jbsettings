@@ -1011,12 +1011,12 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/login.xsl" timestamp="1506398730650">
-        <mark key="'" line="61" column="49" />
-        <mark key="[" line="1" column="78" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/login.xsl" timestamp="1506399677382">
+        <mark key="'" line="76" column="49" />
+        <mark key="[" line="0" column="72" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/app/tslint1.json" timestamp="1490149480706">
         <mark key="[" line="46" column="0" />
@@ -1120,7 +1120,7 @@
         <mark key="." line="78" column="29" />
         <mark key="^" line="78" column="29" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/login.xsl" timestamp="1506398308472">
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/orion/login.xsl" timestamp="1506399129073">
         <mark key="'" line="57" column="59" />
         <mark key="i" line="100" column="67" />
         <mark key="[" line="100" column="67" />
@@ -1138,10 +1138,11 @@
       <file name="vim_settings.xml" timestamp="1503828636893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/Gruntfile.js" timestamp="1506324246574">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/Volumes/Home/Web-dev/core-manager/dist/skins/z-mobile/Gruntfile.js" timestamp="1506399570749">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/components/flex/__item/_flex__item.scss" timestamp="1496321127550">
         <mark key="[" line="1" column="0" />
@@ -1331,10 +1332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIGtpdHR5IGV4dG9rCg==</text>
+        <text encoding="base64">Ly92YXIgRk9MREVSID0gJ3pvZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>default/index.css default/extform.css default/index.min.cs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpcmVjdFw+</text>
@@ -1343,7 +1344,7 @@
         <text encoding="base64">ICAgICAgJCgnI2ktY2xpY2tlZC1idXR0b24taW5ucHV0JykudmFsKG5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIGtpdHR5IGV4dG9rCg==</text>
+        <text encoding="base64">Ly92YXIgRk9MREVSID0gJ3pvZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1923,29 +1924,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlbGxvIGtpdHR5Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgPHhzbDp2YXJpYWJsZSBuYW1lPSJlcnJvcjEiPgogICAgICAgICAgPHhzbDpjYWxsLXRlbXBsYXRlIG5hbWU9InN0cmluZy1yZXBsYWNlLWFsbCI+CiAgICAgICAgICAgICAgPHhzbDp3aXRoLXBhcmFtIG5hbWU9InRleHQiIHNlbGVjdD0iL2RvYy9lcnJvci9tc2ciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0icmVwbGFjZSIgc2VsZWN0PSInPiciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0iYnkiIHNlbGVjdD0iJyZhbXA7Z3Q7JyIvPgogICAgICAgICAgICA8L3hzbDpjYWxsLXRlbXBsYXRlPgogICAgICAgICAgPC94c2w6dmFyaWFibGU+CiAgICAgICAgICA8eHNsOnZhcmlhYmxlIG5hbWU9ImVycm9yMiI+CiAgICAgICAgICAgIDx4c2w6Y2FsbC10ZW1wbGF0ZSBuYW1lPSJzdHJpbmctcmVwbGFjZS1hbGwiPgogICAgICAgICAgICAgIDx4c2w6d2l0aC1wYXJhbSBuYW1lPSJ0ZXh0IiBzZWxlY3Q9IiRlcnJvcjEiLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0icmVwbGFjZSIgc2VsZWN0PSInJmx0OyciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0iYnkiIHNlbGVjdD0iJyZhbXA7bHQ7JyIvPgogICAgICAgICAgICA8L3hzbDpjYWxsLXRlbXBsYXRlPgogICAgICAgICAgPC94c2w6dmFyaWFibGU+</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIGtpdHR5IG1vZHVsZXMK</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlbGxvIGtpdHR5IG1vZHVsZXMK</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgIDx4c2w6dmFyaWFibGUgbmFtZT0iZXJyb3IxIj4KICAgICAgICAgICAgPHhzbDpjYWxsLXRlbXBsYXRlIG5hbWU9InN0cmluZy1yZXBsYWNlLWFsbCI+CiAgICAgICAgICAgICAgPHhzbDp3aXRoLXBhcmFtIG5hbWU9InRleHQiIHNlbGVjdD0iL2RvYy9lcnJvci9tc2ciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0icmVwbGFjZSIgc2VsZWN0PSInPiciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0iYnkiIHNlbGVjdD0iJyZhbXA7Z3Q7JyIvPgogICAgICAgICAgICA8L3hzbDpjYWxsLXRlbXBsYXRlPgogICAgICAgICAgPC94c2w6dmFyaWFibGU+CiAgICAgICAgICA8eHNsOnZhcmlhYmxlIG5hbWU9ImVycm9yMiI+CiAgICAgICAgICAgIDx4c2w6Y2FsbC10ZW1wbGF0ZSBuYW1lPSJzdHJpbmctcmVwbGFjZS1hbGwiPgogICAgICAgICAgICAgIDx4c2w6d2l0aC1wYXJhbSBuYW1lPSJ0ZXh0IiBzZWxlY3Q9IiRlcnJvcjEiLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0icmVwbGFjZSIgc2VsZWN0PSInJmx0OyciLz4KICAgICAgICAgICAgICA8eHNsOndpdGgtcGFyYW0gbmFtZT0iYnkiIHNlbGVjdD0iJyZhbXA7bHQ7JyIvPgogICAgICAgICAgICA8L3hzbDpjYWxsLXRlbXBsYXRlPgogICAgICAgICAgPC94c2w6dmFyaWFibGU+</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3Bvc3QgZmRmZCcpOwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

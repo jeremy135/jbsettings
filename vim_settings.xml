@@ -39,6 +39,9 @@
         <mark key="^" line="17" column="41" />
         <mark key="." line="17" column="41" />
       </file>
+      <file name="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" timestamp="1511509666169">
+        <mark key="'" line="110" column="154" />
+      </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/ispmodule/components/ispmodule-edit.component.ts" timestamp="1495679640953">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="184" />
@@ -352,6 +355,11 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Downloads/client/style.98c13a1c6020ccfed7cd.css" timestamp="1511509371654">
+        <mark key="[" line="0" column="833" />
+        <mark key="]" line="0" column="835" />
+        <mark key="." line="0" column="835" />
+      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1496149163292">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="140" column="65" />
@@ -412,6 +420,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1499159036746">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/support/components/support-menu.component.ts" timestamp="1495610714762">
         <mark key="[" line="70" column="6" />
@@ -532,12 +546,6 @@
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1499159036746">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/TasksList/TasksList.js" timestamp="1492616933564">
         <mark key="[" line="93" column="61" />
@@ -1068,15 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="33" filename="$USER_HOME$/Web-dev/new-bill-theme/i18n/ntfb_msg_ru.xml" />
-      <jump line="61" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
-      <jump line="18" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
-      <jump line="179" column="2" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/basket/basket.service.ts" />
-      <jump line="27" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/firstssl/app/app.component.ts" />
-      <jump line="101" column="54" filename="$USER_HOME$/Web-dev/new-bill-theme/src/firstssl/app/app.component.ts" />
-      <jump line="70" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
-      <jump line="62" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
-      <jump line="58" column="4" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/license.module.ts" />
       <jump line="210" column="69" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
       <jump line="17" column="9" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/license/components/license-list.component.ts" />
       <jump line="57" column="18" filename="$USER_HOME$/Web-dev/new-bill-theme/src/common/common/filter/filter.service.ts" />
@@ -1168,6 +1167,15 @@
       <jump line="1334" column="10" filename="$USER_HOME$/Web-dev/billchat/backend/lib/chat.js" />
       <jump line="330" column="26" filename="$USER_HOME$/Web-dev/billchat/backend/routes/chatApi.js" />
       <jump line="104" column="19" filename="$USER_HOME$/Web-dev/billchat/backend/routes/chatApi.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="3" column="4" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="5" column="123" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="28" column="4" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="29" column="6" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="30" column="154" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
+      <jump line="110" column="154" filename="$USER_HOME$/Downloads/client/0.98c13a1c6020ccfed7cd.chunk.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1177,7 +1185,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</text>
+        <text>--isp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sb3IucmVkKCdTRVRBR0VOVCcpLCAxLCBkKTsK</text>
@@ -1792,19 +1800,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</last-search>
+      <last-search>--isp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</last-pattern>
+      <last-pattern>--isp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRIZWFkZXJDb250ZXh0TWVudUl0ZW1zXD4=</entry>
-        <entry>schedule__timeline</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVRpbWVzXD4=</entry>
         <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxTY2hlZHVsZUVkaXRvckNvbnRhaW5lclw+</entry>
@@ -1822,6 +1827,9 @@
         <entry encoding="base64">XDxhZ2VudERhdGFcPg==</entry>
         <entry encoding="base64">XDxzZXRBZ2VudFRvQ2hhdFw+</entry>
         <entry encoding="base64">XDxhc3NpZ25lZEFnZW50XD4=</entry>
+        <entry>var</entry>
+        <entry>--</entry>
+        <entry>--isp</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

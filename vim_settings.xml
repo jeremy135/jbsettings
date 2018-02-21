@@ -355,11 +355,6 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Downloads/client/style.98c13a1c6020ccfed7cd.css" timestamp="1511509371654">
-        <mark key="[" line="0" column="833" />
-        <mark key="]" line="0" column="835" />
-        <mark key="." line="0" column="835" />
-      </file>
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/schedule/components/ScheduleGenerateForm/ScheduleGenerateForm.js" timestamp="1496149163292">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="140" column="65" />
@@ -706,6 +701,7 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="$USER_HOME$/Downloads/client/32.98c13a1c6020ccfed7cd.chunk.js" timestamp="1511510094462" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/SettingsMenu/SettingsMenu.js" timestamp="1494425317926">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="37" column="98" />
@@ -1185,7 +1181,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>--isp</text>
+        <text>vds</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sb3IucmVkKCdTRVRBR0VOVCcpLCAxLCBkKTsK</text>
@@ -1800,9 +1796,9 @@
       </register>
     </registers>
     <search>
-      <last-search>--isp</last-search>
+      <last-search>vds</last-search>
       <last-offset />
-      <last-pattern>--isp</last-pattern>
+      <last-pattern>vds</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaWx0ZXJQYXJhbVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1810,8 +1806,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250ZXh0TWVudUl0ZW1zXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxTY2hlZHVsZUVkaXRvckNvbnRhaW5lclw+</entry>
         <entry encoding="base64">XDxnZXRCb3R0b21Db2x1bW5zXD4=</entry>
         <entry>updateDay</entry>
@@ -1830,6 +1824,8 @@
         <entry>var</entry>
         <entry>--</entry>
         <entry>--isp</entry>
+        <entry>isp-vds</entry>
+        <entry>vds</entry>
       </history-search>
       <history-cmd>
         <entry>345</entry>

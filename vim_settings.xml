@@ -328,13 +328,14 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/vdc/open/vm-list/vdc-open-vm-list.component.ts" timestamp="1519210814685" />
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/vdc/open/vm-list/vdc-open-vm-list.component.ts" timestamp="1519284315884" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/css/common/radio-button-group.scss" timestamp="1496149977580">
         <mark key="[" line="16" column="3" />
         <mark key="]" line="20" column="26" />
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/vdc/open/vdc-open.module.ts" timestamp="1519284234142" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/common/components/ChangeQueueForm/index.js" timestamp="1491227448022">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -474,7 +475,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/meta-table/meta-table.component.html" timestamp="1519211233716" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/Offices/officesTheme.js" timestamp="1496066579067">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -706,6 +706,7 @@
         <mark key="." line="43" column="43" />
         <mark key="^" line="43" column="43" />
       </file>
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/meta-table/meta-table.module.ts" timestamp="1519284208601" />
       <file name="/Volumes/Home/Web-dev/wfmfront/app/src/frontend/bundles/settings/components/SettingsMenu/SettingsMenu.js" timestamp="1494425317926">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="37" column="98" />
@@ -776,6 +777,7 @@
         <mark key="^" line="28" column="16" />
         <mark key="." line="28" column="16" />
       </file>
+      <file name="$USER_HOME$/Web-dev/bill-client-front/src/common-bill/vdc/open/vm-list/vdc-open-vm-list.service.ts" timestamp="1519284333628" />
       <file name="/Volumes/Home/Web-dev/bill-client-front/src/common/common/switcher/scss/switcher.scss" timestamp="1499005782041">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="19" />
@@ -957,7 +959,7 @@
         <mark key="^" line="137" column="23" />
         <mark key="." line="137" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519183299256">
+      <file name="/Dummy.txt" timestamp="1519284258316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Web-dev/new-bill-theme/src/common/modal-window/index.ts" timestamp="1496127198799">
